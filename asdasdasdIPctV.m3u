@@ -1376,7 +1376,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/hanoi1.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=400&time=${start}&offset=${duration}", HanoiTV1 (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.site/logo/142.png", HanoiTV2 HD (FPT Play)
-https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.site/logo/142.png", HanoiTV2 HD (Gốc)
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.site/logo/142.png", HanoiTV2 HD (TV360)
