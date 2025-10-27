@@ -188,6 +188,7 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 
+
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv2)
@@ -195,7 +196,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv3)
 https://toiyeuvietnam.dpdns.org/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}", VTV2 (TV360) (sv1)
-https://freem3u.xyz/api/live/play.m3u8?vid=3/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=3
 #EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}", VTV2 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (TV360) (sv1)
@@ -236,7 +237,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=8
 https://toiyeuvietnam.dpdns.org/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png, Vietnam Today (TV360) (sv2)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-
 
 
 
@@ -5283,64 +5283,63 @@ https://streaming.kalohan.net/proxy/raliber?mp=/stream
 
 
 
-
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Phò
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Phò
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cakhiahd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Lú
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Lú
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Lử
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Lử
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Khoai
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Khoai
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@khoaihd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Lôi
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Lôi
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@loihd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Cay
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Cay
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Páo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Páo
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Phọt
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Phọt
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phothd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Bùi
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Bùi
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Mao
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Mao
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Mèo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Mèo
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@meohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Mu
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Mu
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Chất
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Chất
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chathd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Cỏ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Cỏ
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Độ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Độ
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@dohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Heo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Heo
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Chuối
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Chuối
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cachuoihd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Bịp
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Bịp
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@biphd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Say
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Say
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sayhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Sún
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Sún
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Tích
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Tích
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@tichhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Nứng 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Nứng 
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Giàng A Bờm 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Bờm 
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Cá Heo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Cá Heo
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: H+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: H+
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Thợ Lặn
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Thợ Lặn
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Thợ Xây
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Thợ Xây
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@thoxayhd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Xi Măng
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Xi Măng
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ximanghd1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://gapcakhia.link/images/logo-ck195.png", BLV: Chu Du
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Chu Du
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuduhd1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-01.jpg", BLV: Giàng A Phang (Ngộ Không)
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1RK.flv
@@ -5350,7 +5349,7 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1RK.flv
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@taohd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-07.png", BLV: Bạch Long Mã
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bachlongmahd1RK.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://bongda.quaytayz.link/images/blv/avatar-06.jpg", BLV: Na Tra
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-06.jpg", BLV: Na Tra
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-08.png", BLV: Ngưu Ma Vương
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1RK.flv
@@ -5358,6 +5357,5 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1RK.flv
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bachcotinhhd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-09.png", BLV: Dương Tiễn
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1RK.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://bongda.quaytayz.link/images/blv/avatar-10.png?v=0.1", BLV: Hồng Hài Nhi
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-10.png?v=0.1", BLV: Hồng Hài Nhi
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@honghanhihd1RK.flv
-
