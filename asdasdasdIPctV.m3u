@@ -9,13 +9,13 @@
 
 #-*-- Livestream -*--#
 #EXTINF:-1 tvg-name="801" group-title="🔴| Livestream | MyTV" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 (FPT) 
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.175:10858
+http://luizkun.duckdns.org:63213/rtp/232.84.2.175:10858
 #EXTINF:-1 tvg-name="802" group-title="🔴| Livestream | MyTV" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD (FPT) 
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.176:10864
+http://luizkun.duckdns.org:63213/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="🔴| Livestream | MyTV" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD (FPT) 
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.195:10954
+http://luizkun.duckdns.org:63213/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="🔴| Livestream | MyTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD (FPT) 
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.196:10960
+http://luizkun.duckdns.org:63213/rtp/232.84.2.196:10960
 
 
 
@@ -308,7 +308,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=175&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg"  catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (MyTV) (FPT)
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
+http://luizkun.duckdns.org:63213/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg"  catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsports
@@ -331,7 +331,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=182&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (MyTV) (FPT)
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.75:11602
+http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
 #EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsplus
@@ -398,7 +398,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=185&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" catchup="append" catchup-days="2" codec="system", ON Football HD (MyTV) (FPT)
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.210:9234
+http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" catchup="append" catchup-days="2" codec="system", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onfootball
@@ -412,7 +412,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=186&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (MyTV) (FPT)
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.193:10942
+http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsnews
@@ -453,7 +453,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=188&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", ON Golf (MyTV) (FPT)
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.246:10876
+http://luizkun.duckdns.org:63213/rtp/232.84.2.246:10876
 #EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=169
@@ -668,28 +668,28 @@ https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png",SCTV15 
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.22:11920
+http://luizkun.duckdns.org:63213/rtp/232.84.3.22:11920
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV16 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv17hd.png",SCTV17 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.20:11932
+http://luizkun.duckdns.org:63213/rtp/232.84.3.20:11932
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/18_664a253b.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV18 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV19 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.18:11944
+http://luizkun.duckdns.org:63213/rtp/232.84.3.18:11944
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV20 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.17:11950
+http://luizkun.duckdns.org:63213/rtp/232.84.3.17:11950
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV21 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.16:11956
+http://luizkun.duckdns.org:63213/rtp/232.84.3.16:11956
 #EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png",SCTV22
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.15:11962
+http://luizkun.duckdns.org:63213/rtp/232.84.3.15:11962
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/82_51400b18.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn",SCTV Phim Tổng Hợp 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
@@ -736,13 +736,13 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=19&&token=202
 https://hls.mskycdn.online/tv/spotv/index.m3u8
 #EXTINF:-1 tvg-id="spotv1" group-title="K+ + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png", SPOTV1 (FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.141:10666
+http://luizkun.duckdns.org:63213/rtp/232.84.2.141:10666
 #EXTINF:-1 tvg-id="spotv2" group-title="K+ + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/spotv2/index.m3u8
 #EXTINF:-1 tvg-id="spotv2" group-title="K+ + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2 (FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.142:10672
+http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 
 
 
@@ -752,25 +752,25 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.2.142:10672
 https://ace.hoiquan.click/?id=KSport1&acc_kenh=vthanh
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f.png", K+ Sport 1 (MyTV) (HD) (FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.125:10326
+http://luizkun.duckdns.org:63213/rtp/232.84.1.125:10326
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K+ Sport 2 (MyTV) (HD)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://ace.hoiquan.click/?id=KSport2&acc_kenh=vthanh
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K+ Sport 2 (MyTV) (HD) (FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.34:8178
+http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ + SPOTV" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ Cine (MyTV) (HD)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/kcinehd/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ + SPOTV" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ Cine (ONPlus) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.122:10314
+http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314
 #EXTINF:-1 tvg-id="kaction" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255.png", K+ Action (MyTV) (HD) 
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/kaction/index.m3u8
 #EXTINF:-1 tvg-id="kactionhd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255.png", K+ Action (MyTV) (HD) (FPT)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) Player (Linux; Android 11)
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.123:10320
+http://luizkun.duckdns.org:63213/rtp/232.84.1.123:10320
 #EXTINF:-1 tvg-id="kactionhd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255.png", K+ Action (MyTV) (HD) (FPT)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) Player (Linux; Android 11)
 https://wbd.x10.bz/tvmp/?id=14
@@ -779,7 +779,7 @@ https://wbd.x10.bz/tvmp/?id=14
 https://toiyeuvietnam.dpdns.org/https.php?id=TokenFuckVThanh
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba.png", K+ Kids (MyTV) (HD) (FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.42:11800
+http://luizkun.duckdns.org:63213/rtp/232.84.3.42:11800
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba.png", K+ Kids (SCTV) (HD)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) Player (Linux; Android 11)
 https://wbd.x10.bz/tvmp?id=15
