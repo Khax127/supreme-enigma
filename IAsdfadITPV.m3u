@@ -5457,7 +5457,6 @@ https://streaming.kalohan.net/proxy/raliber?mp=/stream
 
 
 
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Phò
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cakhiahd1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/logo-ck195.png", BLV: Giàng A Lú
@@ -5527,7 +5526,7 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-02.jpg", BLV: Giàng A Mõm (Bát Giới)
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://bongda.quaytayz.link/images/blv/avatar-04.jpg", BLV: Giàng A Táo (Sa Tăng)
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@taohd1RK.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@taohd1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-07.png", BLV: Bạch Long Mã
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bachlongmahd1RK.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv1" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-06.jpg", BLV: Na Tra
@@ -5612,7 +5611,7 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phanghd1RK/chunkl
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv2" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-02.jpg", BLV: Giàng A Mõm (Bát Giới)
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1RK/chunklist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv2" tvg-logo="https://bongda.quaytayz.link/images/blv/avatar-04.jpg", BLV: Giàng A Táo (Sa Tăng)
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@taohd1RK/chunklist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@taohd1/chunklist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv2" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-07.png", BLV: Bạch Long Mã
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bachlongmahd1RK/chunklist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Cà Khịa TV | sv2" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/avtblv/avatar-06.jpg", BLV: Na Tra
