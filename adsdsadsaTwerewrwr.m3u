@@ -339,7 +339,7 @@ https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
 #EXTINF:0,SCTV3 HD
 #EXTGRP: SCTV
-https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:0,SCTV4 HD
 #EXTGRP: SCTV
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
@@ -351,55 +351,55 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,SCTV6 HD 
 #EXTGRP: SCTV
-https://liveh12.seenow.vn/hls/SCTV6/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV6/index.m3u8
 #EXTINF:0,SCTV7 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
 #EXTINF:0,SCTV8 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
 #EXTINF:0,SCTV9 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV9/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV9/index.m3u8
 #EXTINF:0,SCTV10 
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV10/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
 #EXTINF:0,SCTV11 HD
 #EXTGRP: SCTV 
 https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
 #EXTINF:0,SCTV12 HD
 #EXTGRP: SCTV
-https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV12/index.m3u8
 #EXTINF:0,SCTV13 HD
 #EXTGRP: SCTV
-https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
 #EXTINF:0,SCTV14 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:0,SCTV15 HD 
 #EXTGRP: SCTV
 http://luizkun.duckdns.org:63213/rtp/232.84.3.22:11920
 #EXTINF:0,SCTV16 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 #EXTINF:0,SCTV17 HD
 #EXTGRP: SCTV
 http://luizkun.duckdns.org:63213/rtp/232.84.3.20:11932
 #EXTINF:0,SCTV18 HD
 #EXTGRP: SCTV 
-https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV18/index.m3u8
 #EXTINF:0,SCTV19 HD
 #EXTGRP: SCTV
-http://luizkun.duckdns.org:63213/rtp/232.84.3.18:11944
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 #EXTINF:0,SCTV20 HD
 #EXTGRP: SCTV 
-http://luizkun.duckdns.org:63213/rtp/232.84.3.17:11950
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:0,SCTV21 HD
 #EXTGRP: SCTV
-http://luizkun.duckdns.org:63213/rtp/232.84.3.16:11956
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:0,SCTV22 HD 
 #EXTGRP: SCTV
-http://luizkun.duckdns.org:63213/rtp/232.84.3.15:11962
+https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 #EXTINF:0,SCTV Phim Tổng Hợp HD
 #EXTGRP: SCTV
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
