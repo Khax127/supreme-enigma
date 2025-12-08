@@ -5,8 +5,6 @@
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 #EXTM3U url-tvg="https://web.utako.moe/radio/lps.xml" tvg-shift=0 m3uautoload=1
 
-https://lichphatsong.site/schedule/epg.xml
-
 #-*-- Livestream -*--#
 #EXTINF:-1 tvg-name="801" group-title="🔴| Livestream | MyTV" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 (FPT) 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
