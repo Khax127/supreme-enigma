@@ -23,27 +23,38 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=449
 
 
 
+
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k1
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k2
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k3
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k4
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k5
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k6
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k7
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k8
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k9
 #EXTINF:-1 group-title="🔴| Livestream - FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k10
 
 
