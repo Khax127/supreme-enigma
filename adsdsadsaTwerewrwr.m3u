@@ -7,17 +7,27 @@
 
 #-*-- Livestream -*--#
 #EXTINF:0,MyTV 801 HD (FPT) 
-#EXTGRP: Livestream
-http://luizkun.duckdns.org:63213/rtp/232.84.2.175:10858
+#EXTGRP: Livestream | MyTV
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=a092ce0caeb783e11f64a38fd649b670
 #EXTINF:0,MyTV 802 HD (FPT) 
-#EXTGRP: Livestream
-http://luizkun.duckdns.org:63213/rtp/232.84.2.176:10864
+#EXTGRP: Livestream | MyTV
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=77549a799c9aed8f63f45d36d9b2a3cc
 #EXTINF:0,MyTV 803 HD (FPT) 
-#EXTGRP: Livestream
-http://luizkun.duckdns.org:63213/rtp/232.84.2.195:10954
+#EXTGRP: Livestream | MyTV
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=02921830d122d9ac24f109d56663ef69
 #EXTINF:0,MyTV 804 HD (FPT) 
-#EXTGRP: Livestream
-http://luizkun.duckdns.org:63213/rtp/232.84.2.196:10960
+#EXTGRP: Livestream | MyTV
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
+
+
+#EXTINF:0,TV360+ 9
+#EXTGRP: Livestream | TV360
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
+#EXTINF:0,TV360+ 10
+#EXTGRP: Livestream | TV360
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
+
+
 
 
 
@@ -61,16 +71,6 @@ https://1.org.vn/tv360k9
 https://1.org.vn/tv360k10
 
 
-#EXTINF:0,TV360+ 1 
-#EXTGRP: Livestream | TV360
-https://ott3.sgchill.io.vn/source/tv360/2554/index.m3u8
-#EXTINF:0,TV360+ 2 
-#EXTGRP: Livestream | TV360
-https://ott3.sgchill.io.vn/source/tv360/1/index.m3u8
-#EXTINF:0,TV360+ 3
-#EXTGRP: Livestream | TV360
-https://ott3.sgchill.io.vn/source/tv360/148/index.m3u8
-
 
 
 
@@ -108,6 +108,44 @@ https://1.org.vn/yt9
 #EXTGRP: Livestream | Esports
 https://1.org.vn/yt10
 
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8d86d047514ed40c657ba0ba399f85b7
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv2-hd_16565576783.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}" ,VTV2 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ff370563df7ff2642cdfe32431a3ee06
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv3-hd_165657381668.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8520fe5e7a7cafe4d2be39b261f15dda
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv4-hd_165657382285.png" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f86bb850-f6ef-4c9d-b0ad-b8fe16ef27e9/catchup/1080p-5M/1080p-5M.m3u8?media=true&start=${start}&stop=${end}",VTV4 (MyTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=0845cf68d44bb12766689b1f40a7d722
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv5-hd_165657382858.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=90e4b413314e9564b6958b5d06956b79
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/e8c66db4-15c3-44cb-873b-d0f67a3ed4b2/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV5 Tây Nam Bộ (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=a93b2ec8d6329e00e2f6689504454bd1
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/05/07/icon_channel_vtv5-tay-nguyen_168344480529.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}" , VTV5 Tây Nguyên (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=41dc6d48f5041cdcb89c384021be6c1e
+#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/10/icon_channel_vtv-can-tho_166537074507.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=e2cfdbe6bbcb6811b267f455cc309870
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv7-hd_165655773646.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=e365b2e42c7ec5178b7bd99e1e5c80cd
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv8-hd_165657496167.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=1cd7cd1eee70a173dafe4e92a4be0b80
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV"  tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv9-hd_165657032671.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (MyTV) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=76e6f7c8f5909538e2f1be824305b5d0
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV"  tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/icon_channel_vietnam-today_175705565938.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", Vietnam Today (MyTV)   
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ad13aed445fb6f76c2af3003c36b312b
 
 
 
