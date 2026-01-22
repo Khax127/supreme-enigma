@@ -538,7 +538,7 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ac94dc660c6df6591b9763fc7a25bd
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=6078bf597565b08a245d7bf71534468f
 #EXTINF:-1 tvg-id="spotv2" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ac94dc660c6df6591b9763fc7a25bd43
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=c7f336d850fb616c33b16f61937f4472
 
 
 
@@ -1426,8 +1426,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD 
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/hbohd/index.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD (MPD)
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=7d726369f553314d42635f3e9bd9f9b5#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey    
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"6YaPX0c9D9hpnt5I1THCsA", "kid":"rLTCNHEGMyetxzLig8CEfw" } ], "type":"temporary"}
@@ -1563,7 +1562,8 @@ https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang HD (VN) (MSky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/arirang/index.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang SD (VN) (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang SD (VN) (TV360)
@@ -1589,7 +1589,8 @@ https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/216.png", Bloomberg (MPD)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/bloomberg/index.m3u8
+http://hoatv001.ddns.net/PHANMEM/admin.php?stream=67ea948fce1ef73ad6bed7e18386a3ad
+
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC News (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1619,7 +1620,7 @@ https://hls.mskycdn.online/tv/cnn/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/cna/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (TV360)
@@ -1641,19 +1642,21 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/dw/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (QT)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/222.png", France 24 (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/france24eng/index.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/222.png", France 24 (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/222.png", France 24 (TV360) (sv2)
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/223.png", KBS World (VN) (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/kbsworld/index.m3u8
+https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8 
+
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/223.png", KBS World (VN) (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/223.png", KBS World (VN) (TV360) (sv2)
@@ -1664,7 +1667,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/224.png", NHK World (VN) (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/nhkworld/index.m3u8
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
+
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/224.png", NHK World (VN) (TV360) (sv1) 
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/224.png", NHK World (VN) (TV360) (sv2)
@@ -1678,7 +1682,8 @@ https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/225.png", TV5Monde (VN)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/tv5monde/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/225.png", TV5Monde (QT)
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/226.png", TRT World
@@ -1862,7 +1867,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/234.png", HGTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hgtv/KenhCoBan.m3u8#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/235.png", KIX HD (sv1)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/kix/index.m3u8
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8 
+
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/235.png", KIX HD (sv2)
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8#EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/236.png", TLC (MPD)
 
