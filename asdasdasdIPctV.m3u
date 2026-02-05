@@ -5077,6 +5077,9 @@ https://flv.cdnok9.com/live/URA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158042.webp", BLV: Nhị Ka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158208.png", BLV: Ngũ Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157701.png", BLV: Dương Quá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv
@@ -5167,6 +5170,9 @@ https://hls.cdnok9.com/live/URA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158042.webp", BLV: Nhị Ka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158208.png", BLV: Ngũ Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157701.png", BLV: Dương Quá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8
