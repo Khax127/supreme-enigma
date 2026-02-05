@@ -5261,9 +5261,9 @@ https://flv.cdnok9.com/live/DUONGQUA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương CHí
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://flv.cdnok9.com/live/DUONGCHI1.flv
+https://flv.cdnok9.com/live/VANCONAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv
@@ -5351,9 +5351,9 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương CHí
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://hls.cdnok9.com/live/DUONGCHI1/index.m3u8
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8
