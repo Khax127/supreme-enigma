@@ -113,42 +113,7 @@ https://1.org.vn/yt10
 
 
 
-#EXTINF:0,VTV1 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8d86d047514ed40c657ba0ba399f85b7
-#EXTINF:0,VTV2 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ff370563df7ff2642cdfe32431a3ee06
-#EXTINF:0,VTV3 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8520fe5e7a7cafe4d2be39b261f15dda
-#EXTINF:0,VTV4 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=0845cf68d44bb12766689b1f40a7d722
-#EXTINF:0,VTV5 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=90e4b413314e9564b6958b5d06956b79
-#EXTINF:0,VTV5 Tây Nam Bộ (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=a93b2ec8d6329e00e2f6689504454bd1
-#EXTINF:0,VTV5 Tây Nguyên (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=41dc6d48f5041cdcb89c384021be6c1e
-#EXTINF:0,VTV Cần Thơ (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=e2cfdbe6bbcb6811b267f455cc309870
-#EXTINF:0,VTV7 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=e365b2e42c7ec5178b7bd99e1e5c80cd
-#EXTINF:0,VTV8 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=1cd7cd1eee70a173dafe4e92a4be0b80
-#EXTINF:0,VTV9 (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=76e6f7c8f5909538e2f1be824305b5d0
-#EXTINF:0,Vietnam Today (MyTV)
-#EXTGRP: VTV
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ad13aed445fb6f76c2af3003c36b312b
+
 
 
 #EXTINF:0,VTV1 (FPT Play) (50fps)
@@ -1653,9 +1618,9 @@ https://flv.cdnok9.com/live/DUONGQUA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương CHí
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://flv.cdnok9.com/live/DUONGCHI1.flv
+https://flv.cdnok9.com/live/VANCONAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv
@@ -1743,9 +1708,9 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương CHí
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://hls.cdnok9.com/live/DUONGCHI1/index.m3u8
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8
