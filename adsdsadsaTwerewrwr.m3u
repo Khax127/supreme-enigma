@@ -116,46 +116,42 @@ https://1.org.vn/yt10
 
 
 
-#EXTINF:0,VTV1 (FPT Play) (50fps)
-#EXTGRP: VTV
-https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_6000000=10005-mp4a_131600=20000.m3u8
 #EXTINF:0,VTV1 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:0,VTV2 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 #EXTINF:0,VTV3 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:0,VTV4 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV5 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+https://live.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:0,VTV5 Tây Nam Bộ (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:0,VTV5 Tây Nguyên (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:0,VTV Cần Thơ (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:0,VTV7 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:0,VTV8 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:0,VTV9 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:0,Vietnam Today (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:0,VTV1 (VTVPrime)
@@ -197,9 +193,7 @@ https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 
 
 
-#EXTINF:0,VTV1 (Nethub)
-#EXTGRP: VTV
-https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+
 #EXTINF:0,VTV1 (VTVGo)
 #EXTGRP: VTV
 https://vntv.ddns.net/vtv/vtv1.m3u8
