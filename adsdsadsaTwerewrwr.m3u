@@ -116,21 +116,24 @@ https://1.org.vn/yt10
 
 
 
-#EXTINF:0,VTV1 (FPT Play)
+#EXTINF:0,VTV1 (FPT Play) (50fps)
 #EXTGRP: VTV
 https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
+#EXTINF:0,VTV1 (FPT Play) 
+#EXTGRP: VTV
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV2 (FPT Play)
 #EXTGRP: VTV
-https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV3 (FPT Play)
 #EXTGRP: VTV
-https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV4 (FPT Play)
 #EXTGRP: VTV
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV5 (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV5 Tây Nam Bộ (FPT Play)
 #EXTGRP: VTV
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
@@ -139,7 +142,7 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:0,VTV Cần Thơ (FPT Play)
 #EXTGRP: VTV
-https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:0,VTV7 (FPT Play)
 #EXTGRP: VTV
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
@@ -1790,7 +1793,9 @@ https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
 
 
 
@@ -1847,7 +1852,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Chym
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
