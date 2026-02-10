@@ -1176,405 +1176,403 @@ https://tr-netcdn.metfone.com.kh/netcdn-live-41/live/camtv2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="312" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747065234249/9494ebd7585a_480_270.png",TuSami (Xổ số kiến thiết Peru)
+#EXTINF:-1 tvg-id="312" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747065234249/9494ebd7585a.png",TuSami (Xổ số kiến thiết Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/tusami/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="312" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583580272/995ec5483ca5_480_270.png",Willax TV
+https://live-evg5.tv360.bitel.com.pe/bitel/tusami/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="312" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583580272/995ec5483ca5.png",Willax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="202" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png",Latina
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="202" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6.png",Latina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="370" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_480_270.jpg",PBO
+https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="370" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_640_360.jpg",PBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="322" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png",TV American
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="322" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d.png",TV American
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="201" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png",Pan -American
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="201" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374.png",Pan -American
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="317" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",Exitosa
+https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="317" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450.png",Exitosa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="200" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735836160517/87e21cb164e6_640_360.png",TV Peru
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="200" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735836160517/87e21cb164e6.png",TV Peru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="379" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829900914/903533da5273_640_360.png",Anime Onegai
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="379" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829900914/903533da5273.png",Anime Onegai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="382" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_640_360.png",ATV
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=7963868
+#EXTINF:-1 tvg-id="382" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d.png",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="383" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_640_360.png",ATV +
+#EXTINF:-1 tvg-id="383" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf.png",ATV +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="425" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895367519/57dbdf5188f3_640_360.png",ATV Sur
+#EXTINF:-1 tvg-id="425" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895367519/57dbdf5188f3.png",ATV Sur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="424" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png", La tele
+#EXTINF:-1 tvg-id="424" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788.png", La tele
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="458" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",Karibeña TV
+#EXTINF:-1 tvg-id="458" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_640_360.jpg",Karibeña TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="384" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png",TV Global
+#EXTINF:-1 tvg-id="384" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469.png",TV Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/global/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="444" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_640_360.png",FMH Movies
+#EXTINF:-1 tvg-id="444" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d.png",FMH Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="441" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png",FMH Kids
+#EXTINF:-1 tvg-id="441" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d.png",FMH Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="325" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2_480_270.png",Nativa
+#EXTINF:-1 tvg-id="325" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2.png",Nativa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=7963868
 
 
 
-#EXTINF:-1 tvg-id="372" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/29/06/1724886128623/dbb2ab453061_480_270.png",L1Max Movil(Bóng đá!)
+#EXTINF:-1 tvg-id="372" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/29/06/1724886128623/dbb2ab453061.png",L1Max Movil(Bóng đá!)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/l1maxmovil/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_480_270.jpg",L1Max(Bóng đá!)
+#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_640_360.jpg",L1Max(Bóng đá!)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/l1max/playlist.m3u8?uid=7963868
 
 
 
-#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/18/02/1737142370430/47f9e510460f_480_270.jpg",Creo TV
+#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/18/02/1737142370430/47f9e510460f_640_360.jpg",Creo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/22/21/1745331742609/88ff249bafbf_480_270.png",Vacion TV
+#EXTINF:-1 tvg-id="329" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/22/21/1745331742609/88ff249bafbf.png",Vacion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ovaciontv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="427" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827961160/a7850e59953d_480_270.png",Bitt TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="427" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827961160/a7850e59953d.png",Bitt TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="410" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828516371/f7ae6d39f0ee_640_360.jpg",USMP(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="374" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/25/06/174043981542/6b268543b890_480_270.png",BHTV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="374" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/25/06/174043981542/6b268543b890.png",BHTV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="387" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png",Telelima (Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="387" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f.png",Telelima (Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="470" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/06/1740006367890/9200e98d8cde_480_270.png",Nacional TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="470" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/06/1740006367890/9200e98d8cde.png",Nacional TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/nacionaltv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="437" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_480_270.png",TV Sumac(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="437" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557.png",TV Sumac(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/sumactv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="462" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/30/02/1738179913557/a2814d1fb8a4_480_270.jpg",Neo TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="462" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/30/02/1738179913557/a2814d1fb8a4_640_360.jpg",Neo TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="319" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835700676/85e8fdc6061a_480_270.png",Conecta2 TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="319" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835700676/85e8fdc6061a.png",Conecta2 TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="341" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830718942/48601034fa01_480_270.png",TV CTV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="341" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830718942/48601034fa01.png",TV CTV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744584625/7456dd3f5d9b_480_270.png",Creofe(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744584625/7456dd3f5d9b.png",Creofe(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/creofe/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835614322/8e8c09d02454_480_270.jpeg",Bethel TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835614322/8e8c09d02454_640_360.jpeg",Bethel TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="422" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828062136/7e33c7fb820a_480_270.png",Santa Rosa(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="422" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828062136/7e33c7fb820a.png",Santa Rosa(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/santarosa/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="457" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/03/1738096310625/1853316008ae_480_270.png",N Canal(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="457" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/03/1738096310625/1853316008ae.png",N Canal(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="333" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583552450/7b5f1020a402_480_270.jpg",Like TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="333" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583552450/7b5f1020a402_640_360.jpg",Like TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="377" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_480_270.png", TV Norte(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="377" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640.png", TV Norte(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="380" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829866944/618b506a875b_480_270.jpg",Folklore TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="380" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829866944/618b506a875b_640_360.jpg",Folklore TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="353" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830439935/7c96e7c75a90_480_270.jpg",RCR(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="353" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830439935/7c96e7c75a90_640_360.jpg",RCR(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/rcr/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830705991/639d3114b95b_480_270.png",Milenial TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830705991/639d3114b95b.png",Milenial TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8?uid=7963868
 
 
-#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744716237/a9e4b8282205_480_270.png",Creo Latino(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744716237/a9e4b8282205.png",Creo Latino(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744661687/0a040206b71f_480_270.png",Creo Kids(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744661687/0a040206b71f.png",Creo Kids(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/creokids/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744566664/014cccd2da7d_480_270.png",Bonita TV(Của thủ đô cho tất cả Peru)
+#EXTINF:-1 tvg-id="343" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744566664/014cccd2da7d.png",Bonita TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8?uid=7963868
 
 
 
-#EXTINF:-1 tvg-id="408" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828619911/26ad3a60e0b3_480_270.png",Vision Sur TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="408" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828619911/26ad3a60e0b3.png",Vision Sur TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="373" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/03/1743538486977/340efd94b520_480_270.png",Cine Club(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="373" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/03/1743538486977/340efd94b520.png",Cine Club(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="373" group-title="TV360 Peru"  tvg-logo="https://maxradioytv.com/wp-content/uploads/2024/07/Logo-Max_Mesa-de-trabajo-1-copia-91.png",Max channel (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/maxchannel/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="373" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830204456/ee7d938364d7_480_270.jpg",RTV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="373" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830204456/ee7d938364d7_640_360.jpg",RTV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="421" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828083875/3b821edf60e2_480_270.png",TV+ Chincha(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="421" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828083875/3b821edf60e2.png",TV+ Chincha(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="473" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/25/02/1740425809742/b4b7df98c381_480_270.png",Dunas TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="473" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/25/02/1740425809742/b4b7df98c381.png",Dunas TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/dunastv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/13/00/174179948244/100bcb6e0fab_480_270.png",Malu TV (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/13/00/174179948244/100bcb6e0fab.png",Malu TV (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746646295483/cc5938c5e784_480_270.jpg",Onda Digital TV (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746646295483/cc5938c5e784_640_360.jpg",Onda Digital TV (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746646685602/de64222e20ec_480_270.jpg",Onda Digital TV 2 (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746646685602/de64222e20ec_640_360.jpg",Onda Digital TV 2 (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746647674291/3374ed1db270_480_270.jpg",Radio Onda Digital (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="479" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/02/1746647674291/3374ed1db270_640_360.jpg",Radio Onda Digital (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/radioodtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="418" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828124198/c878e845052a_480_270.png",36TV Huacho(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="418" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828124198/c878e845052a.png",36TV Huacho(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="363" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830347918/00509fdd3104_480_270.png",TV NZK(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="363" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830347918/00509fdd3104.png",TV NZK(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="405" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829381347/d1f9696a6ce6_480_270.png",Onda TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="405" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829381347/d1f9696a6ce6.png",Onda TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/onda/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="414" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828157423/6d19e7ae4dca_480_270.png",Cositel ICA(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="414" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828157423/6d19e7ae4dca.png",Cositel ICA(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="447" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/05/1737586597799/124a62d97d67_480_270.png",Huacho TV (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="447" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/05/1737586597799/124a62d97d67.png",Huacho TV (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/huacho/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="451" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646291318/10f6d8dc83e6_480_270.png",Astros TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="451" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646291318/10f6d8dc83e6.png",Astros TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/astrostv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="378" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829987118/be74c75cd3fc_480_270.jpg",Kênh 49 Lambayeque(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="378" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829987118/be74c75cd3fc_640_360.jpg",Kênh 49 Lambayeque(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="350" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/24/21/1740406402119/9f2b72ce4dbf_480_270.png",Cosmos TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="350" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/24/21/1740406402119/9f2b72ce4dbf.png",Cosmos TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="369" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/24/21/1740406558200/ca30c5c473a9_480_270.png",Sol TV(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="369" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/24/21/1740406558200/ca30c5c473a9.png",Sol TV(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="438" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png",Piura TV (Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="438" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd.png",Piura TV (Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/piuratv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="404" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829516705/626eb4051a88_480_270.png",GTV Pisco(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="404" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829516705/626eb4051a88.png",GTV Pisco(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/gtvpisco/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="412" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828190373/c128cf8a0f69_480_270.png",Radio Uno Tv(Từ Peru cho bạn (Costa))
+#EXTINF:-1 tvg-id="412" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828190373/c128cf8a0f69.png",Radio Uno Tv(Từ Peru cho bạn (Costa))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8?uid=7963868
 
 
 
 
-#EXTINF:-1 tvg-id="388" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829622590/e721b791ce56_480_270.png",Inka-Vision(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="388" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829622590/e721b791ce56.png",Inka-Vision(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="426" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828032656/8f4bf03d23d1_480_270.png",RTP(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="426" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828032656/8f4bf03d23d1.png",RTP(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="467" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/13/22/173946233610/d6773132dd58_480_270.jpg",Atlantis TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="467" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/13/22/173946233610/d6773132dd58_640_360.jpg",Atlantis TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="360" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830423122/5aecf73c4615_480_270.jpg",Kênh 25(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="360" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830423122/5aecf73c4615_640_360.jpg",Kênh 25(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="417" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828136527/a7cc82166dc4_480_270.png",Rumba TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="417" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828136527/a7cc82166dc4.png",Rumba TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/rumbatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="419" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828106748/b5904c2f2b8e_480_270.png",Cadena TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="419" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828106748/b5904c2f2b8e.png",Cadena TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828095945/9c3a0f3aa143_480_270.png",Tv Wanka(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828095945/9c3a0f3aa143.png",Tv Wanka(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/03/1743540991684/43b84497728d_480_270.png",Huanta TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/03/1743540991684/43b84497728d.png",Huanta TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/huantatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/13/11/1747110900944/ffa847243d13_480_270.jpg",KBO Televisión(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/13/11/1747110900944/ffa847243d13_640_360.jpg",KBO Televisión(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/kbo/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773283268/6c96ae6d3c3e_480_270.jpg", Qollasuyo TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="420" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773283268/6c96ae6d3c3e_640_360.jpg", Qollasuyo TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="428" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827947309/8039bbbc7a1d_480_270.png",XTV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="428" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827947309/8039bbbc7a1d.png",XTV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="428" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/09/22/174680616186/edf019661427_480_270.jpg",XTV Plus(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="428" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/09/22/174680616186/edf019661427_640_360.jpg",XTV Plus(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/xtvplus/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="465" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/06/03/1738786301507/ad33a64d92e7_480_270.png",CNC Cajamarca(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="465" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/06/03/1738786301507/ad33a64d92e7.png",CNC Cajamarca(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cnccajamarca/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="362" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/15/03/174466125411/1a823370cded_480_270.png",Xtremo TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="362" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/15/03/174466125411/1a823370cded.png",Xtremo TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/extremotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="362" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/173583040768/7cd1a796be50_480_270.jpg",TV CTC(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="362" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/173583040768/7cd1a796be50_640_360.jpg",TV CTC(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="466" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217140151/92d3d66f10ae_480_270.png",Media TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="466" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217140151/92d3d66f10ae.png",Media TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="466" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/15/22/1744731513416/38e24a11b06c_480_270.png",CNH TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="466" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/15/22/1744731513416/38e24a11b06c.png",CNH TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cnh/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="368" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/173583024433/9c82ee39dc3e_480_270.jpg",Tevesur Live(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="368" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/173583024433/9c82ee39dc3e_640_360.jpg",Tevesur Live(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="434" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646772169/8cc05e4f6258_480_270.png",Qosqo Times(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="434" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646772169/8cc05e4f6258.png",Qosqo Times(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="440" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/21/05/1737410989711/0e2330f11e75_480_270.png",Cositel Juliaca(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="440" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/21/05/1737410989711/0e2330f11e75.png",Cositel Juliaca(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="443" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/13/02/1734031864162/5acf1dc814fc_480_270.png",Auno(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="443" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/13/02/1734031864162/5acf1dc814fc.png",Auno(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/auno/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="452" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646723727/9457e872fc09_480_270.png",Unitel TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="452" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/23/22/1737646723727/9457e872fc09.png",Unitel TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/uniteltv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="471" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/03/00/1743614427484/0e7594c1d02b_480_270.png",TV Imperial(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="471" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/03/00/1743614427484/0e7594c1d02b.png",TV Imperial(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/imperialtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="475" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/06/02/1741201421689/be8adf718269_480_270.png",Aura TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="475" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/06/02/1741201421689/be8adf718269.png",Aura TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/auratv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="367" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/04/22/1743780807199/0b439177e1ea_480_270.png",ABC Television (Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="367" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/04/22/1743780807199/0b439177e1ea.png",ABC Television (Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="367" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830311771/84c0abfd5a88_480_270.jpg",Agro TV (Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="367" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830311771/84c0abfd5a88_640_360.jpg",Agro TV (Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/agro/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="413" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828181518/99124a714bd1_480_270.png",Solar Television (Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="413" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828181518/99124a714bd1.png",Solar Television (Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="415" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/17358281433/123e37d09f0c_480_270.png",Canal M(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="415" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/17358281433/123e37d09f0c.png",Canal M(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="432" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827895325/d939b4f8e5e2_480_270.png",Bella Abanquina(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="432" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827895325/d939b4f8e5e2.png",Bella Abanquina(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bellaabanquina/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="411" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828211471/67c4d4fd8b8e_480_270.png",Mega TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="411" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828211471/67c4d4fd8b8e.png",Mega TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="460" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58_480_270.png",Andina RTV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="460" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58.png",Andina RTV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/andinatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="463" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217436655/fa393d3df009_480_270.png",Hoy Peru TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="463" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217436655/fa393d3df009.png",Hoy Peru TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/hoyperutv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="464" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/12/23/1739377906627/c42db8bb14de_480_270.png",TV Andino(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="464" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/12/23/1739377906627/c42db8bb14de.png",TV Andino(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/andinotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="406" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829244180/c6a3ba1b0ee6_480_270.png",Kênh 45 Megavision(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="406" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829244180/c6a3ba1b0ee6.png",Kênh 45 Megavision(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live-evg25.tv360.bitel.com.pe/bitel/megavision/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582863575/87d184d86264_480_270.png",Cajamarca TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582863575/87d184d86264.png",Cajamarca TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8?uid=7963868
 
 
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829572323/54119057f99c_480_270.png",Uranio TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829572323/54119057f99c.png",Uranio TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live-evg25.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png",Yurivision TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453.png",Yurivision TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/yuritv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_480_270.jpg",DubTV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_640_360.jpg",DubTV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_480_270.jpg",Miel TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_640_360.jpg",Miel TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/mieltv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658490974/f5a4a0a1a57f_480_270.jpg",Nativa TV Chanchamayo(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658490974/f5a4a0a1a57f_640_360.jpg",Nativa TV Chanchamayo(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/nativachanchamayo/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/02/1743535918530/f69e726008e8_480_270.png",Arpegio TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/02/1743535918530/f69e726008e8.png",Arpegio TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/arpegiotv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773190679/4fb60cbb4638_480_270.jpg",Tropical TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773190679/4fb60cbb4638_640_360.jpg",Tropical TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tropical/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/23/02/1747941878952/97be9250ac29_480_270.jpg",Teleselva(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/23/02/1747941878952/97be9250ac29_640_360.jpg",Teleselva(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tls/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_480_270.jpg",DubTV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_640_360.jpg",DubTV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828051386/f0e8de001c29_480_270.png",Super Canal (Loreto)(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828051386/f0e8de001c29.png",Super Canal (Loreto)(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/supercanal/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829789602/b966bab99861_480_270.png",Amazonica TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829789602/b966bab99861.png",Amazonica TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/amazonicatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829780308/073a9fd0f8cc_480_270.png",Selva TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829780308/073a9fd0f8cc.png",Selva TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/1734015908967/91cae03e178e_480_270.png",BNB TV Pucallpa(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/1734015908967/91cae03e178e.png",BNB TV Pucallpa(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/bnb/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/18/05/1739829893540/29a765aae2f5_480_270.png",Tarapoto Television(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/18/05/1739829893540/29a765aae2f5.png",Tarapoto Television(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tarapototv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/28/22/1740757140991/1184a41b67f1_480_270.png",Master TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/28/22/1740757140991/1184a41b67f1.png",Master TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/mastertv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88_480_270.png",TV Mar(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88.png",TV Mar(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/tvmar/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830330344/bff3eb521edc_480_270.jpg",CNC TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830330344/bff3eb521edc_640_360.jpg",CNC TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/cnctv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830668625/e84e7ec96a4a_480_270.jpg",Ribereña Pucallpa(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830668625/e84e7ec96a4a_640_360.jpg",Ribereña Pucallpa(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830323254/643b968748c2_480_270.jpg",Ucayali TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830323254/643b968748c2_640_360.jpg",Ucayali TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_480_270.jpg",Via TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_640_360.jpg",Via TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/viatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/04/22/1738683497398/73d3f51cc2e7_480_270.png",UTV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/04/22/1738683497398/73d3f51cc2e7.png",UTV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/utv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/28/04/1738012117995/df52c9651c7c_480_270.jpg",Sqala TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/28/04/1738012117995/df52c9651c7c_640_360.jpg",Sqala TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/sqalatv/playlist.m3u8?uid=7963868
 
 
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png",Nova TV(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f.png",Nova TV(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/novatv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg",Top Latino(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_640_360.jpg",Top Latino(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg20.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735836415268/88cc5884224b_640_360.png",Radio Mega Mix(Từ Peru cho bạn (Sierra))
+#EXTINF:-1 tvg-id="407" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735836415268/88cc5884224b.png",Radio Mega Mix(Từ Peru cho bạn (Sierra))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.tv360.vn//audio/5fada56fe4e09508207a7951/live.m3u8
 
 
-
-
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" group-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741422548.jpg", BLV: Khổng Minh
@@ -1678,7 +1676,7 @@ https://flv.cdnok9.com/live/CHUN1.flv
 https://flv.cdnok9.com/live/GIAOSUXOAY.flv
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" group-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TANCA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741422548.jpg", BLV: Khổng Minh
@@ -1786,7 +1784,7 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cyber.chuoichien.tv/chuoibay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To
@@ -1818,7 +1816,7 @@ https://cyber.chuoichien.tv/duyhung.flv
 https://cyber.chuoichien.tv/zeman.flv
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cyber.chuoichien.tv/chuoibay/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To
@@ -1850,187 +1848,267 @@ https://cyber.chuoichien.tv/duyhung/index.m3u8
 https://cyber.chuoichien.tv/zeman/index.m3u8
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/buncha_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/trada_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/meobeo_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://media.istockphoto.com/id/1365200477/vi/vec-to/bao-g%E1%BA%A1o-v%E1%BA%A3i-lanh-v%E1%BA%A3i-b%E1%BB%91-n%C3%A2u-c%C3%B4-l%E1%BA%ADp-tr%C3%AAn-m%C3%A0u-tr%E1%BA%AFng-h%C3%ACnh-minh-h%E1%BB%8Da-vector.jpg?s=612x612&w=0&k=20&c=ZpWQextW8F_qlig8b5-ARdK4geQ_AgZX84lUs3ujrOA=", BLV: Gạo Nếp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/gaonep_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/chimnho_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-19.jpg", BLV: Pháo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/phao_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: Hạt Tiêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/hattieu_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: A Mập
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/amap.flv
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/buncha_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://media.istockphoto.com/id/1365200477/vi/vec-to/bao-g%E1%BA%A1o-v%E1%BA%A3i-lanh-v%E1%BA%A3i-b%E1%BB%91-n%C3%A2u-c%C3%B4-l%E1%BA%ADp-tr%C3%AAn-m%C3%A0u-tr%E1%BA%AFng-h%C3%ACnh-minh-h%E1%BB%8Da-vector.jpg?s=612x612&w=0&k=20&c=ZpWQextW8F_qlig8b5-ARdK4geQ_AgZX84lUs3ujrOA=", BLV: Gạo Nếp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/chimnho_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-19.jpg", BLV: Pháo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: Hạt Tiêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: Hạt Tiêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/amap/playlist.m3u8
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/8P1H66Jg/photo-2022-08-12-07-49-33.jpg", BLV: Xây Con
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" group-logo="https://cauthutv.org/assets/images/logo_new.png" tvg-logo="https://forums.alpinezone.com/data/avatars/h/94/94007.jpg?1768823083", BLV: Xây Con
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_xaycon.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_giacatdu.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/JzTxG1Wq/image.png", BLV: Phi MC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/bJ9nym94/photo-2024-04-29-23-34-12.jpg", BLV: Bịp Con
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_bipcon.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/rpYjRvf1/photo-2025-12-29-19-01-50.jpg", BLV: Hàn Tín
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca.flv
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" group-logo="https://cauthutv.org/assets/images/logo_new.png" tvg-logo="https://forums.alpinezone.com/data/avatars/h/94/94007.jpg?1768823083", BLV: Xây Con
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/bJ9nym94/photo-2024-04-29-23-34-12.jpg", BLV: Bịp Con
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_giacatdu/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/rpYjRvf1/photo-2025-12-29-19-01-50.jpg", BLV: Hàn Tín
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/JzTxG1Wq/image.png", BLV: Phi MC
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/JzTxG1Wq/image.png", BLV: Phi MC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV" tvg-logo="https://i.postimg.cc/QdCJ6ZJ0/photo-2025-10-30-08-47-07.jpg", BLV: Văn Tích
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/bJ9nym94/photo-2024-04-29-23-34-12.jpg", BLV: Bịp Con
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/rpYjRvf1/photo-2025-12-29-19-01-50.jpg", BLV: Hàn Tín
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
+
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" group-logo="https://sv1.thiendinh.live/logo.png" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxahoi.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai.flv
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" group-logo="https://sv1.thiendinh.live/logo.png" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxahoi/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" group-logo="https://sv2.hoiquan.live/logo.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/hyaNNmf.jpeg", BLV: Phan Báo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/ZzZxBY1.jpeg", BLV: Phan Ca 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/yKINOhJ.jpeg", BLV: Phan Cáo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/U76dMJI.jpeg", BLV: Phan Mã
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/NqBMPty.jpeg", BLV: Phan Mão
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/FwVW5oc.jpeg", BLV: Phan Sêu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca.flv
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" group-logo="https://sv2.hoiquan.live/logo.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/hyaNNmf.jpeg", BLV: Phan Báo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/hyaNNmf.jpeg", BLV: Phan Báo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/ZzZxBY1.jpeg", BLV: Phan Ca 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/ZzZxBY1.jpeg", BLV: Phan Ca 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/yKINOhJ.jpeg", BLV: Phan Cáo 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/yKINOhJ.jpeg", BLV: Phan Cáo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/U76dMJI.jpeg", BLV: Phan Mã
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/U76dMJI.jpeg", BLV: Phan Mã
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/NqBMPty.jpeg", BLV: Phan Mão
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/NqBMPty.jpeg", BLV: Phan Mão
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/FwVW5oc.jpeg", BLV: Phan Sêu 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/FwVW5oc.jpeg", BLV: Phan Sêu 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 
 
 
 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" group-logo="https://i.imgur.com/CEkrSQK.jpeg" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv4.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766255646152-avatar-alex.webp", BLV: Alex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766028837135-photo-2025-12-18-10-33-17.jpg", BLV: Khoai Tây
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Chym
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1769877027303-chatgpt-image-23-27-53-23-thg-12-2025.png", BLV: Ricky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1770403031439-signal-2026-02-07-012539-1-.jpeg", BLV: Gấu Nâu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.flv
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" group-logo="https://i.imgur.com/CEkrSQK.jpeg" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 2
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 3
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 4
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv4.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 5
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766255646152-avatar-alex.webp", BLV: Alex
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766255646152-avatar-alex.webp", BLV: Alex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766028837135-photo-2025-12-18-10-33-17.jpg", BLV: Khoai Tây
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766028837135-photo-2025-12-18-10-33-17.jpg", BLV: Khoai Tây
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Chym
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Chym
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1769877027303-chatgpt-image-23-27-53-23-thg-12-2025.png", BLV: Ricky
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1769877027303-chatgpt-image-23-27-53-23-thg-12-2025.png", BLV: Ricky
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1770403031439-signal-2026-02-07-012539-1-.jpeg", BLV: Gấu Nâu
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1770403031439-signal-2026-02-07-012539-1-.jpeg", BLV: Gấu Nâu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+
+
+
+
+
