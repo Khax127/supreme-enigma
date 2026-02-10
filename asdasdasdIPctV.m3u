@@ -279,7 +279,7 @@ https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
 https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (VTVPrime)
 https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png, Vietnam Today (VTVPrime)
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png", Vietnam Today (VTVPrime)
 https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 
 
