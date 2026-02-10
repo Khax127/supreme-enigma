@@ -1910,16 +1910,13 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao.flv
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu.flv
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxahoi.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh.flv
@@ -1936,22 +1933,21 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxahoi/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" group-logo="https://sv2.hoiquan.live/logo.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
