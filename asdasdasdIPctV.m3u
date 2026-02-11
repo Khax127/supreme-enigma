@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
-#EXTM3U url-tvg="https://web.utako.moe/radio/lps.xml" tvg-shift=0 m3uautoload=1
-
 
 
 #-*-- Livestream -*--#
@@ -5591,6 +5589,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Heo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong.flv
@@ -5627,6 +5628,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Heo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
@@ -5642,7 +5646,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
-
 
 
 
