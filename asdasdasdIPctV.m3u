@@ -1644,7 +1644,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://img.lichphatsong.site/logo/209.png", History HD (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://img.lichphatsong.site/logo/209.png", History HD (sv2)
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://img.lichphatsong.site/logo/209.png", History HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/historyhd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://img.lichphatsong.site/logo/208.png", Outdoor Channel HD (FPT Play)
@@ -1690,7 +1690,7 @@ https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/234.png", HGTV
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/234.png", HGTV
-https://freem3u.xyz/api/live/play.m3u8?vid=99
+https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/234.png", HGTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hgtv/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/235.png", KIX HD (sv1)
