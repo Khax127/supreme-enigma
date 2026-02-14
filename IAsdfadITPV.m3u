@@ -1424,7 +1424,18 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
-
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/MAN/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -5973,7 +5984,7 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv1" tvg-logo="https://phantatv.com/uploads/2026/2/img2870.jpg", BLV: A Mập
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/amap.flv
+https://live10.watchsoccerlivenews.net/live/blv_amap.flv
 
 
 
@@ -6008,7 +6019,7 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV | sv2" tvg-logo="https://phantatv.com/uploads/2026/2/img2870.jpg", BLV: A Mập
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-+https://live10.watchsoccerlivenews.net/live/amap/playlist.m3u8
+https://live10.watchsoccerlivenews.org/live/blv_amap/playlist.m3u8
 
 
 
