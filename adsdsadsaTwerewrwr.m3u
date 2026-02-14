@@ -158,37 +158,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 #EXTINF:0,VTV1 (VTVPrime)
 #EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
-#EXTINF:0,VTV2 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
-#EXTINF:0,VTV3 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
-#EXTINF:0,VTV4 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
-#EXTINF:0,VTV5 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8
-#EXTINF:0,VTV5 Tây Nam Bộ (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
-#EXTINF:0,VTV5 Tây Nguyên (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
-#EXTINF:0,VTV Cần Thơ (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/index.m3u8
-#EXTINF:0,VTV7 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
-#EXTINF:0,VTV8 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
-#EXTINF:0,VTV9 (VTVPrime)
-#EXTGRP: VTV
-https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
+https://livevlisctcdnw.seenow.vn/mean/VTV1_HD/index.m3u8
 #EXTINF:0,Vietnam Today (VTVPrime)
 #EXTGRP: VTV
 https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
