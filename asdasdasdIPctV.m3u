@@ -1693,307 +1693,433 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=79028dd9abab1e569b0b9ffdf2b160
 
 
 
+
+
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=dcfe5e9c92
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=c9ccd02493
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=fcf053b994
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://mt01.utako.moe/TBS/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=4807a05b95
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=29a226a596
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=d42b5a1597
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=fbaa7cc098
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+http://tv123.vvvv.ee/live.php/?ch=2ecce42099
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-
-
-
-
-
+http://tv123.vvvv.ee/live.php/?ch=b6432e54100
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=91a61ca6101
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=0b8eedfb102
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=2ca7dafd103
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=a34a7155104
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=075e80d6105
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=ce3d5b14106
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=a6611c0b107
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=256ad331108
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=735bdab9109
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=05d3617c110
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=d2edc172111
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=dd91223a112
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=151e7205113
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=d8271040114
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=49c5f9d0115
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=e1ab3a24116
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://mt01.utako.moe/mbs/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=1255c3b0117
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://mt01.utako.moe/abc/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=40fbd2b7118
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://mt01.utako.moe/tvo/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=85ef85b1119
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://mt01.utako.moe/ytv/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=c62a922e120
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
+http://tv123.vvvv.ee/live.php/?ch=5bd8058b121
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://mt01.utako.moe/kbs/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=61f69a74122
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://mt01.utako.moe/suntv/index.m3u8
-
+http://tv123.vvvv.ee/live.php/?ch=6dd12e47123
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx06
+http://tv123.vvvv.ee/live.php/?ch=8f80432b124
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx01
+http://tv123.vvvv.ee/live.php/?ch=3f455582125
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx02
+http://tv123.vvvv.ee/live.php/?ch=f1c53b43126
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx03
+http://tv123.vvvv.ee/live.php/?ch=138bf1b4127
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx04
+http://tv123.vvvv.ee/live.php/?ch=4629928a128
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx05
+http://tv123.vvvv.ee/live.php/?ch=bd22f65b129
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx07
-
+http://tv123.vvvv.ee/live.php/?ch=f0f7bc7f130
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=2eefdd1a131
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=e84e7697132
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=192c99b0133
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://mt01.utako.moe/bstbs/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=798e0914134
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=6e62fb17135
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://mt01.utako.moe/bsfuji/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=feb1aad1136
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://mt01.utako.moe/bsp4k/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=9485617a137
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+http://tv123.vvvv.ee/live.php/?ch=b0cb60d8138
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=11926f86139
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=6ba27aa0140
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=1f30a3ed141
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs10_star_channel" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
+http://tv123.vvvv.ee/live.php/?ch=618525ea142
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=4a2b6229143
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=663411d4144
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=9f59d68a145
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=b18681d8146
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://mt01.utako.moe/green/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=d41bc760147
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://ca01.utako.moe/Animax/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=93c7779c148
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://ca01.utako.moe/nihoneiga/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=b6da5618149
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://ca01.utako.moe/skya/index.m3u8
-
+http://tv123.vvvv.ee/live.php/?ch=46d66416150
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs11
+http://tv123.vvvv.ee/live.php/?ch=53333dfb151
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs02
+http://tv123.vvvv.ee/live.php/?ch=353a6994152
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs03
+http://tv123.vvvv.ee/live.php/?ch=dc2bf292153
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs04
+http://tv123.vvvv.ee/live.php/?ch=5f23cc6a154
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs05
+http://tv123.vvvv.ee/live.php/?ch=f1e99e93155
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs06
+http://tv123.vvvv.ee/live.php/?ch=65e4c80d156
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs01
+http://tv123.vvvv.ee/live.php/?ch=ba8a9b5b157
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs12
+http://tv123.vvvv.ee/live.php/?ch=d8ca4d17158
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs07
+http://tv123.vvvv.ee/live.php/?ch=31120336159
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs20
+http://tv123.vvvv.ee/live.php/?ch=8c718a3b160
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs08
+http://tv123.vvvv.ee/live.php/?ch=2c7d8dec161
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs18
+http://tv123.vvvv.ee/live.php/?ch=4b1cfacf162
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs19
+http://tv123.vvvv.ee/live.php/?ch=674d1c81163
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs21
+http://tv123.vvvv.ee/live.php/?ch=4f7d4ef5164
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs22
+http://tv123.vvvv.ee/live.php/?ch=76908305165
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+http://tv123.vvvv.ee/live.php/?ch=89fb1937166
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs15
+http://tv123.vvvv.ee/live.php/?ch=efe274dc167
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs23
+http://tv123.vvvv.ee/live.php/?ch=afc42cb6168
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs01
+http://tv123.vvvv.ee/live.php/?ch=0004eb7c169
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs25
+http://tv123.vvvv.ee/live.php/?ch=6b943972170
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs24 
+http://tv123.vvvv.ee/live.php/?ch=541562ae171
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=2&id=bs31
-
+http://tv123.vvvv.ee/live.php/?ch=3d36eedc172
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://mt01.utako.moe/AT-X/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=0406db92173
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
+http://tv123.vvvv.ee/live.php/?ch=d2cdd5d9174
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://ca01.utako.moe/spaceshower/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=3873b8a1175
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
-https://ca01.utako.moe/mnet/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=6107e31e176
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://ca01.utako.moe/kayopops/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=20e61103177
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton
+http://tv123.vvvv.ee/live.php/?ch=c7321da8178
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://ca01.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-https://ca01.utako.moe/cartoon_network/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=15c01c5f179
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network
+http://tv123.vvvv.ee/live.php/?ch=62a089ab180
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://ca01.utako.moe/ntvgplus/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=538bc1f1181
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://ca01.utako.moe/familygeki/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=3f06b7af182
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://ca01.utako.moe/mondo/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=8780cd09183
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
+http://tv123.vvvv.ee/live.php/?ch=bfe496da184
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",Golf Network
+http://tv123.vvvv.ee/live.php/?ch=800ae920185
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="the_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",The Cinema
+http://tv123.vvvv.ee/live.php/?ch=ee312943186
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://ca01.utako.moe/tbsch1/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=7e68d2c3187
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://ca01.utako.moe/tbsch2/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=d7ac24de188
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://ca01.utako.moe/ex_ch1/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=5b14757d189
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://ca01.utako.moe/ex_ch2/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=f535af72190
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://ca01.utako.moe/fuji_one/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=99a387e4191
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://ca01.utako.moe/fuji_two/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=739fe803192
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://ca01.utako.moe/fuji_next/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=1093111a193
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://ca01.utako.moe/neco/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=087dbea5194
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://ca01.utako.moe/dlife/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=7fe26557195
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://ca01.utako.moe/toei/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=15f791a8196
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://ca01.utako.moe/fighting_tv/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=90e9a80f197
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://ca01.utako.moe/entermei_tele/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=e99267b0198
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://ca01.utako.moe/sport_live_plus/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=ac9a97e6199
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://ca01.utako.moe/homedrama/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=a42fa2e0200
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://ca01.utako.moe/gingach/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=0f836bba201
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://ca01.utako.moe/tabi/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=a5bfc7d3202
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://ca01.utako.moe/pigoo/index.m3u8
+http://tv123.vvvv.ee/live.php/?ch=802adbf3203
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://ca01.utako.moe/v_paradise/index.m3u8
-
+http://tv123.vvvv.ee/live.php/?ch=f745a428204
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs04
+http://tv123.vvvv.ee/live.php/?ch=a1e65e34205
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs27
+http://tv123.vvvv.ee/live.php/?ch=60fb56e6206
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs22
+http://tv123.vvvv.ee/live.php/?ch=836c899e207
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs20
+http://tv123.vvvv.ee/live.php/?ch=b50b72e8208
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs14
+http://tv123.vvvv.ee/live.php/?ch=00e6a605209
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs05
+http://tv123.vvvv.ee/live.php/?ch=03a848fa210
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs12
+http://tv123.vvvv.ee/live.php/?ch=786a771f211
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs26
+http://tv123.vvvv.ee/live.php/?ch=cccb513a212
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs01
+http://tv123.vvvv.ee/live.php/?ch=b6d93d2b213
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs17
+http://tv123.vvvv.ee/live.php/?ch=5ebc0448214
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs03
+http://tv123.vvvv.ee/live.php/?ch=f86b644b215
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs02
+http://tv123.vvvv.ee/live.php/?ch=c9024678216
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs21
+http://tv123.vvvv.ee/live.php/?ch=2485dd68217
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
-https://proxy.utako.moe/ph.php?&isp=2&id=cs29
+http://tv123.vvvv.ee/live.php/?ch=a49c3313218
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs26
+http://tv123.vvvv.ee/live.php/?ch=79f1e3de219
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs06
+http://tv123.vvvv.ee/live.php/?ch=1becdff9220
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs13
+http://tv123.vvvv.ee/live.php/?ch=625e418c221
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs18
+http://tv123.vvvv.ee/live.php/?ch=f6498c68222
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs19
+http://tv123.vvvv.ee/live.php/?ch=46ead0cd223
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://proxy.utako.moe/ph.php?&isp=2&id=cs28
+http://tv123.vvvv.ee/live.php/?ch=cdb1f6e2224
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs07
+http://tv123.vvvv.ee/live.php/?ch=8b05f66b225
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs25
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome) 
-https://proxy.utako.moe/ph.php?&isp=1&id=cs10
+http://tv123.vvvv.ee/live.php/?ch=472e31cb226
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=1e8c85d7227
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel (Primehome)  
-https://proxy.utako.moe/ph.php?&isp=1&id=cs08
+http://tv123.vvvv.ee/live.php/?ch=49ee350e228
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=a3f8eb6f229
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs24
+http://tv123.vvvv.ee/live.php/?ch=4243373d230
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs09
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome) 
-https://proxy.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)  
-https://proxy.utako.moe/ph.php?&isp=1&id=cs15
+http://tv123.vvvv.ee/live.php/?ch=c2ffbe4a231
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=98aea89d232
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)
+http://tv123.vvvv.ee/live.php/?ch=24e88865233
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+http://tv123.vvvv.ee/live.php/?ch=50e92150234
 
-
-
-
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" group-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daejeon
-http://mytv.dothome.co.kr/ch/public/11.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Gwangju
-http://mytv.dothome.co.kr/ch/public/12.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daegu
-http://mytv.dothome.co.kr/ch/public/13.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Ulsan
-http://mytv.dothome.co.kr/ch/public/14.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Busan
-http://mytv.dothome.co.kr/ch/public/15.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Chuncheon
-http://mytv.dothome.co.kr/ch/public/16.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
-http://mytv.dothome.co.kr/ch/public/3.php
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
-http://mytv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="🇰🇷| Hàn Quốc",YTN
+http://tv123.vvvv.ee/live.php/?ch=57acbd9e685
+#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="🇰🇷| Hàn Quốc",YTN2
+http://tv123.vvvv.ee/live.php/?ch=5b58e353686
+#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="🇰🇷| Hàn Quốc",YTN사이언스
+http://tv123.vvvv.ee/live.php/?ch=4aa8c321687
+#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="🇰🇷| Hàn Quốc",연합뉴스TV
+http://tv123.vvvv.ee/live.php/?ch=2639e91f688
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="🇰🇷| Hàn Quốc",JTBC
+http://tv123.vvvv.ee/live.php/?ch=7e253f9f689
+#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="🇰🇷| Hàn Quốc",JTBC2
+http://tv123.vvvv.ee/live.php/?ch=a80bf1f6690
+#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="🇰🇷| Hàn Quốc",JTBC4
+http://tv123.vvvv.ee/live.php/?ch=206786d3691
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="🇰🇷| Hàn Quốc",tvN
+http://tv123.vvvv.ee/live.php/?ch=a3514660692
+#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="🇰🇷| Hàn Quốc",tvN SHOW
+http://tv123.vvvv.ee/live.php/?ch=cb6b7d86693
+#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="🇰🇷| Hàn Quốc",tvN DRAMA
+http://tv123.vvvv.ee/live.php/?ch=8b5d273b694
+#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="🇰🇷| Hàn Quốc",tvN STORY
+http://tv123.vvvv.ee/live.php/?ch=1f3f9269695
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="🇰🇷| Hàn Quốc",채널A
+http://tv123.vvvv.ee/live.php/?ch=f2289598696
+#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="🇰🇷| Hàn Quốc",채널A플러스
+http://tv123.vvvv.ee/live.php/?ch=351f070e697
+#EXTINF:-1 tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="🇰🇷| Hàn Quốc",TV CHOSUN
+http://tv123.vvvv.ee/live.php/?ch=610f9294698
+#EXTINF:-1 tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="🇰🇷| Hàn Quốc",TV CHOSUN 2
+http://tv123.vvvv.ee/live.php/?ch=284eb0fb699
+#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="🇰🇷| Hàn Quốc",Mnet
+http://tv123.vvvv.ee/live.php/?ch=5db10290700
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="🇰🇷| Hàn Quốc",MBN
+http://tv123.vvvv.ee/live.php/?ch=9ddafc8f701
+#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="🇰🇷| Hàn Quốc",MBN 플러스
+http://tv123.vvvv.ee/live.php/?ch=19e69a50702
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="🇰🇷| Hàn Quốc",LIFETIME
+http://tv123.vvvv.ee/live.php/?ch=06a8a36c703
+#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="🇰🇷| Hàn Quốc",중화TV
+http://tv123.vvvv.ee/live.php/?ch=198a4539704
+#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="🇰🇷| Hàn Quốc",히스토리
+http://tv123.vvvv.ee/live.php/?ch=8b400ad4705
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="🇰🇷| Hàn Quốc",EBS1
+http://tv123.vvvv.ee/live.php/?ch=23fa263b706
+#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="🇰🇷| Hàn Quốc",국회방송(NATV)
+http://tv123.vvvv.ee/live.php/?ch=b821cae4707
+#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="🇰🇷| Hàn Quốc",ANIBOX
+http://tv123.vvvv.ee/live.php/?ch=60fd3c7e708
+#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="🇰🇷| Hàn Quốc",애니맥스
+http://tv123.vvvv.ee/live.php/?ch=97eed4f2709
+#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="🇰🇷| Hàn Quốc",투니버스
+http://tv123.vvvv.ee/live.php/?ch=79212228710
+#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://pjytv.760515.xyz/logo/KBS1.png" group-title="🇰🇷| Hàn Quốc",KBS1
+http://tv123.vvvv.ee/live.php/?ch=fa82c5e2711
+#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://pjytv.760515.xyz/logo/KBS2.png" group-title="🇰🇷| Hàn Quốc",KBS2
+http://tv123.vvvv.ee/live.php/?ch=c43b1d1d712
+#EXTINF:-1 tvg-name="KBS드라마" tvg-logo="https://pjytv.760515.xyz/logo/KBS드라마.png" group-title="🇰🇷| Hàn Quốc",KBS드라마
+http://tv123.vvvv.ee/live.php/?ch=a48e7003713
+#EXTINF:-1 tvg-name="KBS조이" tvg-logo="https://pjytv.760515.xyz/logo/KBS조이.png" group-title="🇰🇷| Hàn Quốc",KBS조이
+http://tv123.vvvv.ee/live.php/?ch=3d70f2b3714
+#EXTINF:-1 tvg-name="KBS키즈" tvg-logo="https://pjytv.760515.xyz/logo/KBS키즈.png" group-title="🇰🇷| Hàn Quốc",KBS키즈
+http://tv123.vvvv.ee/live.php/?ch=b2928347715
+#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/KBS LIFE.png" group-title="🇰🇷| Hàn Quốc",KBS LIFE
+http://tv123.vvvv.ee/live.php/?ch=fbace0e0716
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://pjytv.760515.xyz/logo/KBS Story.png" group-title="🇰🇷| Hàn Quốc",KBS Story
+http://tv123.vvvv.ee/live.php/?ch=ac1c887c717
+#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://pjytv.760515.xyz/logo/KBS WORLD.png" group-title="🇰🇷| Hàn Quốc",KBS WORLD
+http://tv123.vvvv.ee/live.php/?ch=c17c254c718
+#EXTINF:-1 tvg-name="KBS뉴스" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" group-title="🇰🇷| Hàn Quốc",KBS뉴스
+http://tv123.vvvv.ee/live.php/?ch=32206363719
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" group-title="🇰🇷| Hàn Quốc",SBS
+http://tv123.vvvv.ee/live.php/?ch=ea1109ed720
+#EXTINF:-1 tvg-name="SBS플러스" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" group-title="🇰🇷| Hàn Quốc",SBS플러스
+http://tv123.vvvv.ee/live.php/?ch=19dfe0d2721
+#EXTINF:-1 tvg-name="SBS퍼니" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" group-title="🇰🇷| Hàn Quốc",SBS퍼니
+http://tv123.vvvv.ee/live.php/?ch=a145440e722
+#EXTINF:-1 tvg-name="SBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" group-title="🇰🇷| Hàn Quốc",SBS LIFE
+http://tv123.vvvv.ee/live.php/?ch=55f8346a723
+#EXTINF:-1 tvg-name="SBS KPOP" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" group-title="🇰🇷| Hàn Quốc",SBS KPOP
+http://tv123.vvvv.ee/live.php/?ch=c67f6a14724
+#EXTINF:-1 tvg-name="SBS골프" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" group-title="🇰🇷| Hàn Quốc",SBS골프
+http://tv123.vvvv.ee/live.php/?ch=9130f0b7725
+#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" group-title="🇰🇷| Hàn Quốc",SBS Golf2
+http://tv123.vvvv.ee/live.php/?ch=f575c9fc726
+#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" group-title="🇰🇷| Hàn Quốc",SBS스포츠
+http://tv123.vvvv.ee/live.php/?ch=f66177b3727
+#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" group-title="🇰🇷| Hàn Quốc",SBS Biz
+http://tv123.vvvv.ee/live.php/?ch=1e2b8a4e728
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" group-title="🇰🇷| Hàn Quốc",MBC
+http://tv123.vvvv.ee/live.php/?ch=a9ccdf52729
+#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" group-title="🇰🇷| Hàn Quốc",MBC드라마넷
+http://tv123.vvvv.ee/live.php/?ch=3c58bfff730
+#EXTINF:-1 tvg-name="MBC에브리원" tvg-logo="https://pjytv.760515.xyz/logo/MBC에브리원.png" group-title="🇰🇷| Hàn Quốc",MBC에브리원
+http://tv123.vvvv.ee/live.php/?ch=74a3da36731
+#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://pjytv.760515.xyz/logo/MBC M.png" group-title="🇰🇷| Hàn Quốc",MBC M
+http://tv123.vvvv.ee/live.php/?ch=1d04c948732
+#EXTINF:-1 tvg-name="MBC ON" tvg-logo="https://pjytv.760515.xyz/logo/MBC ON.png" group-title="🇰🇷| Hàn Quốc",MBC ON
+http://tv123.vvvv.ee/live.php/?ch=298236c0733
+#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://pjytv.760515.xyz/logo/MBCNET.png" group-title="🇰🇷| Hàn Quốc",MBCNET
+http://tv123.vvvv.ee/live.php/?ch=e2a7d5ee734
+#EXTINF:-1 tvg-name="아리랑TV" group-title="🇰🇷| Hàn Quốc",아리랑TV
+http://tv123.vvvv.ee/live.php/?ch=f74b6e8c735
+#EXTINF:-1 tvg-name="TBSTV" group-title="🇰🇷| Hàn Quốc",TBSTV
+http://tv123.vvvv.ee/live.php/?ch=1df4ce36736
+#EXTINF:-1 tvg-name="ABN" tvg-logo="https://pjytv.760515.xyz/logo/ABN.png" group-title="🇰🇷| Hàn Quốc",ABN
+http://tv123.vvvv.ee/live.php/?ch=1d49607e737
+#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://pjytv.760515.xyz/logo/농협TV.png" group-title="🇰🇷| Hàn Quốc",농협TV
+http://tv123.vvvv.ee/live.php/?ch=760e83a1738
+#EXTINF:-1 tvg-name="복지TV" group-title="🇰🇷| Hàn Quốc",복지TV
+http://tv123.vvvv.ee/live.php/?ch=79950ba5739
+#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://pjytv.760515.xyz/logo/국민방송.png" group-title="🇰🇷| Hàn Quốc",국민방송
+http://tv123.vvvv.ee/live.php/?ch=2554445d740
+#EXTINF:-1 tvg-name="문화유산채널" tvg-logo="https://pjytv.760515.xyz/logo/문화유산채널.png" group-title="🇰🇷| Hàn Quốc",문화유산채널
+http://tv123.vvvv.ee/live.php/?ch=0a7f0eb5741
+#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://pjytv.760515.xyz/logo/방송대학TV.png" group-title="🇰🇷| Hàn Quốc",방송대학TV
+http://tv123.vvvv.ee/live.php/?ch=4c92e4c8742
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="🇰🇷| Hàn Quốc",EBS1
+http://tv123.vvvv.ee/live.php/?ch=f5cc14e3743
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://pjytv.760515.xyz/logo/EBS2.png" group-title="🇰🇷| Hàn Quốc",EBS2
+http://tv123.vvvv.ee/live.php/?ch=de0dfef0744
+#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://pjytv.760515.xyz/logo/EBS+1.png" group-title="🇰🇷| Hàn Quốc",EBS+1
+http://tv123.vvvv.ee/live.php/?ch=0637e917745
+#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://pjytv.760515.xyz/logo/EBS+2.png" group-title="🇰🇷| Hàn Quốc",EBS+2
+http://tv123.vvvv.ee/live.php/?ch=4dc2b562746
+#EXTINF:-1 tvg-name="EBS English" tvg-logo="https://pjytv.760515.xyz/logo/EBS English.png" group-title="🇰🇷| Hàn Quốc",EBS English
+http://tv123.vvvv.ee/live.php/?ch=e95706c4747
+#EXTINF:-1 tvg-name="한국영화1" group-title="🇰🇷| Hàn Quốc",한국영화1
+http://tv123.vvvv.ee/live.php/?ch=681b8e04748
+#EXTINF:-1 tvg-name="한국영화2" group-title="🇰🇷| Hàn Quốc",한국영화2
+http://tv123.vvvv.ee/live.php/?ch=4a6ed837749
+#EXTINF:-1 tvg-name="한국영화3" group-title="🇰🇷| Hàn Quốc",한국영화3
+http://tv123.vvvv.ee/live.php/?ch=bd8b6708750
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS (sv1)
-http://mytv.dothome.co.kr/ch/public/31.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS (sv2)
-http://mytv.dothome.co.kr/ch/public/32.php
+
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS (sv3)
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
@@ -2012,16 +2138,12 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://www.jibs.co.kr/resources/common/img/main_jibs_logo.png", SBS JIBS 
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", SBS CNBC
-http://mytv.dothome.co.kr/ch/catv/34.php
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", SBS Golf
-http://mytv.dothome.co.kr/ch/catv/36.php
+
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png", JTBC Golf & Sport
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_504_A7AC1E82.m3u8
 
 
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC (sv1)
-http://mytv.dothome.co.kr/ch/public/5.php
+
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC (sv2)
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Andong
@@ -3303,57 +3425,176 @@ http://45.15.43.12:80/stv/video.m3u8?token=test
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://i.imgur.com/Dmt78gy.png",CCTV 4K (SDR) (Hạ Scale)
-https://freetv.top/m2k/cctv4k.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://i.imgur.com/Dmt78gy.png",CCTV 4K (HLG) (Kích thước thật sự)
-https://freetv.top/m4k/cctv4k.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 (Viettel Campuchia)
-https://tr-netcdn.metfone.com.kh/netcdn-live-91/cctv1/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV-2
-http://111.43.126.240:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV-3
-http://111.43.126.240:9003/hls/15/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV-4 (Độ trễ thấp)
-http://111.43.126.240:9003/hls/16/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV-4 (Viettel Campuchia)
-https://tr-netcdn.metfone.com.kh/netcdn-live-92/cctv4/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 | Trung Quốc" tvg-id="1" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV-4 中文国际
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV4 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🇨🇳 | Trung Quốc",CCTV-5 体育频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="🇨🇳 | Trung Quốc",CCTV-5+ 体育赛事 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🇨🇳 | Trung Quốc",CCTV-6
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🇨🇳 | Trung Quốc",CCTV-7 军事农业
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🇨🇳 | Trung Quốc",CCTV-8 电视剧 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🇨🇳 | Trung Quốc",CCTV-9 记录 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🇨🇳 | Trung Quốc",CCTV-10 科教 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🇨🇳 | Trung Quốc",CCTV-11 戏曲
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🇨🇳 | Trung Quốc",CCTV-12 社会与法
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV-13 新闻频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🇨🇳 | Trung Quốc",CCTV-14 少儿
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🇨🇳 | Trung Quốc",CCTV-15 音乐
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🇨🇳 | Trung Quốc" ,CCTV-16 奥林匹克
-http://111.43.126.240:9003/hls/29/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🇨🇳 | Trung Quốc" ,CCTV-17 农业农村
-http://106.46.57.50:8888/hls/17/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌲港澳II",CCTV1
+http://tv123.vvvv.ee/live.php/?ch=c2ead57e477
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV-1 综合
+http://tv123.vvvv.ee/live.php/?ch=7f6f4c42889
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="🇨🇳 | Trung Quốc",CCTV-2 财经
+http://tv123.vvvv.ee/live.php/?ch=ad735f54890
+#EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV-3 综艺" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🇨🇳 | Trung Quốc",CCTV-3 综艺
+http://tv123.vvvv.ee/live.php/?ch=9d87a964891
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV-4 中文国际
+http://tv123.vvvv.ee/live.php/?ch=6f7cfa3b892
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV-4 中文国际
+http://tv123.vvvv.ee/live.php/?ch=595a10bb893
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🇨🇳 | Trung Quốc",CCTV-5 体育
+http://tv123.vvvv.ee/live.php/?ch=99db2a42894
+#EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🇨🇳 | Trung Quốc",CCTV-6 电影
+http://tv123.vvvv.ee/live.php/?ch=c63756c5895
+#EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🇨🇳 | Trung Quốc",CCTV-7 国防军事
+http://tv123.vvvv.ee/live.php/?ch=0e6c0865896
+#EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV-8 电视剧" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="🇨🇳 | Trung Quốc",CCTV-8 电视剧
+http://tv123.vvvv.ee/live.php/?ch=fd1f0bad897
+#EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV-9 记录" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="🇨🇳 | Trung Quốc",CCTV-9 记录
+http://tv123.vvvv.ee/live.php/?ch=8713202e898
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🇨🇳 | Trung Quốc",CCTV-10 科教
+http://tv123.vvvv.ee/live.php/?ch=12787d2f899
+#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🇨🇳 | Trung Quốc",CCTV-11 戏曲
+http://tv123.vvvv.ee/live.php/?ch=59419657900
+#EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV-12 社会与法" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="🇨🇳 | Trung Quốc",CCTV-12 社会与法
+http://tv123.vvvv.ee/live.php/?ch=34155f6c901
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV-13 新闻
+http://tv123.vvvv.ee/live.php/?ch=9cdb4564902
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌲港澳II",CCTV13
+http://tv123.vvvv.ee/live.php/?ch=9d2a946e478
+#EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🇨🇳 | Trung Quốc",CCTV-14 少儿
+http://tv123.vvvv.ee/live.php/?ch=ab57710d903
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🇨🇳 | Trung Quốc",CCTV-15 音乐
+http://tv123.vvvv.ee/live.php/?ch=bc611063904
+#EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🇨🇳 | Trung Quốc",CCTV-16 奥林匹克
+http://tv123.vvvv.ee/live.php/?ch=e7f61486905
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🇨🇳 | Trung Quốc",CCTV-17 农业农村
+http://tv123.vvvv.ee/live.php/?ch=973a158d906
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🇨🇳 | Trung Quốc",CCTV-5+ 体育赛事
+http://tv123.vvvv.ee/live.php/?ch=7fb65420907
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🇨🇳 | Trung Quốc",CCTV-4K 
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",湖南卫视
+http://tv123.vvvv.ee/live.php/?ch=3ece52f3908
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",浙江卫视
+http://tv123.vvvv.ee/live.php/?ch=ba70910d909
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",江苏卫视
+http://tv123.vvvv.ee/live.php/?ch=c322995f910
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",东方卫视
+http://tv123.vvvv.ee/live.php/?ch=f31dc292911
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",北京卫视
+http://tv123.vvvv.ee/live.php/?ch=025cfe65912
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",深圳卫视
+http://tv123.vvvv.ee/live.php/?ch=408dbd72913
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",广东卫视
+http://tv123.vvvv.ee/live.php/?ch=dbd49676914
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",大湾区卫视
+http://tv123.vvvv.ee/live.php/?ch=6a48ab8d915
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="🇨🇳 | Trung Quốc",珠江台
+http://tv123.vvvv.ee/live.php/?ch=fd6e5b1d916
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",东南卫视
+http://tv123.vvvv.ee/live.php/?ch=b292f7d9917
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",广西卫视
+http://tv123.vvvv.ee/live.php/?ch=f09e4126918
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",湖北卫视
+http://tv123.vvvv.ee/live.php/?ch=e40e3b1d919
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",四川卫视
+http://tv123.vvvv.ee/live.php/?ch=5d614e12920
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="🇨🇳 | Trung Quốc",CGTN
+http://tv123.vvvv.ee/live.php/?ch=ae47e1d0921
 
-
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",广东卫视
+http://tv123.vvvv.ee/live.php/?ch=3d177941637
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="🇨🇳 | Trung Quốc",广东珠江
+http://tv123.vvvv.ee/live.php/?ch=4d46ae74638
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="🇨🇳 | Trung Quốc",广东体育
+http://tv123.vvvv.ee/live.php/?ch=81748a40639
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",湖南卫视
+http://tv123.vvvv.ee/live.php/?ch=f4e1a41a640
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",浙江卫视
+http://tv123.vvvv.ee/live.php/?ch=cdec50f0641
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",江苏卫视
+http://tv123.vvvv.ee/live.php/?ch=73219a72642
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",山西卫视
+http://tv123.vvvv.ee/live.php/?ch=368ad6cf643
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",青海卫视
+http://tv123.vvvv.ee/live.php/?ch=91f1ee2c644
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="" group-title="🇨🇳 | Trung Quốc",SPOTV
+http://tv123.vvvv.ee/live.php/?ch=24c469ff645
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="" group-title="🇨🇳 | Trung Quốc",SPOTV2
+http://tv123.vvvv.ee/live.php/?ch=edbb23fb646
+#EXTINF:-1 tvg-id="astroFootball" tvg-name="astroFootball" tvg-logo="" group-title="🇨🇳 | Trung Quốc",astroFootball
+http://tv123.vvvv.ee/live.php/?ch=80f78d24647
+#EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TntSports1
+http://tv123.vvvv.ee/live.php/?ch=0ef83fd7648
+#EXTINF:-1 tvg-id="wwwe" tvg-name="wwwe" tvg-logo="" group-title="🇨🇳 | Trung Quốc",wwwe
+http://tv123.vvvv.ee/live.php/?ch=724f5607649
+#EXTINF:-1 tvg-id="博斯運動1" tvg-name="博斯運動1" tvg-logo="" group-title="🇨🇳 | Trung Quốc",博斯運動1
+http://tv123.vvvv.ee/live.php/?ch=bd299540650
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="" group-title="🇨🇳 | Trung Quốc",鳳凰中文
+http://tv123.vvvv.ee/live.php/?ch=57aea420651
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB翡翠
+http://tv123.vvvv.ee/live.php/?ch=52e5adfd652
+#EXTINF:-1 tvg-id="TVB翡翠(馬來)" tvg-name="TVB翡翠(馬來)" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB翡翠(馬來)
+http://tv123.vvvv.ee/live.php/?ch=54f08c97653
+#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB明珠
+http://tv123.vvvv.ee/live.php/?ch=cc8cb75a654
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVBJ1
+http://tv123.vvvv.ee/live.php/?ch=0d8d4569655
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB1
+http://tv123.vvvv.ee/live.php/?ch=2f0fa4a3656
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="" group-title="🇨🇳 | Trung Quốc",千禧经典
+http://tv123.vvvv.ee/live.php/?ch=583088bd657
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="🇨🇳 | Trung Quốc",HOY77
+http://tv123.vvvv.ee/live.php/?ch=fe20ec64658
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="" group-title="🇨🇳 | Trung Quốc",HOY78
+http://tv123.vvvv.ee/live.php/?ch=ca53acb8659
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="🇨🇳 | Trung Quốc",RTHK31
+http://tv123.vvvv.ee/live.php/?ch=bab637c3660
+#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB娱乐新闻
+http://tv123.vvvv.ee/live.php/?ch=974428a1661
+#EXTINF:-1 tvg-id="MYTV黃金翡翠" tvg-name="MYTV黃金翡翠" tvg-logo="" group-title="🇨🇳 | Trung Quốc",MYTV黃金翡翠
+http://tv123.vvvv.ee/live.php/?ch=ba0fb008662
+#EXTINF:-1 tvg-id="TVB翡翠劇集" tvg-name="TVB翡翠劇集" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVB翡翠劇集
+http://tv123.vvvv.ee/live.php/?ch=fa7c45f8663
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="" group-title="🇨🇳 | Trung Quốc",澳視澳門
+http://tv123.vvvv.ee/live.php/?ch=30df4982664
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVBS新聞
+http://tv123.vvvv.ee/live.php/?ch=1d796524665
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="🇨🇳 | Trung Quốc",非凡新闻
+http://tv123.vvvv.ee/live.php/?ch=23e79b97666
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="🇨🇳 | Trung Quốc",民视
+http://tv123.vvvv.ee/live.php/?ch=b8cef3d0667
+#EXTINF:-1 tvg-id="華藝中文" tvg-name="華藝中文" tvg-logo="" group-title="🇨🇳 | Trung Quốc",華藝中文
+http://tv123.vvvv.ee/live.php/?ch=f4c52e40668
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="" group-title="🇨🇳 | Trung Quốc",爱奇艺
+http://tv123.vvvv.ee/live.php/?ch=6b72c2b2669
+#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="" group-title="🇨🇳 | Trung Quốc",靖洋戏剧
+http://tv123.vvvv.ee/live.php/?ch=59f47e41670
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="" group-title="🇨🇳 | Trung Quốc",靖天电影
+http://tv123.vvvv.ee/live.php/?ch=54e2f191671
+#EXTINF:-1 tvg-id="邵氏武侠" tvg-name="邵氏武侠" tvg-logo="" group-title="🇨🇳 | Trung Quốc",邵氏武侠
+http://tv123.vvvv.ee/live.php/?ch=4b6b7c55672
+#EXTINF:-1 tvg-id="東森电影" tvg-name="東森电影" tvg-logo="" group-title="🇨🇳 | Trung Quốc",東森电影
+http://tv123.vvvv.ee/live.php/?ch=c2ea7791673
+#EXTINF:-1 tvg-id="龍華电影" tvg-name="龍華电影" tvg-logo="" group-title="🇨🇳 | Trung Quốc",龍華电影
+http://tv123.vvvv.ee/live.php/?ch=f97c7f89674
+#EXTINF:-1 tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="" group-title="🇨🇳 | Trung Quốc",民視綜藝
+http://tv123.vvvv.ee/live.php/?ch=2e89e6b6675
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="🇨🇳 | Trung Quốc",TVBS精采
+http://tv123.vvvv.ee/live.php/?ch=482e31fc676
+#EXTINF:-1 tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="" group-title="🇨🇳 | Trung Quốc",邵氏电影
+http://tv123.vvvv.ee/live.php/?ch=67136f94677
+#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森电影" tvg-logo="" group-title="🇨🇳 | Trung Quốc",東森电影
+http://tv123.vvvv.ee/live.php/?ch=d84fc40a678
+#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="" group-title="🇨🇳 | Trung Quốc",爱尔达综合
+http://tv123.vvvv.ee/live.php/?ch=778cc2e0679
+#EXTINF:-1 tvg-id="ROCK_Action" tvg-name="ROCK_Action" tvg-logo="" group-title="🇨🇳 | Trung Quốc",ROCK_Action
+http://tv123.vvvv.ee/live.php/?ch=1e8bf8c2680
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="🇨🇳 | Trung Quốc",台视综合
+http://tv123.vvvv.ee/live.php/?ch=232a1aab681
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="" group-title="🇨🇳 | Trung Quốc",八度空间
+http://tv123.vvvv.ee/live.php/?ch=e4d4a863682
+#EXTINF:-1 tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="" group-title="🇨🇳 | Trung Quốc",民视影剧
+http://tv123.vvvv.ee/live.php/?ch=95ac9378683
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="🇨🇳 | Trung Quốc",中视经典
+http://tv123.vvvv.ee/live.php/?ch=4f128c53684
 
 
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="🇨🇳 | Trung Quốc",湖南卫视
@@ -3427,90 +3668,7 @@ https://smt.cdn6.rr.nu/smt3.2.1.php?id=Quanjia
 https://smt.cdn6.rr.nu/smt3.2.1.php?id=Huahee
 
 
-#EXTINF:-1 tvg-id="31" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/31/DoiTac-HieuHa",RTHK 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/31/DoiTac.m3u8
-#EXTINF:-1 tvg-id="32" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/32/DoiTac-HieuHa",RTHK 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/32/DoiTac.m3u8
-#EXTINF:-1 tvg-id="33" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/33/DoiTac-HieuHa",RTHK 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/33/DoiTac.m3u8
-#EXTINF:-1 tvg-id="34" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/34/DoiTac-HieuHa",RTHK 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/34/DoiTac.m3u8
-#EXTINF:-1 tvg-id="35" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/35/DoiTac-HieuHa",RTHK 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/35/DoiTac.m3u8
-#EXTINF:-1 tvg-id="77" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/77/DoiTac-HieuHa",HOY 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/77/DoiTac.m3u8
-#EXTINF:-1 tvg-id="78" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/78/DoiTac-HieuHa",HOY 78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/78/DoiTac.m3u8
-#EXTINF:-1 tvg-id="JADE" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/JADE/DoiTac-HieuHa",TVB Jade
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/JADE/DoiTac.m3u8
-#EXTINF:-1 tvg-id="NEWS" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/NEWS/DoiTac-HieuHa",TVB News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/NEWS/DoiTac.m3u8
-#EXTINF:-1 tvg-id="PEARL" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/PEARL/DoiTac-HieuHa",TVB Pearl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/PEARL/DoiTac.m3u8
-#EXTINF:-1 tvg-id="85" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/85/DoiTac-HieuHa",Phoenix Hong Kong
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/85/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TDM OU MUN" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TDM OU MUN/DoiTac-HieuHa",TDM Ou Mun (Có treo bảng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TDM OU MUN/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TDM CANAL MACAU" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TDM CANAL MACAU/DoiTac-HieuHa",TDM Canal Macau
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TDM CANAL MACAU/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TDM INFORMATION" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TDM INFORMATION/DoiTac-HieuHa",TDM Informação
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TDM INFORMATION/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TDM LEGCO CANTO" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TDM LEGCO CANTO/DoiTac-HieuHa",TDM LegCo Macau (Cantonese)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TDM LEGCO CANTO/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TDM LEGCO PORTUGUESE" group-title="🇨🇳 | Trung Quốc"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TDM LEGCO PORTUGUESE/DoiTac-HieuHa",TDM LegCo Macau (Portuguese)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TDM LEGCO PORTUGUESE/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TVBS ASIA" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVBS ASIA/DoiTac-HieuHa",TVBS Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TVBS ASIA/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TVBS" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVBS/DoiTac-HieuHa",TVBS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TVBS/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TVBS ENT" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVBS ENT/DoiTac-HieuHa",TVBS ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TVBS ENT/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TVBS NEWS" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVBS NEWS/DoiTac-HieuHa",TVBS NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TVBS NEWS/DoiTac.m3u8
-#EXTINF:-1 tvg-id="FORMOSA" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/FORMOSA/DoiTac-HieuHa",FORMOSA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/FORMOSA/DoiTac.m3u8
-#EXTINF:-1 tvg-id="TTV" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TTV/DoiTac-HieuHa",TTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/TTV/DoiTac.m3u8
-#EXTINF:-1 tvg-id="CTV" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CTV/DoiTac-HieuHa",CTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/CTV/DoiTac.m3u8
-#EXTINF:-1 tvg-id="CTS" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CTS/DoiTac-HieuHa",CTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/CTS/DoiTac.m3u8
-#EXTINF:-1 tvg-id="PTS" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/PTS/DoiTac-HieuHa",PTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/PTS/DoiTac.m3u8
-#EXTINF:-1 tvg-id="CTI METRO" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CTI METRO/DoiTac-HieuHa",CTI Metro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/CTI METRO/DoiTac.m3u8
-#EXTINF:-1 tvg-id="CTI ENT" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CTI ENT/DoiTac-HieuHa",CTI Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/CTI ENT/DoiTac.m3u8
-#EXTINF:-1 tvg-id="CTI XINWEN" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CTI XINWEN/DoiTac-HieuHa",CTI News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HieuHa/CTI XINWEN/DoiTac.m3u8
+
 
 
 
