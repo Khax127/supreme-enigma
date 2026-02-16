@@ -3632,7 +3632,7 @@ http://45.15.43.12:80/stv/video.m3u8?token=test
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌲港澳II",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV1
 http://tv123.vvvv.ee/live.php/?ch=c2ead57e477
 #EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV-1 综合
 http://tv123.vvvv.ee/live.php/?ch=7f6f4c42889
@@ -3662,7 +3662,7 @@ http://tv123.vvvv.ee/live.php/?ch=59419657900
 http://tv123.vvvv.ee/live.php/?ch=34155f6c901
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV-13 新闻
 http://tv123.vvvv.ee/live.php/?ch=9cdb4564902
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌲港澳II",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV13
 http://tv123.vvvv.ee/live.php/?ch=9d2a946e478
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🇨🇳 | Trung Quốc",CCTV-14 少儿
 http://tv123.vvvv.ee/live.php/?ch=ab57710d903
