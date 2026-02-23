@@ -3016,46 +3016,6 @@ http://45.15.43.12:80/stv/video.m3u8?token=test
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV1 (Gốc)
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="🇨🇳 | Trung Quốc",CCTV2 (Gốc)
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="🇨🇳 | Trung Quốc",CCTV3 (Gốc)
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV4 中文国际(Gốc)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV4 新闻台(Gốc)
-https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="🇨🇳 | Trung Quốc",CCTV5 (Gốc)
-,http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="🇨🇳 | Trung Quốc",CCTV5+ (Gốc)
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="🇨🇳 | Trung Quốc",CCTV6 (Gốc)
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="🇨🇳 | Trung Quốc",CCTV7 (Gốc)
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="🇨🇳 | Trung Quốc",CCTV8 (Gốc)
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="🇨🇳 | Trung Quốc",CCTV9 (Gốc)
-http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="🇨🇳 | Trung Quốc",CCTV10 (Gốc)
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="🇨🇳 | Trung Quốc",CCTV11 (Gốc)
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="🇨🇳 | Trung Quốc",CCTV12 (Gốc)
-http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV13 (Gốc)
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="🇨🇳 | Trung Quốc",CCTV14 (Gốc)
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="🇨🇳 | Trung Quốc",CCTV15 (Gốc)
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="🇨🇳 | Trung Quốc",CCTV16 (Gốc)
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="🇨🇳 | Trung Quốc",CCTV17 (Gốc)
-http://74.91.26.218:82/live/cctv17hd.m3u8
-
-
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV1 (Migu)
 http://go.061899.xyz/mg/cctv1
@@ -3097,6 +3057,50 @@ http://go.061899.xyz/mg/cctv17
 
 
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🇨🇳 | Trung Quốc",CCTV1 (Gốc)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="🇨🇳 | Trung Quốc",CCTV2 (Gốc)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="🇨🇳 | Trung Quốc",CCTV3 (Gốc)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV4 中文国际(Gốc)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="🇨🇳 | Trung Quốc",CCTV4 新闻台(Gốc)
+https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="🇨🇳 | Trung Quốc",CCTV5 (Gốc)
+,http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="🇨🇳 | Trung Quốc",CCTV5+ (Gốc)
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="🇨🇳 | Trung Quốc",CCTV6 (Gốc)
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="🇨🇳 | Trung Quốc",CCTV7 (Gốc)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="🇨🇳 | Trung Quốc",CCTV8 (Gốc)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="🇨🇳 | Trung Quốc",CCTV9 (Gốc)
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="🇨🇳 | Trung Quốc",CCTV10 (Gốc)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="🇨🇳 | Trung Quốc",CCTV11 (Gốc)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="🇨🇳 | Trung Quốc",CCTV12 (Gốc)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="🇨🇳 | Trung Quốc",CCTV13 (Gốc)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="🇨🇳 | Trung Quốc",CCTV14 (Gốc)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="🇨🇳 | Trung Quốc",CCTV15 (Gốc)
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="🇨🇳 | Trung Quốc",CCTV16 (Gốc)
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="🇨🇳 | Trung Quốc",CCTV17 (Gốc)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="🇨🇳 | Trung Quốc",广东卫视 (Quảng Đông)
 http://go.061899.xyz/mg/gdws
@@ -3108,7 +3112,7 @@ http://go.061899.xyz/mg/dfws
 http://go.061899.xyz/mg/bjws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="🇨🇳 | Trung Quốc",湖南卫视 4K 
 http://go.061899.xyz/mg/hunws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="🇨🇳 | Trung Quốc",浙江卫视https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=a94f98392e3ab62f41f0b0ac59b302c7c306f0660d66bdc00ac9a24d1553d7d883f1cf050b5110f0bb66f7fafd3b33d5f0196d4e7c510c95a8f9101d551169b168a9e6304dd5496b120ce1a995718589
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="🇨🇳 | Trung Quốc",浙江卫视
 https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/e824b899a9014c086e06b3515d2015087bf40bd15e89?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" group-title="🇨🇳 | Trung Quốc",浙江卫视 4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
