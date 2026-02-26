@@ -2834,7 +2834,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="427" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827961160/a7850e59953d.png",Bitt TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo=""https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
+#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="512" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d.jpg",Onda Digital TV 2 
@@ -4724,7 +4724,7 @@ https://hls01.zharafm.ru/hls/live.m3u8
 
 
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", An Giang
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", An Giang
 http://42.1.64.42/490
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://s76165.cdn.mytvnet.vn/vimages/345x194/01/11/10/0a/a8/84/0110a-pvngtuhd-channel-unkn.png", Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
@@ -4740,7 +4740,7 @@ http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Bình Định
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", Bình Định
 http://42.1.64.42/s4482
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg", Bình Phước
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
@@ -4798,7 +4798,7 @@ https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Hoà Bình
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", Hoà Bình
 http://truyenthanhip.vov.link:8000/244D34575002
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://s12971.cdn.mytvnet.vn/vimages/345x194/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png", Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
@@ -4819,15 +4819,15 @@ https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
 http://125.212.237.207:8000/tinhnghean
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/audio_bg.jpg", Ninh Bình
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Nam Định
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", Nam Định
 http://123.16.189.138:1724/sohoanamdinh
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2021/12/5.png", Ninh Thuận
 https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Phú Thọ
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", Phú Thọ
 https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://s1286.cdn.mytvnet.vn/vimages/a7/7b/be/e7/78/8d/a7be7-pphuyentv-channel-unkn.png", Phú Yên
 http://113.161.4.48:8080/phuyen/radio/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Quảng Bình
+#EXTINF:-1 group-title="📻| Radio" tvg-logo=", Quảng Bình
 http://27.71.226.192:3000/quang_binh2
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png", Quảng Nam
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
@@ -5967,13 +5967,13 @@ https://lb-as.cdn-perfprod.com/live/nrcradioupper
 https://lb-as.cdn-perfprod.com/live/nrcradiolower
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="📻| Radio | Quốc Tế" radio=true,Mayyu FM
 https://lb-as.cdn-perfprod.com/live/mayyufm
-#EXTINF:-1 tvg-logo="" group-title="📻| Radio | Quốc Tế" radio=true,CityFM
+#EXTINF:-1 tvg-logo=" group-title="📻| Radio | Quốc Tế" radio=true,CityFM
 https://stream.zeno.fm/rq4ux25pyeruv
-#EXTINF:-1 tvg-logo="" group-title="📻| Radio | Quốc Tế" radio=true,Mandalay FM
+#EXTINF:-1 tvg-logo=" group-title="📻| Radio | Quốc Tế" radio=true,Mandalay FM
 https://edge.mixlr.com/channel/nmtev
-#EXTINF:-1 tvg-logo="" group-title="📻| Radio | Quốc Tế" radio=true,Star FM
+#EXTINF:-1 tvg-logo=" group-title="📻| Radio | Quốc Tế" radio=true,Star FM
 https://cast3.my-control-panel.com/proxy/starfmky/stream
-#EXTINF:-1 tvg-logo="" group-title="📻| Radio | Quốc Tế" radio=true,Cherry FM
+#EXTINF:-1 tvg-logo=" group-title="📻| Radio | Quốc Tế" radio=true,Cherry FM
 https://cherry.akiyaresearch.com:444/stream/89/;?type=http&nocache=8
 #EXTINF:-1 tvg-id="Radio Klasik" group-title="📻| Radio | Quốc Tế" radio=true tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
 https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
