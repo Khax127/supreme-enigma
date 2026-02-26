@@ -31,41 +31,40 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f11
 
 
 
-
+#EXTINF:0,FPT Play 
+#EXTGRP: Livestream | FPT Play
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Bản Tin Thể Thao 24h+
+#EXTGRP: Livestream | FPT Play
+https://1.org.vn/tv360k11
 #EXTINF:0,FPT Play Event 1
 #EXTGRP: Livestream | FPT Play
-http://p1.cvtv.xyz/fpt?token=live
+https://1.org.vn/tv360k1
 #EXTINF:0,FPT Play Event 2
 #EXTGRP: Livestream | FPT Play
-http://p1.cvtv.xyz/fpt2?token=live
+https://1.org.vn/tv360k2
 #EXTINF:0,FPT Play Event 3
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k1
+https://1.org.vn/tv360k3
 #EXTINF:0,FPT Play Event 4
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k2
+https://1.org.vn/tv360k4
 #EXTINF:0,FPT Play Event 5
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k3
+https://1.org.vn/tv360k5
 #EXTINF:0,FPT Play Event 6
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k4
+https://1.org.vn/tv360k6
 #EXTINF:0,FPT Play Event 7
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k5
+https://1.org.vn/tv360k7
 #EXTINF:0,FPT Play Event 8
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k6
+https://1.org.vn/tv360k8
 #EXTINF:0,FPT Play Event 9
 #EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k7
-#EXTINF:0,FPT Play Event 10
-#EXTGRP: Livestream | FPT Play
-https://1.org.vn/tv360k8
-#EXTINF:0,FPT Play Event 11
-#EXTGRP: Livestream | FPT Play
 https://1.org.vn/tv360k9
-#EXTINF:0,FPT Play Event 12
+#EXTINF:0,FPT Play Event 10
 #EXTGRP: Livestream | FPT Play
 https://1.org.vn/tv360k10
 
