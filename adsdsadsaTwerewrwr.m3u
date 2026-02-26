@@ -2158,7 +2158,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="427" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827961160/a7850e59953d.png",Bitt TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo=""https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
+#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="512" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d.jpg",Onda Digital TV 2 
