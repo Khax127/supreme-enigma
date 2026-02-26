@@ -2305,7 +2305,7 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ritsatv.ru/files/poster/original/900904.jpg" group-title="🇷🇺| Nga và khối SNG",ДАГЕСТАН ТВ
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🔴| Livestream - FPT Play",КОННЫЙ МИР (Đua ngựa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🇷🇺| Nga và khối SNG",КОННЫЙ МИР (Đua ngựa)
 https://origin5.mediacdn.ru/live/konnyimir_edge/index.m3u8
 #EXTINF:-1  tvg-logo="https://ritsatv.ru/files/poster/medium/901060.webp" group-title="🇷🇺| Nga và khối SNG",АРХЫЗ ТВ
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
@@ -2604,13 +2604,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="427" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827961160/a7850e59953d.png",Bitt TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
+#EXTINF:-1 tvg-id="511" group-title="TV360 Peru"  tvg-logo=""https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647353498/8f7406cae5b6.jpg",Onda Digital TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="512" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d.jpg",Onda Digital TV 2 
+#EXTINF:-1 tvg-id="512" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d.jpg",Onda Digital TV 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="516" group-title="TV360 Peru"  tvg-logo="src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7.jpg",Radio Onda Digital 
+#EXTINF:-1 tvg-id="516" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7.jpg",Radio Onda Digital 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg5.tv360.bitel.com.pe/bitel/radioodtv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="410" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828516371/f7ae6d39f0ee.jpg",USMP(Của thủ đô cho tất cả Peru)
