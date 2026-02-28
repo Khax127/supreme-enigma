@@ -2788,9 +2788,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744584625/7456dd3f5d9b.png", Creofe(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8?uid=7963868
-#EXTINF:-1 tvg-id="625" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744584625/7456dd3f5d9b.png", +Fe TV
+#EXTINF:-1 tvg-id="625" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771282481372/0db9aa794285.png", +Fe TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8?uid=7963868
+https://live-evg10.tv360.bitel.com.pe/bitel/fetv/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="332" group-title="TV360 Peru"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835614322/8e8c09d02454_640_360.jpeg", Bethel TV(Của thủ đô cho tất cả Peru)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?uid=7963868
@@ -2802,8 +2802,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/radiobethel/playlist.m3u8?uid=796386
 https://live-evg7.tv360.bitel.com.pe/bitel/santarosaSRT/playlist.m3u8?uid=7963868
 #EXTINF:-1 tvg-id="422" group-title="TV360 Peru"  tvg-logo="	https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/31/05/1769812827629/c867572138f8.png", Voz Cristiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-evg7.tv360.bitel.com.pe/bitel/santarosaSRT/playlist.m3u8?uid=7963868
-
+https://live-evg18.tv360.bitel.com.pe/bitel/vozcristianatvSRT/playlist.m3u8?uid=7963868
 
 
 
@@ -7020,7 +7019,7 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/chaoquay_key.flv
+https://live10.watchsoccerlivenews.net/live/chaoquay.flv
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
@@ -7054,7 +7053,7 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live10.watchsoccerlivenews.net/live/chaoquay_key/playlist.m3u8
+https://live10.watchsoccerlivenews.net/live/chaoquay/playlist.m3u8
 
 
 
