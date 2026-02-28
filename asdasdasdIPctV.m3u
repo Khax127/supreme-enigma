@@ -491,7 +491,6 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=c7f336d850fb616c33b16f61937f44
 
 
 #-*--HTV&HTVC-*--#
-
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://static.mediacdn.vn/htv/images/htv_logotetam.svg" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1 (MyTV)
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=65325d1208a2ea7d7f0e8a2b29ad61db
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1  (FPT Play)
