@@ -6561,6 +6561,12 @@ https://cyber.chuoichien.tv/chuoichon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cyber.chuoichien.tv/chuoichon/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cyber.chuoichien.tv/chuoinuong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://cyber.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cyber.chuoichien.tv/chuoivang.flv
@@ -6946,6 +6952,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoichon.flv
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichon/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -7003,6 +7017,10 @@ https://live10.watchsoccerlivenews.net/live/phao_key.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/hattieu_key.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
+#EXTVLCOPT:http-referrer=https://hoadaotv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://live10.watchsoccerlivenews.net/live/chaoquay_key.flv
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
@@ -7033,7 +7051,10 @@ https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
+#EXTVLCOPT:http-referrer=https://hoadaotv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://live10.watchsoccerlivenews.net/live/chaoquay_key/playlist.m3u8
 
 
 
