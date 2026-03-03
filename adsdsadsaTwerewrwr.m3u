@@ -758,217 +758,153 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/304302.ts
 
 
 
+#Tokyo3
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg_tokyo" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHKG-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke_tokyo" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHKE-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo=""https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TVAsahi-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX1-540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#Kansai
 
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/786.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://tv123.vvvv.ee/live.php/?ch=c9ccd02493
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-http://tv123.vvvv.ee/live.php/?ch=fcf053b994
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/791.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/795.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/789.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-http://tv123.vvvv.ee/live.php/?ch=fbaa7cc098
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-http://tv123.vvvv.ee/live.php/?ch=2ecce42099
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-http://tv123.vvvv.ee/live.php/?ch=b6432e54100
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=91a61ca6101
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=0b8eedfb102
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=2ca7dafd103
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/796.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/790.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/797.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/788.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/BS_TV_Tokyo_%28Japanese%29_2023.png",TV Tokyo HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/798.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/808.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyo_mx_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 HD (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/809.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/794.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/792.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/787.ts
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=dd91223a112
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=151e7205113
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=d8271040114
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
-http://tv123.vvvv.ee/live.php/?ch=49c5f9d0115
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/810.ts
-🐬日本JP,#genre#
-NHK総合東京NHKG(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/786.ts
-日本テレビNTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/787.ts
-テレビ東京TVTokyo(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/788.ts
-テレビ朝日Asahi(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/789.ts
-フジテレビ富士Fuji(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/790.ts
-TBS(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/791.ts
-NHKEテレ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/792.ts
-NHKWorld(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/793.ts
-NHK総合京都(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/794.ts
-BS-富士FUJI(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/795.ts
-BS-TBS161(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/796.ts
-BS朝日151Asahi(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/797.ts
-BSジャパンBSTVTokyo(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/798.ts
-NHKBS1(101)(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/799.ts
-BS日テレ141NTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/800.ts
-関西テレビ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/805.ts
-WOWOWライブLiveBS192(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/806.ts
-WOWOWシネマCinemaBS193(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/807.ts
-WOWOWシネマCinema(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/820.ts
-WOWOWライブLive(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/819.ts
-WOWOWプライムPrime(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/818.ts
-WOWOWプラス映画(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/828.ts
-TOKYOMX1(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/808.ts
-TOKYOMX2(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/809.ts
-MBS毎日放送TV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/810.ts
-KBS京都(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/811.ts
-ABCテレビAsahiBC(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/812.ts
-スター?チャンネルStarChannel1(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/821.ts
-スター?チャンネルStarChannel2(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/822.ts
-スター?チャンネルStarChannel3(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/823.ts
-BS11(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/824.ts
-BS12トゥエルビ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/825.ts
-BS256ディズニー?チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/830.ts
-CS218東映チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/831.ts
-BS日本映画専門チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/829.ts
-映画?チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/882.ts
-衛星劇場(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/832.ts
-時代劇専門チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/841.ts
-CS294ホームドラマチャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/843.ts
-ファミリー劇場FamilyTheatre(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/842.ts
-MONDOTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/844.ts
-TBSチャンネル１(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/845.ts
-TBSチャンネル2(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/846.ts
-テレ朝チャンネルTVAsahi１(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/847.ts
-テレ朝チャンネルTVAsahi2(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/848.ts
-フジテレビFUJITVONE(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/849.ts
-フジテレビFUJITVTWO(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/850.ts
-フジテレビFUJITVNEXT(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/851.ts
-スーパー！ドラマSuperDramaTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/852.ts
-ＡＸＮ海外ドラマ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/853.ts
-FOX(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/854.ts
-女性チャンネル?LaLaTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/855.ts
-ザ?シネマTheCinema(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/834.ts
-ムービープラスMoviePlus(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/835.ts
-AXNミステリーMystery(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/856.ts
-100%ヒッツ！スペースシャワーTVプラス(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/857.ts
-スペースシャワー(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/858.ts
-MTVHD(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/859.ts
-MUSICON!TV（エムオン!）(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/860.ts
-ミュージック?エア(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/861.ts
-ミュージック?ジャパン(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/880.ts
-歌謡ポップスチャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/862.ts
-アニマルプラネット(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/868.ts
-アニメシアターXAT-X(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/865.ts
-ヒストリーチャンネル日本世界の歴史＆エンタメ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/869.ts
-ナショナルジオグラフィック(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/870.ts
-BSアニマックスAnimax(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/815.ts
-BSスカパー!SkyPerfecTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/827.ts
-TBSニュースバード(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/872.ts
-FIGHTINGTVサムライ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/879.ts
-TAKARAZUKASKYSTAGE(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/840.ts
-BSフジFuji(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/817.ts
-アイドル専門チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/881.ts
-キッズステーション(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/863.ts
-グリーンチャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/826.ts
-スカイ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/836.ts
-スポーツライブ(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/876.ts
-チャンネル銀河(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/833.ts
-ディスカバリーチャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/867.ts
-ディズニージュニアお子さま向けディズニー番組(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/866.ts
-テレビ大阪TVOsaka(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/813.ts
-よみうりテレビYTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/814.ts
-囲碁?将棋チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/875.ts
-旅チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/877.ts
-鉄道チャンネル(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/878.ts
-日テレプラスNitterePlus(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/838.ts
-海外アニメ！カートゥーンネットワーク(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/864.ts
-KNTV(JP),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/883.ts
+#Kansai2
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg_osaka" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="abc" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kansai_tv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="yormuri_tv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png",Yomiuri TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tv_osaka" tvg-logo=""https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png",TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sun_tv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",SUN TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#other_region
 
-🐬韩国KR,#genre#
-KBS1(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/886.ts
-KBS2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/887.ts
-MBC(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/889.ts
-SBS(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/888.ts
-KBSNDrama(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/890.ts
-KBSNJoy(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/891.ts
-KBSNKids(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/892.ts
-KBSWorld(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/893.ts
-MBCDRAMA(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/899.ts
-MBCM(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/902.ts
-MBCNO(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/900.ts
-SBSBIZ(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/895.ts
-SBSPlus(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/896.ts
-JTBC(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/903.ts
-JTBC2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/904.ts
-CATCHON1(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/909.ts
-CATCHON2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/917.ts
-ChannelA(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/908.ts
-ChannelChina(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/945.ts
-ChannelaPlus(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/962.ts
-Anibox(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/965.ts
-Anione(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/966.ts
-AXN[??](KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/912.ts
-BTN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/951.ts
-CHING(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/942.ts
-CNTV(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/926.ts
-CPBC(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/952.ts
-CTS(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/954.ts
-Discoverychannel(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/953.ts
-HISTORY(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/956.ts
-Smithsonianchannel(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/950.ts
-EBS1(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/946.ts
-EBS2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/947.ts
-EBSPLUS1(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/894.ts
-EBSPLUS2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/948.ts
-EBSKids(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/928.ts
-FTV(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/943.ts
-InetTV(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/923.ts
-JEI??TV(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/910.ts
-KidsTalkTalk(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/927.ts
-Kstar(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/968.ts
-MBN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/907.ts
-NOW[??](KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/911.ts
-OCN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/914.ts
-OCNMovies1(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/915.ts
-OCNMovies2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/916.ts
-Mnet(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/919.ts
-PlayyWell(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/971.ts
-SCREEN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/913.ts
-SKStoa(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/963.ts
-tvNSports(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/949.ts
-Tooniverse(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/924.ts
-Golf&PBA(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/958.ts
-TVChosun(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/905.ts
-TVChosun2(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/918.ts
-TVBaduk(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/944.ts
-tvN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/920.ts
-tvNShow(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/921.ts
-Yonhapnewstv(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/906.ts
-YTN(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/929.ts
-韩国娱乐台KMTV(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/975.ts
-?????(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/925.ts
-?????braintv象棋(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/959.ts
-Arirang(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/964.ts
-ALLTVK(KR),http://iptvpro.pw:35451/live/QQ%E7%BE%A41067462089/457dhgG951u/974.ts
+
+#BS2
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bs" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhk_bsp4k" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png",NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_ntv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png",BS NTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_asahi" tvg-logo=""https://www.lyngsat.com/logo/tv/bb/bs_asahi.png",BS Asahi  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tbs" tvg-logo=""https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png",BS TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_tvtokyo" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_fuji" tvg-logo=""https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_prime" tvg-logo=""https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png",WOWOW Prime 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_live" tvg-logo=""https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png",WOWOW Live  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowow_cinema" tvg-logo=""https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="star_channel" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",Star Channel 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animax" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png",BS Animax  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js1" tvg-logo=""https://www.jsports.co.jp/img/icon/ch1.png",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js2" tvg-logo=""https://www.jsports.co.jp/img/icon/ch2.png",J SPORTS 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js3" tvg-logo=""https://www.jsports.co.jp/img/icon/ch3.png",J SPORTS 3 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="js4" tvg-logo=""https://www.jsports.co.jp/img/icon/ch4.png",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="green_channel" tvg-logo=""https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",Green Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nihon_eiga" tvg-logo=""https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg",BS Japan Movie Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="disney_ch" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tsuri_vision" tvg-logo=""https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs_shochiku_tokyu" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg",BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#BS2
+
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="qvc" tvg-logo=""https://i.imgur.com/xWSzQ34.png",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#CS2
+
+#CS2
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="jidaigeki" tvg-logo=""https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",Jidaigeki Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="toei_channel" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="eigeki" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",Eisei Gekijo 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="family_geki" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="movie_plus" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",Movie Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="homedrama_channel" tvg-logo=""https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tabi_ch" tvg-logo=""https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv_next" tvg-logo=""https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV Next
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_a" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",Sky A  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="gaora" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",GAORA SPORTS  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="golf_network" tvg-logo=""https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",Golf Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="gtasu" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mondo_tv" tvg-logo=""https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ginga_channel" tvg-logo=""https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="space_shower" tvg-logo=""https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="MusicJapanTV.jp" tvg-logo=""https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kayo_pops" tvg-logo=""https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mtv" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",MTV (2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="lala_tv" tvg-logo=""https://www.lyngsat.com/logo/tv/ll/lala_tv.png",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="sky_stage" tvg-logo=""https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",Takarazuka Sky Stage
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kids_station" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",Kids Station TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cartoon_network" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="disney_junior" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="discovery" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",Discovery Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nat_geo" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",National Geographic
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animal_planet" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="history" tvg-logo=""https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",History Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="cnnj" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/2048px-CNNj_channel_logo.svg.png",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+
+
 
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
