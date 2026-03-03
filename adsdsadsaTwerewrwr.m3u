@@ -3378,10 +3378,14 @@ https://live10.watchsoccerlivenews.net/live/phao_key.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/hattieu_key.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV: Cháo Quẩy
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/chaoquay.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
+#EXTVLCOPT:http-referrer=https://hoadaotv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://live10.watchsoccerlivenews.net/live/thisinh.flv
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
@@ -3412,10 +3416,14 @@ https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV Cháo Quẩy
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV: Cháo Quẩy
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live10.watchsoccerlivenews.net/live/chaoquay/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
+#EXTVLCOPT:http-referrer=https://hoadaotv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://live10.watchsoccerlivenews.net/live/thisinh/playlist.m3u8
 
 
 
