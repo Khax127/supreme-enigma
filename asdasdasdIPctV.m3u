@@ -6553,7 +6553,7 @@ https://live1.footballvideocdn20xx.org/live/hattieu_key.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.footballvideocdn20xx.org/live/chaoquay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="/assets/image/meme_ech.jpg", BLV: Táo Đỏ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv1" tvg-logo="https://hoadaotv.net/assets/image/meme_ech.jpg", BLV: Táo Đỏ
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.footballvideocdn20xx.org/live/taodo_key.flv
@@ -6596,7 +6596,7 @@ https://live1.footballvideocdn20xx.org/live/hattieu_key/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.footballvideocdn20xx.org/live/chaoquay/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="/assets/image/meme_ech.jpg", BLV: Táo Đỏ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoaDaoTV + CauThuTV  | sv2" tvg-logo="https://hoadaotv.net/assets/image/meme_ech.jpg", BLV: Táo Đỏ
 #EXTVLCOPT:http-referrer=https://hoadaotv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.footballvideocdn20xx.org/live/taodo_key/playlist.m3u8
