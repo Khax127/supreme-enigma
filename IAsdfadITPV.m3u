@@ -1905,8 +1905,6 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/235.png", KIX HD (sv2)
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/236.png", TLC (MPD)
-
-#EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://img.lichphatsong.site/logo/236.png", TLC (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"fKm/A2I/d7Xi8W3wtT8nTQ", "kid":"tpCGKXMmOa2kgUpiCCltnA" } ], "type":"temporary"}
@@ -6925,7 +6923,7 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Heo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bống (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
@@ -6990,7 +6988,7 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Heo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bống (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
@@ -7200,25 +7198,24 @@ https://live1.footballvideocdn20xx.org/live/chaoquay_key.flv
 https://live1.footballvideocdn20xx.org/live/taodo_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
 https://live1.footballvideocdn20xx.org/live/thisinh.flv
-
-
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://cauthutv.org/assets/images/logo_new.png" tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
-https://live10.watchsoccerlivenews.org/live/duahau_stream1.flv
+https://live1.footballvideocdn20xx.org/live/duahau_stream1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0122-17-18.jpg", BLV: Táo
-https://live10.watchsoccerlivenews.org/live/tao_stream1.flv
+https://live1.footballvideocdn20xx.org/live/tao_stream1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/dylan.jpg", BLV: Dylan
-https://live10.watchsoccerlivenews.org/live/blv_dylan.flv
+https://live1.footballvideocdn20xx.org/live/blv_dylan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-fanta.jpg", BLV: Fanta
-https://live10.watchsoccerlivenews.org/live/fanta_stream.flv
+https://live1.footballvideocdn20xx.org/live/fanta_stream.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0821-39-36.jpg", BLV: Văn Chuẩn
-https://live10.watchsoccerlivenews.org/live/vanchuan_stream1.flv
+https://live1.footballvideocdn20xx.org/live/vanchuan_stream1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
-https://live10.watchsoccerlivenews.org/live/blv_amap.flv
+https://live1.footballvideocdn20xx.org/live/blv_amap.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
-https://live10.watchsoccerlivenews.org/live/blv_aton.flv
+https://live1.footballvideocdn20xx.org/live/blv_aton.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
-https://live10.watchsoccerlivenews.org/live/blv_giotai.flv
+https://live1.footballvideocdn20xx.org/live/blv_giotai.flv
+
+
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
@@ -7242,21 +7239,21 @@ https://live1.footballvideocdn20xx.org/live/taodo_key/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
 https://live1.footballvideocdn20xx.org/live/thisinh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://cauthutv.org/assets/images/logo_new.png" tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
-https://live10.watchsoccerlivenews.org/live/duahau_stream1/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/duahau_stream1/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0122-17-18.jpg", BLV: Táo
-https://live10.watchsoccerlivenews.org/live/tao_stream1/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/tao_stream1/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/dylan.jpg", BLV: Dylan
-https://live10.watchsoccerlivenews.org/live/blv_dylan/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-fanta.jpg", BLV: Fanta
-https://live10.watchsoccerlivenews.org/live/fanta_stream/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/fanta_stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0821-39-36.jpg", BLV: Văn Chuẩn
-https://live10.watchsoccerlivenews.org/live/vanchuan_stream1/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/vanchuan_stream1/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
-https://live10.watchsoccerlivenews.org/live/blv_amap/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
-https://live10.watchsoccerlivenews.org/live/blv_aton/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/blv_aton/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
-https://live10.watchsoccerlivenews.org/live/blv_giotai/playlist.m3u8
+https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
 
 
 
