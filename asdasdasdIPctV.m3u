@@ -16,17 +16,21 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=02921830d122d9ac24f109d56663ef
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
 
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv1)
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=adc456e52fd87f023a42177ce852d4c2
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv1)
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=377ec936e6018de75833db0015facf3a
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 
+
+#EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+
 #EXTINF:-1 tvg-id="phim-viet" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-au-my" group-title="🔴| Livestream | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
@@ -235,30 +239,55 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv2)
+https://vietanhtv.id.vn/tv360/2/index.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (TV360) (sv3)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}", VTV2 (TV360)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}", VTV2 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/3/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}", VTV2 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8
-#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (TV360)
+#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/4/index.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" catchup="default" catchup-days="3" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 (TV360)
+#EXTINF:0 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/108/index.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (TV360) (50fps)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (TV360) (50fps) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (TV360) (50fps) (sv2)
+https://vietanhtv.id.vn/tv360/110/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (TV360)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/e8c66db4-15c3-44cb-873b-d0f67a3ed4b2/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV5 Tây Nam Bộ (TV360)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/e8c66db4-15c3-44cb-873b-d0f67a3ed4b2/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV5 Tây Nam Bộ (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/157/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/e8c66db4-15c3-44cb-873b-d0f67a3ed4b2/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV5 Tây Nam Bộ (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_640_360.png", VTV5 Tây Nguyên (TV360)
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_640_360.png", VTV5 Tây Nguyên (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/207/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_640_360.png", VTV5 Tây Nguyên (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360)
+#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/98/index.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (TV360)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/6/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png" , VTV8 (TV360)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png" , VTV8 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/115/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png" , VTV8 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (TV360)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
-
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png", Vietnam Today (TV360) (sv1)
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png", Vietnam Today (TV360) (sv2)
+https://vietanhtv.id.vn/tv360/9951/index.m3u8
 
 
 #EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (VTVPrime)  
@@ -308,7 +337,7 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8902113d1a0a77cb64c8307e4f149c
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
@@ -5934,96 +5963,6 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/atich.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/atich/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoibay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoibay/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/bapcai.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/bapcai/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitong.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoidoo.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoidoo/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitieu.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitieu/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoichon.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoichon/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoinuong.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoivang.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoivang/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv1" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/manze/index.m3u8
 
 
 
@@ -6111,6 +6050,9 @@ https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Hóa (A Bì)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Nghệ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe.flv
@@ -6150,6 +6092,9 @@ https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Hóa (A Bì)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Nghệ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
@@ -6203,7 +6148,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_alexphan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bống (Phan Heo)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bổng (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
@@ -6268,7 +6213,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bống (Phan Heo)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Phan Bổng (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
@@ -6457,7 +6402,6 @@ https://live.sladdogg.com/OBS/02/index.m3u8
 
 
 
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
 https://live1.footballvideocdn20xx.org/live/buncha.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
@@ -6478,9 +6422,6 @@ https://live1.footballvideocdn20xx.org/live/chaoquay_key.flv
 https://live1.footballvideocdn20xx.org/live/taodo_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
 https://live1.footballvideocdn20xx.org/live/thisinh.flv
-
-
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://cauthutv.org/assets/images/logo_new.png" tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
 https://live1.footballvideocdn20xx.org/live/duahau_stream1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0122-17-18.jpg", BLV: Táo
@@ -6497,6 +6438,7 @@ https://live1.footballvideocdn20xx.org/live/blv_amap.flv
 https://live1.footballvideocdn20xx.org/live/blv_aton.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
 https://live1.footballvideocdn20xx.org/live/blv_giotai.flv
+
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
@@ -6539,123 +6481,246 @@ https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/atichhd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/atichhd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibayhd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibayhd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/bapcaihd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/bapcaihd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitonghd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitonghd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidoohd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidoohd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoihothd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoi99hd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoi99hd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichonhd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichonhd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoivanghd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/duyhunghd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/duyhunghd/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manzehd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manzehd/index.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atich.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atich/index.m3u8 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibay/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcai.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcai/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoito/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitong/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoo.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoo/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihot/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichon.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichon/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivang.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivang/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhung/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | sv2" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manze/index.m3u8
