@@ -2816,6 +2816,42 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/tamquoctv.png" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Ngộ Không (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_ngokhong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Ngộ Không (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_tumay.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_tumay/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/htcJDTz4/signal-2026-03-06-215430-002.jpg", BLV: Mã Siêu (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_masieu.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/htcJDTz4/signal-2026-03-06-215430-002.jpg", BLV: Mã Siêu (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_masieu/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/B6qN2XVn/signal-2026-03-06-215503-002.jpg", BLV: Mộ Dung Phục (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_modungphuc.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/B6qN2XVn/signal-2026-03-06-215503-002.jpg", BLV: Mộ Dung Phục (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_modungphuc/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
 
 
 
