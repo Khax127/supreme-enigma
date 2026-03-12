@@ -68,9 +68,36 @@ https://1.org.vn/tv360k9
 #EXTGRP: Livestream | FPT Play
 https://1.org.vn/tv360k10
 
-
-
-
+#EXTINF:0,Sự Kiện VTVPrime 1
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS1/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 2
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS2/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 3
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS3/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 4
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 5
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 6
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 7
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS7/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 8
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS8/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 9
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS9/index.m3u8
+#EXTINF:0,Sự Kiện VTVPrime 10
+#EXTGRP: Livestream | VTVPrime
+https://liveh34byt.vtvprime.vn/hls/SKSS10/index.m3u8
 
 
 
