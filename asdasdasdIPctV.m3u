@@ -79,8 +79,26 @@ https://1.org.vn/tv360k9
 https://1.org.vn/tv360k10
 
 
-
-
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
+https://liveh34byt.vtvprime.vn/hls/SKSS1/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 2
+https://liveh34byt.vtvprime.vn/hls/SKSS2/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 3
+https://liveh34byt.vtvprime.vn/hls/SKSS3/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 4
+https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 5
+https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 6
+https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7
+https://liveh34byt.vtvprime.vn/hls/SKSS7/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 8
+https://liveh34byt.vtvprime.vn/hls/SKSS8/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 9
+https://liveh34byt.vtvprime.vn/hls/SKSS9/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 10
+https://liveh34byt.vtvprime.vn/hls/SKSS10/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/JyldIpjrhuGLHhZwEqr0NEsWnTz23JFExC0REMHBtjUsAlbRyB6RX0ioCB-DtzhEK-z0TAdn=s160-c-k-c0x00ffffff-no-rj", 23 FPS TV
