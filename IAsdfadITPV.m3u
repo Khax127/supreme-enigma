@@ -397,30 +397,30 @@ https://vntv.ddns.net/vtv/vtv9.m3u8
 
 
 
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (TV360) (sv1)
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (TV360) (sv2)
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (MyTV)
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8902113d1a0a77cb64c8307e4f149cf2
 
 
-#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv1)
+#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 
-#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv2)
+#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (MyTV)
+#EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-phimviet.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=2c555b13b882d53c4b300767dbb6d977
 
 
-#EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg"  catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (MyTV)
+#EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg"  catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,28 +428,28 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=2c555b13b882d53c4b300767dbb6d9
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (TV360) (sv1)
+#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (TV360) (sv2)
+#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (MyTV)
+#EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-movies.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=dcf7bfc60134b58bc88d6ae1e96bf2d6
 
 
-#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (TV360) (sv1)
+#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (TV360) (sv2)
+#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-5-e-channel-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (MyTV)
+#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-echannel.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=fa674e1891246fcf7293f4509e2f5cd5
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (MyTV)
+#EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -458,63 +458,63 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (TV360) (sv1)
+#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (TV360) (sv2)
+#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/o2tv/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (MyTV)
+#EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=914af1be5584fe76c0df1b7bdbaea4f0
 
-#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (TV360) (sv1)
+#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (TV360) (sv2)
+#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-8-bi-bi-sd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (MyTV)
+#EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ad0ee022a0e903d0d6bc25d47d0526c3
 
-#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (TV360) (sv1)
+#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (TV360) (sv2)
+#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-9-infotv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (MyTV)
+#EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-infotv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=10ebfd21150001f18f3bb17d8b4c77a2
 
-#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (TV360) (sv1)
+#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (TV360) (sv2)
+#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab10-on-cine-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (MyTV)
+#EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-cine.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=d59a8eb49899d15e23d5693f82c95a77
 
-#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (TV360) (sv1)
+#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (TV360) (sv2)
+#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-12-styletv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (MyTV)
+#EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-style.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=8368000020f843684a9513ba633346a4
 
-#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (TV360) (sv1)
+#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (TV360) (sv2)
+#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab15-on-music/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (MyTV)
+#EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-music.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=736b0d32270c50ba76f2a20b439023a9
 
@@ -525,7 +525,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=27
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/07/16/16/1721123708752/b08f2f10f9ae_640_360.png",VTVcab13-On Homeshopping (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab13-on-homeshopping/KenhCoBan.m3u8
 
-#EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" , ON Football HD (MyTV) (FPT)
+#EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg" , ON Football HD (MyTV) (FPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -534,71 +534,71 @@ https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 
 
 
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg", ON Trending TV (TV360) (sv1)
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-trending.jpg", ON Trending TV (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg", ON Trending TV (TV360) (sv2)
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-trending.jpg", ON Trending TV (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab17-trending-tv/KenhCoBan.m3u8
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg", ON Trending TV (MyTV)
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-trending.jpg", ON Trending TV (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=c0f558be57f3226090cb6dcbbacc5300
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (MyTV) (FPT)
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (MyTV) (FPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (TV360) (sv1)
+#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (TV360) (sv2)
+#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (MyTV)
+#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=96cf8dea2fd405dac3b7541c835c6575
 
 
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg", ON V Family (TV360) (sv1)
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-vfamily.jpg", ON V Family (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg", ON V Family (TV360) (sv2)
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-vfamily.jpg", ON V Family (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg", ON V Family (MyTV)
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-vfamily.jpg", ON V Family (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=9833c8c2132796c70c2a2311060b468d
 
 
-#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (TV360) (sv1)
+#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (TV360) (sv3)
+#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (TV360) (sv3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (MyTV)
+#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-kids.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=449412bdef68648017ce8e45b2ede5b4
 
 
-#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (TV360) (sv1)
+#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (TV360) (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (TV360) (sv2)
+#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (TV360) (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-22-life-tv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (MyTV)
+#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=2734fbcb24aa78cb3bf9c7d9e52fa56e
 
 
-#EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf (TV360) 
+#EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf (TV360) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf (MyTV)
+#EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -873,7 +873,7 @@ https://liveh34.vtvprime.vn/hls/SCTV13/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png",SCTV15 (MyTV)
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.site/logo/sctv15hd.png",SCTV15 (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -888,7 +888,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv17hd.png",SCTV17 (MyTV)
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.site/logo/sctv17hd.png",SCTV17 (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -919,9 +919,9 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=817
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png",SCTV22 (MyTV)
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=829
-#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png",SCTV22 (VTVPrime)
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 (VTVPrime)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 
@@ -940,24 +940,24 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
 #-*--Thiết yếu-*--#
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (FPT Play)
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.site/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (FPT Play)
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (ONPlus)
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.site/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (ONPlus)
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" http-user-agent="com.msky.mskyandroidtvott",ANTV HD (VTVPrime)
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.site/logo/antv.png" http-user-agent="com.msky.mskyandroidtvott",ANTV HD (VTVPrime)
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (TV360)
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.site/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=20
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (MyTV)
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu"  tvg-logo="https://img.lichphatsong.site/logo/antv.png" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD (MyTV)
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=1abf8ed0cc65605b2946e1cc5bac3a25
 
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (FPT Play)
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.site/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (FPT Play)
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (ONPlus)
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.site/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (ONPlus)
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (TV360)
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.site/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=19
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (MyTV)
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.site/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD (MyTV)
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f3bca7ce04cd7c0af77d85c8c6803f00
 
 
@@ -1922,11 +1922,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=21449e89f104ad58d37ff20ea6e490f0
 
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="🌿| Khám phá",Da Vinci 
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.site/logo/davinci.png" group-title="🌿| Khám phá",Da Vinci 
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=d902885ea15e35f3cfb38c0dfbe6b631
 
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="🌿| Khám phá",Da Vinci (FPT Play)
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.site/logo/davinci.png" group-title="🌿| Khám phá",Da Vinci (FPT Play)
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 
