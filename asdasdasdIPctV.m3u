@@ -45,37 +45,26 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg", Bản Tin Thể Thao 24h+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k11
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k1
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k2
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k3
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k4
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k5
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k6
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k7
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k9
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Event 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/tv360k10
 
 
@@ -5767,215 +5756,145 @@ https://streaming.kalohan.net/proxy/raliber?mp=/stream
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" group-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg" tvg-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg", Test (Phát lại)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TEST.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1"  tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741422548.jpg", BLV: Khổng Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741619197.webp", BLV: Quan Vũ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/QUANVU.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1747917566.jpg", BLV: Lý Ứng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755619308.jpg", BLV: Lý Quỳ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741352036.jpg", BLV: Tống Giang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157985.png", BLV: Kaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768554577.jpg", BLV: Leo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LEO.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768745541.jpg", BLV: Đoàn Dự
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/DOANDU1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1749456627.jpg", BLV: Tây Môn Khánh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1753768388.jpg", BLV: Vương Luân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755413569.jpg", BLV: Ura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158042.webp", BLV: Nhị Ka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158208.png", BLV: Ngũ Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/NGUCA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157701.png", BLV: Dương Quá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741415389.webp", BLV: Mã Siêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/MASIEU.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768478352.webp", BLV: Maybach
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/MAYBACH.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764749027.jpg", BLV: A Tủa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/ATUA.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1757234293.png", BLV: Võ Tòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1757234319.jpg", BLV: Phong Vân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/PHONGVAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755237548.jpg", BLV: Kenchu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1742109682.jpg", BLV: Trường Thanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TRUONGTHANH.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1749732307.jpg", BLV: Tôn Lập
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1746372294.jpg", BLV: Kevill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157855.png", BLV: Lưu Bị
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571632.png", BLV: Văn Vỹ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/VANVY.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754653043.jpg", BLV: Yến Thanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1751378977.jpg", BLV: Thời Thiên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/THOITHIEN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571725.jpg", BLV: Shin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/SHIN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768998442.jpg", BLV: Chun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/CHUN1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv1" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571759.jpg", BLV: Giáo Sư Xoay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://flv.cdnok9.com/live/GIAOSUXOAY.flv
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" group-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg" tvg-logo="https://assets-global.website-files.com/6621fb0d3646c188f91559ae/662220d63b9a3a54a0813eea_LOGO-LUONGSON-TV-1024x244-1-p-500.jpg", Test (Phát lại)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TEST/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2"  tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754547755.png", BLV: Tần Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TANCA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741422548.jpg", BLV: Khổng Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741619197.webp", BLV: Quan Vũ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/QUANVU/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1747917566.jpg", BLV: Lý Ứng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755619308.jpg", BLV: Lý Quỳ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741352036.jpg", BLV: Tống Giang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157985.png", BLV: Kaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768554577.jpg", BLV: Leo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768745541.jpg", BLV: Đoàn Dự
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/DOANDU1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1749456627.jpg", BLV: Tây Môn Khánh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1753768388.jpg", BLV: Vương Luân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755413569.jpg", BLV: Ura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158042.webp", BLV: Nhị Ka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158208.png", BLV: Ngũ Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/NGUCA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157701.png", BLV: Dương Quá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741158149.png", BLV: Lữ Bố
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571693.webp", BLV: Dương Chí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1745244507.png", BLV: Triệu Tử Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1741415389.webp", BLV: Mã Siêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/MASIEU/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768478352.webp", BLV: Maybach
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764749027.jpg", BLV: A Tủa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/ATUA/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1757234293.png", BLV: Võ Tòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/VOTONG/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1757234319.jpg", BLV: Phong Vân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1755237548.jpg", BLV: Kenchu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/KENCHU/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1742109682.jpg", BLV: Trường Thanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1749732307.jpg", BLV: Tôn Lập
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1746372294.jpg", BLV: Kevill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/KEVILL/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/avatar/1741157855.png", BLV: Lưu Bị
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571632.png", BLV: Văn Vỹ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/VANVY/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1754653043.jpg", BLV: Yến Thanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1751378977.jpg", BLV: Thời Thiên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571725.jpg", BLV: Shin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/SHIN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1768998442.jpg", BLV: Chunn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/CHUN1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1764571759.jpg", BLV: Giáo Sư Xoay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
@@ -5985,475 +5904,325 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/tamquoctv.png" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Ngộ Không (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_ngokhong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Ngộ Không (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_tumay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_tumay/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_lim.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_lim/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/htcJDTz4/signal-2026-03-06-215430-002.jpg", BLV: Mã Siêu (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_masieu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/htcJDTz4/signal-2026-03-06-215430-002.jpg", BLV: Mã Siêu (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/B6qN2XVn/signal-2026-03-06-215503-002.jpg", BLV: Mộ Dung Phục (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_modungphuc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/B6qN2XVn/signal-2026-03-06-215503-002.jpg", BLV: Mộ Dung Phục (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_modungphuc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/xaycontv.png" tvg-logo="https://i.postimg.cc/8P1H66Jg/photo-2022-08-12-07-49-33.jpg", BLV: Xây Con
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_xaycon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/7Z0gGwsm/IMG-8884.jpg", BLV: A Cỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_aco.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_giacatdu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/JzTxG1Wq/image.png", BLV: Phi MC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_phimc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/bJ9nym94/photo-2024-04-29-23-34-12.jpg", BLV: Bịp Con
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_bipcon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/rpYjRvf1/photo-2025-12-29-19-01-50.jpg", BLV: Hàn Tín
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_hantin.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_chienca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_ca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/QdCJ6ZJ0/photo-2025-10-30-08-47-07.jpg", BLV: Văn Tích
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_vantich.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/zvf06ymW/signal-2026-02-13-172453-002.jpg", BLV: Thợ Lặn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_tholan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/CMnkKChF/signal-2026-02-13-164118.jpg", BLV: H+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_hatplus.flv
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/xaycontv.png" tvg-logo="https://i.postimg.cc/8P1H66Jg/photo-2022-08-12-07-49-33.jpg", BLV: Xây Con
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/7Z0gGwsm/IMG-8884.jpg", BLV: A Cỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_giacatdu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/JzTxG1Wq/image.png", BLV: Phi MC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_phimc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/bJ9nym94/photo-2024-04-29-23-34-12.jpg", BLV: Bịp Con
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/rpYjRvf1/photo-2025-12-29-19-01-50.jpg", BLV: Hàn Tín
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/xdqpbbZc/photo-2025-10-31-20-40-55.jpg", BLV: Cá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_ca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/QdCJ6ZJ0/photo-2025-10-30-08-47-07.jpg", BLV: Văn Tích
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_vantich/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/zvf06ymW/signal-2026-02-13-172453-002.jpg", BLV: Thợ Lặn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/CMnkKChF/signal-2026-02-13-164118.jpg", BLV: H+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://xclive.zlylive.com/live/xctv_blv_hatplus/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/thiendinhtv.png" tvg-logo="https://i.postimg.cc/6pm5Rpg9/signal-2026-03-02-233838.jpg", BLV: Ngọc Hoàng(A Cháo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_ngochoang.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_namtao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Nghệ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taolu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoyte.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/025STkRx/signal-2026-03-02-141052.jpg", BLV: Táo Chè
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoche.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoxanh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/7YWDP97n/photo-2026-01-04-17-34-36.jpg", BLV: Táo Mèo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/ZK3qpM9B/signal-2026-02-28-214631.jpg", BLV: Táo Tàu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taotau.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taozai.flv
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/thiendinhtv.png" tvg-logo="https://i.postimg.cc/6pm5Rpg9/signal-2026-03-02-233838.jpg", BLV: Ngọc Hoàng(A Cháo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_ngochoang/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Táo Văn Nghệ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taolu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/025STkRx/signal-2026-03-02-141052.jpg", BLV: Táo Chè
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoxanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/7YWDP97n/photo-2026-01-04-17-34-36.jpg", BLV: Táo Mèo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/ZK3qpM9B/signal-2026-02-28-214631.jpg", BLV: Táo Tàu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taozai/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/hoiquantv.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phando.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/hyaNNmf.jpeg", BLV: Phan Báo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/ZzZxBY1.jpeg", BLV: Phan Ca 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/yKINOhJ.jpeg", BLV: Phan Cáo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/Q8iZTpR.jpeg", BLV: Phan Cậu Cả
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancauca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanche.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772350014824-496b82c0-4395-4193-b180-ab4864c11aa6.jpg", BLV: Phan Gầy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_alexphan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Lương Bổng (Phan Heo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1773403211914-18ce5841-236c-4f99-903b-6dc0a22e4904.jpeg", BLV: Người Chớp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phankhuong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/U76dMJI.jpeg", BLV: Phan Mã
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanma.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/NqBMPty.jpeg", BLV: Phan Mão
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772346571358-a82c03dd-cf23-483d-b1df-341d966449b9.jpg", BLV: Phan Phép
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbanh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772303448078-f2a46f26-89f7-4155-be63-d7e7b16543a1.jpg", BLV: Phan Sóc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phantom.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772384811759-fc3c972b-488f-47d1-9233-8a56301f73c1.jpg", BLV: Phan Mì Tôm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanche.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772302634616-e824269a-36bb-45cf-8709-9ddd948a135c.jpg", BLV: Sát Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/7VcARGX.jpeg", BLV: Thiên Lôi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi.flv
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/hoiquantv.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/hyaNNmf.jpeg", BLV: Phan Báo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/ZzZxBY1.jpeg", BLV: Phan Ca 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/yKINOhJ.jpeg", BLV: Phan Cáo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/Q8iZTpR.jpeg", BLV: Phan Cậu Cả
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancauca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772350014824-496b82c0-4395-4193-b180-ab4864c11aa6.jpg", BLV: Phan Gầy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/m1jgFXH.jpeg", BLV: Phan Hà Linh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/HBsPrmA.jpeg", BLV: Phan Hải
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Lương Bổng (Phan Heo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1773403211914-18ce5841-236c-4f99-903b-6dc0a22e4904.jpeg", BLV: Người Chớp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phankhuong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/U76dMJI.jpeg", BLV: Phan Mã
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/NqBMPty.jpeg", BLV: Phan Mão
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/FwVW5oc.jpeg", BLV: Phan Sêu 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772303448078-f2a46f26-89f7-4155-be63-d7e7b16543a1.jpg", BLV: Phan Sóc 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/VoC98ih.jpeg", BLV: Phan Tôm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phantom/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772384811759-fc3c972b-488f-47d1-9233-8a56301f73c1.jpg", BLV: Phan Mì Tôm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772302634616-e824269a-36bb-45cf-8709-9ddd948a135c.jpg", BLV: Sát Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/7VcARGX.jpeg", BLV: Thiên Lôi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/quechoatv.png" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai5.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766255646152-avatar-alex.webp", BLV: Alex
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773225356277-signal-2026-03-11-173354-002.png", BLV: Mason
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766028837135-photo-2025-12-18-10-33-17.jpg", BLV: Khoai Tây
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Người Chym
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1769877027303-chatgpt-image-23-27-53-23-thg-12-2025.png", BLV: Ricky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1770403031439-signal-2026-02-07-012539-1-.jpeg", BLV: Gấu Nâu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1772364495095-signal-2026-03-01-182533-002.jpeg", BLV: Dưa Hấu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773242525344-326486883-555406613274729-7882458060367662167-n.jpg", BLV: Rượu Mận
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7.flv
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/quechoatv.png" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai5.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766255646152-avatar-alex.webp", BLV: Alex
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773225356277-signal-2026-03-11-173354-002.png", BLV: Mason
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766028837135-photo-2025-12-18-10-33-17.jpg", BLV: Khoai Tây
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Người Chym
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767350365681-photo-2025-12-29-15-53-32.jpg", BLV: Cụ Già
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1769877027303-chatgpt-image-23-27-53-23-thg-12-2025.png", BLV: Ricky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1770403031439-signal-2026-02-07-012539-1-.jpeg", BLV: Gấu Nâu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1772364495095-signal-2026-03-01-182533-002.jpeg", BLV: Dưa Hấu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773242525344-326486883-555406613274729-7882458060367662167-n.jpg", BLV: Rượu Mận
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/8tructiep.jpg" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772548967399-avatarImg.jpg", BLV: Em Tai Lung (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/11.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/8tructiep.jpg" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772548967399-avatarImg.jpg", BLV: Em Tai Lung (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/11/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772548979385-avatarImg.jpg", BLV: Anh Bo (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/08.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772548979385-avatarImg.jpg", BLV: Anh Bo (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/08/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317056690-avatarImg.png", BLV: Zorro (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/07.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317056690-avatarImg.png", BLV: Zorro (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/07/index.m3u8 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317050058-avatarImg.png", BLV: Cá Viên (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/09.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317050058-avatarImg.png", BLV: Cá Viên (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/09/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317046058-avatarImg.png", BLV: Người Kiến (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/04.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1762317046058-avatarImg.png", BLV: Người Kiến (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/04/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772199643657-avatarImg.png", BLV: Jack (sv1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/02.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Tamtructiep" tvg-logo="https://8sportlive26.com/api/uploads/avatars/1772199643657-avatarImg.png", BLV: Jack (sv2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.sladdogg.com/OBS/02/index.m3u8
 
 
@@ -6461,7 +6230,8 @@ https://live.sladdogg.com/OBS/02/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
+https://live1.footballvideocdn20xx.org/live/buncha.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
 https://live1.footballvideocdn20xx.org/live/trada_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
@@ -6499,7 +6269,8 @@ https://live1.footballvideocdn20xx.org/live/blv_giotai.flv
 
 
 
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-10-16.jpg", BLV: Bún Chả
+https://live1.footballvideocdn20xx.org/live/buncha.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
 https://live1.footballvideocdn20xx.org/live/trada_key/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
@@ -6540,244 +6311,184 @@ https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atichhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atichhd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibayhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibayhd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcaihd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcaihd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitohd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitonghd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitonghd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoohd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoohd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihothd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99hd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99hd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichonhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichonhd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivanghd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhunghd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhunghd/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manzehd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manzehd/index.m3u8
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atich.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD"  tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: Giàng A Tích (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/atich/index.m3u8 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" group-logo="https://cdn-media.chuoichien.tv/media/20251121_055053_a02c582a.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD"  tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Chuối Bảy (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoibay/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcai.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260301_132513_a016a798.png", BLV: Bắp Cải (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/bapcai/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoito.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251001_203418_8f668f5a.jpg", BLV: Chuối To (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoito/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260202_212615_cded4c36.webp", BLV: Chuối Tống (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitong/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260206_033729_8612d501.jpg", BLV: Chuối Đô (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoidoo/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250801_093803_c835782a.webp", BLV: Chuối Tây (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260302_082420_20726c58.png", BLV: Chuối Tiêu (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250901_230010_90a45d4f.webp", BLV: Chuối Hột (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoihot/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20250831_103112_12268275.jpeg", BLV: Chuối Chín Chín (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoi99/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichon.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260208_103517_11663011.jpg", BLV: Chuối Chồn (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichon/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20251208_210844_894a24fc.webp", BLV: Chuối Nướng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivang.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoivang/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhung.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/duyhung/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manze.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/manze/index.m3u8
