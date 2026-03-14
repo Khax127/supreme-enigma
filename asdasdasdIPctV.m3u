@@ -5981,6 +5981,9 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/tamquoctv.png" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Ngộ Không (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_ngokhong.flv
@@ -6023,7 +6026,6 @@ https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
-
 
 
 
@@ -6110,6 +6112,9 @@ https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa.flv
@@ -6152,6 +6157,9 @@ https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
@@ -6179,8 +6187,6 @@ https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taozai/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/hoiquantv.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
@@ -6213,7 +6219,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanhai.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Lương Bổng (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1773403211914-18ce5841-236c-4f99-903b-6dc0a22e4904.jpeg", BLV: Người Chớp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
@@ -6275,7 +6281,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260211ad182bed5b830570c7028ba372f803c3.jpg", BLV: Lương Bổng (Phan Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772354625117-22e239b1-ce02-4ac3-87c6-8db9cea7b89c.jpg", BLV: Phan Kiến
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1773403211914-18ce5841-236c-4f99-903b-6dc0a22e4904.jpeg", BLV: Người Chớp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/MWim21p.jpeg", BLV: Phan Long
@@ -6456,8 +6462,6 @@ https://live.sladdogg.com/OBS/02/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
 https://live1.footballvideocdn20xx.org/live/trada_key.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
@@ -6530,7 +6534,6 @@ https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_aton/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
 https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
-
 
 
 
