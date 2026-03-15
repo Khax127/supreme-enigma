@@ -31,6 +31,14 @@ https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 
+#EXTINF:-1 tvg-id="tv360plus12" group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12 (MPD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
+https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
+
+
 #EXTINF:-1 tvg-id="phim-viet" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-au-my" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
@@ -6701,10 +6709,6 @@ https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv1)
-https://tqlive.zlylive.com/live/tqtv_blv_tumay.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/pTWVzm6S/signal-2026-03-06-204535.jpg", BLV: Tư Mã Ý (sv2)
-https://tqlive.zlylive.com/live/tqtv_blv_tumay/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_lim.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv2)
@@ -6717,6 +6721,10 @@ https://tqlive.zlylive.com/live/tqtv_blv_masieu/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_modungphuc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/B6qN2XVn/signal-2026-03-06-215503-002.jpg", BLV: Mộ Dung Phục (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_modungphuc/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/Pqt65gC1/copy-1C9C3303-BCFC-4EE5-B960-70D9AC0F718E.jpg", BLV: Triệu Tử Long (sv1)
+https://tqlive.zlylive.com/live/tqtv_blv_trieutulong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/Pqt65gC1/copy-1C9C3303-BCFC-4EE5-B960-70D9AC0F718E.jpg", BLV: Triệu Tử Long (sv2)
+https://tqlive.zlylive.com/live/tqtv_blv_trieutulong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
