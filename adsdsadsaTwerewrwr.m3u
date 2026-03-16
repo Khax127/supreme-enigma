@@ -19,15 +19,56 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=02921830d122d9ac24f109d56663ef
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
 
 
+#EXTINF:0,TV360+ 1
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live1
+#EXTINF:0,TV360+ 2
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live2
+#EXTINF:0,TV360+ 3
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live3
+
+#EXTINF:0,TV360+ 4
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live4
+#EXTINF:0,TV360+ 5
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live5
+
+#EXTINF:0,TV360+ 6
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live6
+#EXTINF:0,TV360+ 7
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live7
+#EXTINF:0,TV360+ 8
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live8
 #EXTINF:0,TV360+ 9
 #EXTGRP: Livestream | TV360
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:0,TV360+ 10
 #EXTGRP: Livestream | TV360
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
-
-
-
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
+#EXTINF:0,TV360+ 11
+#EXTGRP: Livestream | TV360
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:0,TV360+ 12
+#EXTGRP: Livestream | TV360
+https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live12
+#EXTINF:0,Phim Việt
+#EXTGRP: Livestream | TV360
+https://vietanhtv.id.vn/tv360/9902/index.m3u8
+#EXTINF:0,Phim Âu Mỹ
+#EXTGRP: Livestream | TV360
+https://vietanhtv.id.vn/tv360/9903/index.m3u8
+#EXTINF:0,Hoạt hình
+#EXTGRP: Livestream | TV360
+https://vietanhtv.id.vn/tv360/9934/index.m3u8
+#EXTINF:0,TV360 Promo
+#EXTGRP: Livestream | TV360
+https://vietanhtv.id.vn/tv360/9904/index.m3u8
 
 
 
@@ -576,39 +617,16 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| Kênh Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| Kênh Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| Kênh Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| Kênh Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| Kênh Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| Kênh Box" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| Kênh Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) Player (Linux; Android 11)
-https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| Kênh Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="manhd" group-title="📦| Kênh Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",Man 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| Kênh Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
-
-
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi", Box Movie 1
+https://toiyeuvietnam.dpdns.org/Start/VMT0678_BoxMovie1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png", Hollywood Classics
+https://toiyeuvietnam.dpdns.org/Start/VMT0678_HW
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/Box_Hits.png/revision/latest?cb=20240717144048&path-prefix=vi", Box Hits 
+https://toiyeuvietnam.dpdns.org/Start/VMT0456_BoxHit
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box 
+https://toiyeuvietnam.dpdns.org/Start/VMT0567_MusicBox
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman 
+https://toiyeuvietnam.dpdns.org/Start/VMT0789_Women
 
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="Quốc Tế" tvg-logo="https://hls.mskycdn.online/logo/hbohd.png" http-user-agent="com.msky.mskyandroidtvott",HBO
