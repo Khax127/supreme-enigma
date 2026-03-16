@@ -5918,6 +5918,10 @@ https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Hoắc Đô (sv1)
+https://tqlive.zlylive.com/live/tqtv_blv_hoacdo.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Hoắc Đô (sv2)
+https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_lim.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Lim (sv2)
@@ -5938,6 +5942,7 @@ https://tqlive.zlylive.com/live/tqtv_blv_trieutulong/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
+
 
 
 
@@ -6277,7 +6282,7 @@ https://3046426067.global.cdnfastest.com/live/link-09.flv
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://hoadao.tv/assets/image/hoadaotvlogo.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://phantatv.com/assets/image/logo-phantav-v2.png" tvg-logo="https://media.chuoichientv.com/media/20260201_191059_796b7d90.webp", BLV: Trà Đá
 https://live1.footballvideocdn20xx.org/live/trada_key/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
 https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
