@@ -45,18 +45,19 @@ https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live8
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv1)
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
+
 
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv1)
 https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8
 
 
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11 (sv1)
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus12" group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12 (MPD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -215,14 +216,7 @@ https://1.org.vn/yt4
 https://1.org.vn/yt5
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/0XIwZ86OQYj5T28OjlMFpfRBzMvm0ofv6hxihwF5sr2OjaojdwwwpMzlCaGU7A-bfPfqfj-N=s176-c-k-c0x00ffffff-no-rj", Liên Quân Mobile
 https://1.org.vn/yt6
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/oEvlk94a-dzkNBtBc0QhQWURrVwZKcR4jDa7DDKEDMQOKlgcmqkuqLEt-aEjPI_V2yWQgj9Wdes=s176-c-k-c0x00ffffff-no-rj", LCK Mùa Xuân 2024
-https://1.org.vn/yt7
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/YA8Wy_QSaqD3UzmwrB4rt3uU0TPwg73ypY-wxlaReOV373qO4JckSChhzWhmIuxqkrAhf-H3pw=s176-c-k-c0x00ffffff-no-rj", 23 DOTA TV
-https://1.org.vn/yt8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/Q1wpqaZysWjvgHtK3WbestCjOURkVymiJir-dtbSutIQpPd7Xbuv882O_9wRu5udoko2-X0t=s176-c-k-c0x00ffffff-no-rj", 500BROS PUBG
-https://1.org.vn/yt9
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://TFTVN.com/wp-content/uploads/2019/08/logo-TFTVN.png", TFTVN
-https://1.org.vn/yt10
+
 
 
 
