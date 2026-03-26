@@ -35,16 +35,20 @@ https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live8
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv1)
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
+
+
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv1)
 https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360-10" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",TV360+ 10 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8
+
 
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11 (sv1)
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",TV360+ 11 (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8
+
 #EXTINF:-1 tvg-id="tv360plus12" group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live12
 
@@ -96,14 +100,7 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 6
 https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7
-https://liveh34byt.vtvprime.vn/hls/SKSS7/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 8
-https://liveh34byt.vtvprime.vn/hls/SKSS8/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 9
-https://liveh34byt.vtvprime.vn/hls/SKSS9/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 10
-https://liveh34byt.vtvprime.vn/hls/SKSS10/index.m3u8
+
 
 
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/JyldIpjrhuGLHhZwEqr0NEsWnTz23JFExC0REMHBtjUsAlbRyB6RX0ioCB-DtzhEK-z0TAdn=s160-c-k-c0x00ffffff-no-rj", 23 FPS TV
