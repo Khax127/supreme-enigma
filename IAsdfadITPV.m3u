@@ -6778,30 +6778,7 @@ https://tqlive.zlylive.com/live/tqtv_blv_ricky.flv
 https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/ngoaihangtv.png" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/c5ff2876-0007-4836-b4a9-d8a2155a2ff0-1767181128066.jfif", BLV: A Long (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang8.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/c5ff2876-0007-4836-b4a9-d8a2155a2ff0-1767181128066.jfif", BLV: A Long (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang8/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/f103407c-1699-45b4-b984-0ea23d193177-1767180150566.jfif", BLV: A Những (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang3.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/f103407c-1699-45b4-b984-0ea23d193177-1767180150566.jfif", BLV: A Những (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang3/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/55555555-5555-5555-5555-555555555555-1767180118658.jfif", BLV: Bủ Nô (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang2.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/55555555-5555-5555-5555-555555555555-1767180118658.jfif", BLV: Bủ Nô (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang2/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/602b9961-6f0a-430d-98e0-5d4e92a58727-1767181172461.jfif", BLV: Madueke (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang6.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/602b9961-6f0a-430d-98e0-5d4e92a58727-1767181172461.jfif", BLV: Madueke (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang6/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/0ae5204a-70af-4e46-99ab-a1a60f44124b-1767181090003.jfif", BLV: O Haha (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang7.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/0ae5204a-70af-4e46-99ab-a1a60f44124b-1767181090003.jfif", BLV: O Haha (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang7/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/58269f8c-184b-4ddb-aba7-5fabb60e9afc-1767178943340.jpg", BLV: Tiểu Nhị (sv1)
-https://2987279587.global.cdnfastest.com/nhlive/ngoaihang5.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/58269f8c-184b-4ddb-aba7-5fabb60e9afc-1767178943340.jpg", BLV: Tiểu Nhị (sv2)
-https://2987306724.global.cdnfastest.com/nhlive/ngoaihang5/index.m3u8
+
 
 
 
@@ -7360,3 +7337,30 @@ https://gckc0525.edgemaxcdn.org/live/quanvu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260326_134343_28c3b4de.png", BLV: Quan Vũ (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/ngoaihangtv.png" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/c5ff2876-0007-4836-b4a9-d8a2155a2ff0-1767181128066.jfif", BLV: A Long (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang8.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/c5ff2876-0007-4836-b4a9-d8a2155a2ff0-1767181128066.jfif", BLV: A Long (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang8/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/f103407c-1699-45b4-b984-0ea23d193177-1767180150566.jfif", BLV: A Những (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang3.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/f103407c-1699-45b4-b984-0ea23d193177-1767180150566.jfif", BLV: A Những (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang3/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/55555555-5555-5555-5555-555555555555-1767180118658.jfif", BLV: Bủ Nô (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang2.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/55555555-5555-5555-5555-555555555555-1767180118658.jfif", BLV: Bủ Nô (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang2/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/602b9961-6f0a-430d-98e0-5d4e92a58727-1767181172461.jfif", BLV: Madueke (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang6.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/602b9961-6f0a-430d-98e0-5d4e92a58727-1767181172461.jfif", BLV: Madueke (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang6/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/0ae5204a-70af-4e46-99ab-a1a60f44124b-1767181090003.jfif", BLV: O Haha (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang7.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/0ae5204a-70af-4e46-99ab-a1a60f44124b-1767181090003.jfif", BLV: O Haha (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang7/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/58269f8c-184b-4ddb-aba7-5fabb60e9afc-1767178943340.jpg", BLV: Tiểu Nhị (sv1)
+https://2987279587.global.cdnfastest.com/nhlive/ngoaihang5.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | NgoaiHangTV" tvg-logo="https://service.ngoaihang.live/storage/v1/object/public/tenan/public/58269f8c-184b-4ddb-aba7-5fabb60e9afc-1767178943340.jpg", BLV: Tiểu Nhị (sv2)
+https://2987306724.global.cdnfastest.com/nhlive/ngoaihang5/index.m3u8
