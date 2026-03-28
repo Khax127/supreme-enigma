@@ -31,7 +31,7 @@ https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_7DkQqyYWYibotCyWZj00A","k":"wA7XBKGa48BCOc4DNI8B9w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wX8bVx6YXxWBc1EWN2O_ZA","k":"YZUbqUZJbL_u3jNLVKGC-A"}],"type":"temporary"}
 https://vietanhtv.id.vn/tv360/1/index.mpd
 #EXTINF:-1 tvg-id="tv360-2" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+ 2 
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live2
