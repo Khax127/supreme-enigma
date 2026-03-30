@@ -32,7 +32,7 @@ https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wX8bVx6YXxWBc1EWN2O_ZA","k":"YZUbqUZJbL_u3jNLVKGC-A"}],"type":"temporary"}
-https://vietanhtv.id.vn/tv360/2554/index.mpd
+https://vietanhtv.id.vn/tv360/1/index.mpd
 #EXTINF:-1 tvg-id="tv360-2" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+ 2 
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live2
 
@@ -246,14 +246,7 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 6
 https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7
-https://liveh34byt.vtvprime.vn/hls/SKSS7/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 8
-https://liveh34byt.vtvprime.vn/hls/SKSS8/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 9
-https://liveh34byt.vtvprime.vn/hls/SKSS9/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 10
-https://liveh34byt.vtvprime.vn/hls/SKSS10/index.m3u8
+
 
 
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/JyldIpjrhuGLHhZwEqr0NEsWnTz23JFExC0REMHBtjUsAlbRyB6RX0ioCB-DtzhEK-z0TAdn=s160-c-k-c0x00ffffff-no-rj", 23 FPS TV
@@ -376,9 +369,6 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/05/07/icon_channel_vtv5-tay-nguyen_168344480529.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}" , VTV5 Tây Nguyên (FPT Play) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/10/icon_channel_vtv-can-tho_166537074507.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (FPT Play) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv7-hd_165655773646.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (FPT Play) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
@@ -388,6 +378,9 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv9-hd_165657032671.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (FPT Play) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2026/03/26/icon_channel_vtv10_17744918995.jpg"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV 10 (FPT Play) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/icon_channel_vietnam-today_175705565938.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", Vietnam Today (FPT Play)  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
@@ -430,10 +423,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan
 https://vietanhtv.id.vn/tv360/207/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_640_360.png", VTV5 Tây Nguyên (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv1)
-https://vietanhtv.id.vn/tv360/98/index.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv2)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (TV360) (sv1)
 https://vietanhtv.id.vn/tv360/6/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (TV360) (sv2)
@@ -446,6 +435,10 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8
 https://vietanhtv.id.vn/tv360/8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (TV360) (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📦| VTV" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/30/08/1774833030495/4d4313f52c66_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv1)
+https://vietanhtv.id.vn/tv360/98/index.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📦| VTV" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/30/08/1774833030495/4d4313f52c66_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (TV360) (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv10/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png", Vietnam Today (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png", Vietnam Today (TV360) (sv2)
@@ -460,28 +453,7 @@ https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1 (VTVGo)
-https://vntv.ddns.net/vtv/vtv1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv2-hd_16565576783.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}" ,VTV2 (VTVGo)
-https://vntv.ddns.net/vtv/vtv2.m3u8
-#EXTINF:-1 group-title="📦| VTV" tvg-id="vtv3hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv3-hd_165657381668.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3 (VTVGo)
-https://vntv.ddns.net/vtv/vtv3.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv4-hd_165657382285.png" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f86bb850-f6ef-4c9d-b0ad-b8fe16ef27e9/catchup/1080p-5M/1080p-5M.m3u8?media=true&start=${start}&stop=${end}",VTV4 (VTVGo) 
-https://vntv.ddns.net/vtv/vtv4.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv5-hd_165657382858.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 (VTVGo) 
-https://vntv.ddns.net/vtv/vtv5.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/e8c66db4-15c3-44cb-873b-d0f67a3ed4b2/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV5 Tây Nam Bộ (VTVGo)
-https://vntv.ddns.net/vtv/vtv5tnb.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_640_360.png", VTV5 Tây Nguyên (VTVGo)
-https://vntv.ddns.net/vtv/vtv5tn.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV Cần Thơ (VTVGo)
-https://vntv.ddns.net/vtv/vtv6.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" , VTV7 (VTVGo)
-https://vntv.ddns.net/vtv/vtv7.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png" , VTV8 (VTVGo)
-https://vntv.ddns.net/vtv/vtv8.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png", VTV9 (VTVGo)
-https://vntv.ddns.net/vtv/vtv9.m3u8
+
 
 
 
