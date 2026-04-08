@@ -5920,6 +5920,10 @@ https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/prkr0rNY/signal-2026-04-04-175000.jpg", BLV: Coca (sv1)
+https://tqlive.zlylive.com/live/tqtv_blv_coca.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/prkr0rNY/signal-2026-04-04-175000.jpg", BLV: Coca (sv2)
+https://tqlive.zlylive.com/live/tqtv_blv_coca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Hoắc Đô (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc1.live/favicon.png", BLV: Hoắc Đô (sv2)
@@ -5952,7 +5956,6 @@ https://tqlive.zlylive.com/live/tqtv_blv_taoaman/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_trieutulong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/Pqt65gC1/copy-1C9C3303-BCFC-4EE5-B960-70D9AC0F718E.jpg", BLV: Triệu Tử Long (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_trieutulong/playlist.m3u8
-
 
 
 
