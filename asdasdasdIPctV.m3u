@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+ừm#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml" tvg-shift=0 m3uautoload=1
@@ -117,7 +117,7 @@ https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/live-giai-vo-dich-bong-ro-5x5-cac-doi-manh-quoc-gia-2026-slide-thumb_1775807685443.jpg",19:55 Giải vô địch bóng rổ các đội mạnh Quốc Gia 5x5 Nội dung Nam: Tây Ninh Thái Sơn Nam - Phòng Không Không Quân PEAK
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/09/slider_1775742072169.jpg", 19:55 Giải bóng đá nữ U20 Châu Á: U20 Trung Quốc - U20 Uzbekistan
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/live-ufc-327-prochazka-vs-ulberg-slide-thumb_1775796389471.jpg", 04:20 UFC 327 : Prochazka vs Ulberg
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
