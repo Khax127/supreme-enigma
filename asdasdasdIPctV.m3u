@@ -137,7 +137,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 
-
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/JyldIpjrhuGLHhZwEqr0NEsWnTz23JFExC0REMHBtjUsAlbRyB6RX0ioCB-DtzhEK-z0TAdn=s160-c-k-c0x00ffffff-no-rj", 23 FPS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/yt1
@@ -158,13 +157,13 @@ https://1.org.vn/yt4
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/lcp_1775840036900.jpg", LoL Esports VN (Luồng FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/lcp_1775840036900.jpg", LoL Esports VN (Luồng Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/yt5
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/09/aogs26_1775710449729.jpg", Liên Quân Mobile (Luồng FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/09/aogs26_1775710449729.jpg", Liên Quân Mobile (Luồng Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/yt6
@@ -180,8 +179,6 @@ https://1.org.vn/yt9
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://TFTVN.com/wp-content/uploads/2019/08/logo-TFTVN.png", TFTVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/yt10
-
-
 
 
 #EXTINF:-1 tvg-id=""  group-title="📺| KÊNH 4K"  group-logo="https://cdn.tgdd.vn/hoi-dap/1219878/4k-800x369.jpg" tvg-logo="http://gg.gg/12z9ag", Love Nature 4K
