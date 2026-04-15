@@ -2807,29 +2807,32 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV" group-logo="https://bugio7.tv/wp-content/uploads/2025/04/bit-lybugioz.webp" tvg-logo="https://i.postimg.cc/J0RgMj7h/photo-2025-05-29-00-23-04.jpg", BLV: A Phủ (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_aphu.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV" group-logo="https://bugio7.tv/wp-content/uploads/2025/04/bit-lybugioz.webp" tvg-logo="https://i.postimg.cc/J0RgMj7h/photo-2025-05-29-00-23-04.jpg", BLV: A Phủ (sv2)
-https://bglive.zlylive.com/live/bgtv_blv_aphu.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/J0RgMj7h/photo-2025-05-29-00-23-04.jpg", BLV: A Phủ (sv2)
+https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/MKgphmnY/photo-2025-07-29-01-01-27.jpg", BLV: Dế Lửa (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_delua.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/MKgphmnY/photo-2025-07-29-01-01-27.jpg", BLV: Dế Lửa (sv2)
-https://bglive.zlylive.com/live/bgtv_blv_delua.flv
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/nVSd8288/Ti-u-B-o.png", BLV: Tiểu Bảo (sv1)
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/nVSd8288/Ti-u-B-o.png", BLV: Tiểu Bảo (sv2)
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao.flv
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hổ (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_tieuho.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hổ (sv2)
-https://bglive.zlylive.com/live/bgtv_blv_tieuho.flv
+https://bglive.zlylive.com/live/bgtv_blv_tieuho/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Kê (sv1)
+https://bglive.zlylive.com/live/bgtv_blv_tieuke.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Kê (sv2)
+https://bglive.zlylive.com/live/bgtv_blv_tieuke/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/9My5WWGL/481955341-122129217380409439-6980355224582903876-n.jpg", BLV: Tiểu Páo (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_tieupao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/9My5WWGL/481955341-122129217380409439-6980355224582903876-n.jpg", BLV: Tiểu Páo (sv2)
-https://bglive.zlylive.com/live/bgtv_blv_tieupao.flv
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/SRjKSSQD/photo-2025-08-23-03-01-32.jpg", BLV: Tiểu Trà Đá (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_trada.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/SRjKSSQD/photo-2025-08-23-03-01-32.jpg", BLV: Tiểu Trà Đá (sv2)
-https://bglive.zlylive.com/live/bgtv_blv_trada.flv
-
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
 
 
@@ -2933,64 +2936,64 @@ https://xclive.zlylive.com/live/xctv_blv_hatplus/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/thiendinhtv.png" tvg-logo="https://i.postimg.cc/6pm5Rpg9/signal-2026-03-02-233838.jpg", BLV: Ngọc Hoàng(A Cháo)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang.flv
+https://tdlive.zlylive.com/live/tdtv_blv_ngochoang.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao.flv
+https://tdlive.zlylive.com/live/tdtv_blv_namtao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taothienvuong.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Thần Thông (Táo Văn Nghệ)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovannghe.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taolu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taoyte.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/025STkRx/signal-2026-03-02-141052.jpg", BLV: Táo Chè
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoche.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taoche.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taoxanh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/7YWDP97n/photo-2026-01-04-17-34-36.jpg", BLV: Táo Mèo
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/ZK3qpM9B/signal-2026-02-28-214631.jpg", BLV: Táo Tàu
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taotau.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taotau.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv1" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai.flv
+https://tdlive.zlylive.com/live/tdtv_blv_taozai.flv
 
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/thiendinhtv.png" tvg-logo="https://i.postimg.cc/6pm5Rpg9/signal-2026-03-02-233838.jpg", BLV: Ngọc Hoàng(A Cháo)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_ngochoang/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jjsSGY2R/photo-2026-01-03-18-16-42.jpg", BLV: Nam Tào (Thây Ma)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/kgtWcqtf/signal-2025-12-12-110817-002.jpg", BLV: Táo Giao Thông
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taogiaothong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/PqNjVfxt/signal-2026-01-31-213116.webp", BLV: Táo Giáo Dục
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taogiaoduc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/NF6Tk7xB/signal-2026-03-12-202714.jpg", BLV: Táo Thiên Vương
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taothienvuong/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/tRVJS5Xz/signal-2026-03-03-165108-002.jpg", BLV: Táo Văn Hóa (A Bí)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/28gYpktt/signal-2026-02-26-134325.jpg", BLV: Thần Thông (Táo Văn Nghệ)
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/rw6BVGxN/unnamed.jpg", BLV: Táo Xã Hội
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taolu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/vDRs9wCc/signal-2025-12-13-202038.jpg", BLV: Táo Y Tế
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/025STkRx/signal-2026-03-02-141052.jpg", BLV: Táo Chè
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoche/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/jSVbk0JG/signal-2025-12-19-003120-002.jpg", BLV: Táo Xanh
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taoxanh/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/7YWDP97n/photo-2026-01-04-17-34-36.jpg", BLV: Táo Mèo
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/ZK3qpM9B/signal-2026-02-28-214631.jpg", BLV: Táo Tàu
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taotau/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ThiendinhTV | sv2" tvg-logo="https://i.postimg.cc/26wSZ4P9/signal-2025-12-12-015635-002.jpg", BLV: Táo Zai
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taozai/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/hoiquantv.png" tvg-logo="https://i.imgur.com/qvVN8o0.jpeg", BLV: Củ Hành
