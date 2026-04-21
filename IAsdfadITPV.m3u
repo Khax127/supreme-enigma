@@ -122,9 +122,16 @@ https://vietanhtv.id.vn/tv360/10001/index.mpd
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live12
 
 
-#EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (sv1)
 https://vietanhtv.id.vn/tv360/9904/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
+
+#EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/11/27/14/1764229351401/ed80e937bd25_640_360.png", Livestream 01 (sv1)
+https://vietanhtv.id.vn/tv360/9888/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/11/27/14/1764229351401/ed80e937bd25_640_360.png", Livestream 01 (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/livestream-01/KenhCoBan.m3u8
+
 
 #EXTINF:-1 tvg-id="phim-viet" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png",360 Phim Việt (sv1)
 https://vietanhtv.id.vn/tv360/9902/index.m3u8
@@ -150,36 +157,75 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/Kenh
 https://vietanhtv.id.vn/tv360/10010/index.m3u8
 #EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png",360 K-Drama (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png",360 Hài - Tình Cảm
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png",360 Hài - Tình Cảm (sv1)
 https://vietanhtv.id.vn/tv360/10011/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png",360 Phim Kinh Điển
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png",360 Hài - Tình Cảm (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png",360 Phim Kinh Điển (sv1)
 https://vietanhtv.id.vn/tv360/10012/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png",360 Anime
-https://vietanhtv.id.vn/tv360/10013/index.m3u8
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png",360 Phim Kinh Điển (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCoBan.m3u8
 
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png",360 C1 Châu Âu
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png",360 Anime (sv1)
+https://vietanhtv.id.vn/tv360/10013/index.m3u8
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png",360 Anime (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png",360 C1 Châu Âu (sv1)
 https://vietanhtv.id.vn/tv360/10014/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png",360 C2 Châu Âu 
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png",360 C1 Châu Âu (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c1-chau-au/KenhCoBan.m3u8
+
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png",360 C2 Châu Âu (sv1)
 https://vietanhtv.id.vn/tv360/10015/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png",360 C3 Châu Âu 
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png",360 C2 Châu Âu (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.m3u8
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png",360 C3 Châu Âu (sv1)
 https://vietanhtv.id.vn/tv360/10016/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png",360 Thể Thao Châu Á
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png",360 C3 Châu Âu (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
+
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png",360 Thể Thao Châu Á (sv1)
 https://vietanhtv.id.vn/tv360/10017/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_640_360.png",360 Công Thức 1
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png",360 Thể Thao Châu Á (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
+
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_640_360.png",360 Công Thức 1 (sv1)
 https://vietanhtv.id.vn/tv360/10018/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png",360 Bundesliga 
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_640_360.png",360 Công Thức 1 (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
+
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png",360 Bundesliga (sv1)
 https://vietanhtv.id.vn/tv360/10019/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_640_360.png",360 Golf
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png",360 Bundesliga (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_640_360.png",360 Golf (sv1)
 https://vietanhtv.id.vn/tv360/10020/index.m3u8
-#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png",360 Tennis
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_640_360.png",360 Golf (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
+
+
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png",360 Tennis (sv1)
 https://vietanhtv.id.vn/tv360/10021/index.m3u8
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png",360 Tennis (sv2)
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
+
+
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/21_1776738146909.jpg", 13:00 Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 21/04
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/22_1776751660292.jpg", 13:00 Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 22/04
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/bc22_1776786596517.jpg", 16:00 LPL 2026 Split 2 - Ngày 22/04
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1 (MPD)
@@ -6630,7 +6676,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776662881551-blv-traxanh-ava.png", BLV: Chè Xanh
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_chym.flv
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1775026520836-blv-khoai-t-y-ava.png", BLV: Khoai Tây
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Người Chym
@@ -6653,7 +6699,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.flv
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_muller.flv
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776672264828-blv-h-tm-t-ava.png", BLV: Hạt Mít
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.flv
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/quechoatv.png" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767770781595-icon-nhadai.webp", Nhà Đài 1
@@ -6672,10 +6719,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_alex.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_atich.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1775026489745-blv-bosua-ava.png", BLV: Bò Sữa
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776662881551-blv-traxanh-ava.png", BLV: Chè Xanh
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png", BLV: Văn Minh
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_chym.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1775026520836-blv-khoai-t-y-ava.png", BLV: Khoai Tây
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1767127244452-photo-2025-12-31-03-37-37.jpg", BLV: Người Chym
@@ -6698,7 +6743,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_muller.m3u8
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776662881551-blv-traxanh-ava.png", BLV: Chè Xanh
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://phantatv.com/assets/image/logo-phantav-v2.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
