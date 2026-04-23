@@ -153,12 +153,21 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/22_1776751660292.jpg", 13:00 Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 22/04
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/22/live-volvo-china-open-2026---dp-world-tour-2026-slider-thumb_1776835030501.jpg", 11:30 Giải Golf Volvo China Open 2026 - Vòng 2 - Ngày 24/03 - BLV: Việt Hưng, Lê Minh
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/22/live-singapore-open-2026---asian-tour-2026-slider-thumb_1776835311484.jpg", 12:30 Giải Golf Singapore Open 2026 - Vòng 2 - Ngày 24/03 - BLV: Xuân Tín - Tuấn Khoa
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/244_1776751944661.jpg", 13:00 Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 23/04
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/bc22_1776786596517.jpg", 16:00 LPL 2026 Split 2 - Ngày 22/04
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/bc24_1776786916946.jpg", 16:00 LPL 2026 Split 2 - Ngày 23/04
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/slider_1776744420354.jpg", 16:00 Vòng bảng giải câu lạc bộ ASEAN - ASEAN Club Championship (Shopee Cup™) mùa giải 2025/26: PKR Svay Rieng - Bangkok United
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/22/slider_1776841526110.jpg", 16:45 Giải bóng đá VĐQG (Vleague 1): Hoàng Anh Gia Lai - Hải Phòng - BLV: Xuân Tín
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/22/slider_1776842028787.jpg", 17:15 Giải bóng đá VĐQG (Vleague 1): Ninh Bình - Hà Nội - BLV: Quang Long - Hoàng Hải
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/22/slider_1776844979152.jpg", 17:45 Giải Hạng Nhất QG (Vleague 2): Trẻ PVF-CAND - Đại Học Văn Hiến - BLV: Nhật Anh
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+
 
 
 
@@ -630,13 +639,26 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/Ke
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=ac94dc660c6df6591b9763fc7a25bd43
 
 
-#EXTINF:-1 tvg-id="spotv1" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png", SPOTV1
+#EXTINF:-1 tvg-id="spotv1" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png", SPOTV1 (sv1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=6078bf597565b08a245d7bf71534468f
-#EXTINF:-1 tvg-id="spotv2" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2
+https://russia.zakshin.online/International/SPOTV?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="spotv1" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png", SPOTV1 (sv2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=c7f336d850fb616c33b16f61937f4472
+https://russia.zakshin.online/International/SPOTV?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="spotv1" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png", SPOTV1 (sv3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://russia.zakshin.online/International/SPOTV?r2h-token=x7b9p
 
+
+#EXTINF:-1 tvg-id="spotv2" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2 (sv1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://russia.zakshin.online/International/SPOTV2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="spotv2" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2 (sv2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://russia.zakshin.online/International/SPOTV2/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="spotv2" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://s12921.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png", SPOTV2 (sv3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://russia.zakshin.online/International/SPOTV2/3?r2h-token=x7b9p
 
 #-*--HTV&HTVC-*--#
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://static.mediacdn.vn/htv/images/htv_logotetam.svg" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1 (MyTV)
@@ -1519,16 +1541,23 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD 
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=7d726369f553314d42635f3e9bd9f9b5#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD 
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=3b34f6bf7b60311f7ab83516318fd86d
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", CinemaWorld 
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=9b8b8c30b4fc52ae677131e14b4f9c1a
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD (sv1)
+https://russia.zakshin.online/International/HBO?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD (sv2)
+https://russia.zakshin.online/International/HBO/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD 
+https://russia.zakshin.online/International/Cinemax?r2h-token=x7b9p
 
+
+
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", CinemaWorld (sv1)
+https://russia.zakshin.online/International/Cinema%20World?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", CinemaWorld (sv2)
+https://russia.zakshin.online/International/Cinema%20World/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", CinemaWorld (sv3)
+https://russia.zakshin.online/International/Cinema%20World/3?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
@@ -1539,28 +1568,39 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi", Box Movie 1
 https://toiyeuvietnam.dpdns.org/Start/VMT0678_BoxMovie1
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png", Hollywood Classics
-https://toiyeuvietnam.dpdns.org/Start/VMT0678_HW
+https://russia.zakshin.online/International/Hollywood%20Classics?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/Box_Hits.png/revision/latest?cb=20240717144048&path-prefix=vi", Box Hits 
-https://toiyeuvietnam.dpdns.org/Start/VMT0456_BoxHit
+https://russia.zakshin.online/International/Box%20Hits?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box 
-https://toiyeuvietnam.dpdns.org/Start/VMT0567_MusicBox
+https://russia.zakshin.online/International/Music%20Box?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman 
-https://toiyeuvietnam.dpdns.org/Start/VMT0789_Women
+https://russia.zakshin.online/International/Woman?r2h-token=x7b9p
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình"  tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=4b9d607b394f70bccb5067c9bfa8b463
+
+
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình"  tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv1)
+https://russia.zakshin.online/International/BBC%20CBeeBies?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình"  tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv2)
+https://russia.zakshin.online/International/BBC%20CBeeBies/2?r2h-token=x7b9p
+
 
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://img.lichphatsong.site/logo/197.png", Cartoonito HD 
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cartoonito/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=c97b9951686ba8392a37669e8da92d98
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD (sv1)
+https://russia.zakshin.online/International/Cartoon%20Network?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD (sv2)
+https://russia.zakshin.online/International/Cartoon%20Network?r2h-token=x7b9p
+
+
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks (sv1)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=773054aa454da429c12d13742b2415df
+https://russia.zakshin.online/International/Dreamworks?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks (sv1)
+https://russia.zakshin.online/International/Dreamworks/2?r2h-token=x7b9p
+
+
 
 
 
@@ -1569,30 +1609,22 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=773054aa454da429c12d13742b2415
 
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://img.lichphatsong.site/logo/210.png", BBC Earth 
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=118a224b731452828a74e3eae679fb63
-
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh"tvg-logo="https://img.lichphatsong.site/logo/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle (MPD)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=54ce345d7c30e34aa4e16332500697b8
-
-#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (MPD)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=4b9d607b394f70bccb5067c9bfa8b463
-
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC World News (MPD)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
+https://russia.zakshin.online/International/BBC%20Earth?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh"tvg-logo="https://img.lichphatsong.site/logo/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle 
+https://russia.zakshin.online/International/BBC%20Lifestyle?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv1)
+https://russia.zakshin.online/International/BBC%20CBeeBies?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv2)
+https://russia.zakshin.online/International/BBC%20CBeeBies/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC World News 
+https://russia.zakshin.online/International/BBC%20News?r2h-token=x7b9p
 
 
 
 
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang HD (VN) (MSky)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang SD (VN) (TV360)
-https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang HD (VN) (FPT Play)
+https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang SD (VN) (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế"  tvg-logo="https://hls.mskycdn.online/logo/arirang.png", Arirang SD (VN) (TV360)
@@ -1603,41 +1635,59 @@ https://live-hls-web-aja.getaj.net/AJA/06.m3u8
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://yt3.googleusercontent.com/SIourknNAwxNP1Gr94j8R3GCMsV6DT7eyLML2X_t4z4gWuCAFtP6-Fg_u0yO31pJYoD-fQT4=s176-c-k-c0x00ffffff-no-rj", Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/215.png", ABC Australia (MPD)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/216.png", Bloomberg (MPD)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-http://hoatv001.ddns.net/PHANMEM/admin.php?stream=67ea948fce1ef73ad6bed7e18386a3ad
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/215.png", ABC Australia (Độ trễ thâp)
+https://russia.zakshin.online/International/ABC%20Australia?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/215.png", ABC Australia News (Nội địa)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC News 
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
-http://p1.cvtv.xyz/cbs?token=live
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s176-c-k-c0x00ffffff-no-rj", NBC News (Độ trễ thấp)
-http://p1.cvtv.xyz/nbc?token=live
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s176-c-k-c0x00ffffff-no-rj", NBC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (Độ Trễ Thấp)
+https://russia.zakshin.online/International/Bloomberg?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (Châu Á)
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (Châu Âu)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC News (Pluto TV)
+https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/213.png", BBC News (Độ trễ thấp)
+https://russia.zakshin.online/International/BBC%20News?r2h-token=x7b9p
+
+
+
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",CBS
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg", NBC News 
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+https://russia.zakshin.online/International/CNBC?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://awscdn.detik.net.id/20detik3/images/cnbc.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/218.png", CNN (ĐỘ TRỄ THẤP)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/cnn/index.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (ĐỘ TRỄ THẤP)
+https://russia.zakshin.online/International/CNN?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://awscdn.detik.net.id/20detik3/images/cnn.png", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (Msky)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+
+
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (QT)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (TV360)
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (ĐỘ TRỄ THẤP) (sv1)
+https://russia.zakshin.online/International/CNA?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (ĐỘ TRỄ THẤP) (sv2)
+https://russia.zakshin.online/International/CNA/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (TV360)
-https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (VN) (TV360)
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/channel-news-asia/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/219.png", CNA (QT)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (TV360) (sv2)
+https://vietanh18h1.duckdns.org/tv360/112/index.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (FPT Play)
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -1651,12 +1701,23 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (QT)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN) (ĐỘ TRỄ THẤP) (sv1)
+https://russia.zakshin.online/International/DW?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN) (ĐỘ TRỄ THẤP) (sv2)
+https://russia.zakshin.online/International/DW/2?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN) (TV360) (sv1)
+https://freem3u.xyz/api/live/play.m3u8?vid=109
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN) (TV360) (sv2)
+https://vietanh18h1.duckdns.org/tv360/109/index.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/221.png", DW (VN) (FPT Play)
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/222.png", France 24 (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -1674,6 +1735,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/223.png", KBS World (QT)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/224.png", NHK World (VN) (FPT Play)
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://img.lichphatsong.site/logo/224.png", NHK World (VN) (Msky)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
@@ -1703,6 +1766,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4i15HFL.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/eSNdW3n.png",Phoenix Infonews HD (ĐỘ TRỄ THẤP)
@@ -5480,6 +5544,10 @@ https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 https://alive.zlylive.com/bgtv_blv_tieubao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/nVSd8288/Ti-u-B-o.png", BLV: Tiểu Bảo (sv2)
 https://alive.zlylive.com/bgtv_blv_tieubao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hạc (sv1)
+https://bglive.zlylive.com/live/bgtv_blv_tieuhac.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hạc (sv2)
+https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hổ (sv1)
 https://bglive.zlylive.com/live/bgtv_blv_tieuho.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://sv2.vongcam2.live/favicon.png", BLV: Tiểu Hổ (sv2)
@@ -5851,81 +5919,83 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_muller.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 
 
-
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" group-logo="https://phantatv.com/assets/image/logo-phantav-v2.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://media.istockphoto.com/id/1365200477/vi/vec-to/bao-g%E1%BA%A1o-v%E1%BA%A3i-lanh-v%E1%BA%A3i-b%E1%BB%91-n%C3%A2u-c%C3%B4-l%E1%BA%ADp-tr%C3%AAn-m%C3%A0u-tr%E1%BA%AFng-h%C3%ACnh-minh-h%E1%BB%8Da-vector.jpg?s=612x612&w=0&k=20&c=ZpWQextW8F_qlig8b5-ARdK4geQ_AgZX84lUs3ujrOA=", BLV: Gạo Nếp
-https://pull.globalcdnnetworksc2030.info/str01/blv-gao-nep.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-gao-nep.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-19.jpg", BLV: Pháo
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: Hạt Tiêu
-https://pull.globalcdnnetworksc2030.info/str01/blv-hat-tieu.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-hat-tieu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV: Cháo Quẩy
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.net/uploads/2026/3/unnamed-3.jpg", BLV: Táo Đỏ
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao-do.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao-do.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
-https://pull.globalcdnnetworksc2030.info/str01/blv-thi-sinh.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-thi-sinh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1"  tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
-https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0122-17-18.jpg", BLV: Táo
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/dylan.jpg", BLV: Dylan
-https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-fanta.jpg", BLV: Fanta
-https://pull.globalcdnnetworksc2030.info/str01/blv-fanta.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-fanta.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0821-39-36.jpg", BLV: Văn Chuẩn
-https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://vcdn1-giaitri.vnecdn.net/2022/04/05/ANT-MAN-FINAL-POSTER-1316-1437-4924-7031-1649143441.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=MwyIHKC4-uyPqETV8X0CJQ", BLV: Người Kiến
-https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://phantatv.com/uploads/2026/3/signal-2026-03-19-100925.jpeg", BLV: Thây Ma (Neymar)
-https://pull.globalcdnnetworksc2030.info/str01/blv-neymar.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-neymar.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-ton.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-ton.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai.flv
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" group-logo="https://phantatv.com/assets/image/logo-phantav-v2.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS284Ryria1wKQa2C5V1kFb71AiQeEfY2wL-IB4WoMmNRWe0zJ4", BLV: Mèo Béo
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://media.istockphoto.com/id/1365200477/vi/vec-to/bao-g%E1%BA%A1o-v%E1%BA%A3i-lanh-v%E1%BA%A3i-b%E1%BB%91-n%C3%A2u-c%C3%B4-l%E1%BA%ADp-tr%C3%AAn-m%C3%A0u-tr%E1%BA%AFng-h%C3%ACnh-minh-h%E1%BB%8Da-vector.jpg?s=612x612&w=0&k=20&c=ZpWQextW8F_qlig8b5-ARdK4geQ_AgZX84lUs3ujrOA=", BLV: Gạo Nếp
-https://pull.globalcdnnetworksc2030.info/str01/blv-gao-nep/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-gao-nep/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2025/9/photo2025-09-2521-07-19.jpg", BLV: Pháo
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://www.shutterstock.com/image-vector/cute-smile-expression-black-pepper-600nw-2565209033.jpg", BLV: Hạt Tiêu
-https://pull.globalcdnnetworksc2030.info/str01/blv-hat-tieu/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-hat-tieu/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.org/uploads/2026/2/unnamed.jpg", BLV: Cháo Quẩy
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.net/uploads/2026/3/unnamed-3.jpg", BLV: Táo Đỏ
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao-do/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao-do/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://hoadaotv.info/uploads/2025/9/anh-mo-ta.jpg", BLV: Thí Sinh
-https://pull.globalcdnnetworksc2030.info/str01/blv-thi-sinh/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-thi-sinh/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2"  tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
-https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0122-17-18.jpg", BLV: Táo
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/dylan.jpg", BLV: Dylan
-https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-dylan/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-fanta.jpg", BLV: Fanta
-https://pull.globalcdnnetworksc2030.info/str01/blv-fanta/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-fanta/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2026-01-0821-39-36.jpg", BLV: Văn Chuẩn
-https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://vcdn1-giaitri.vnecdn.net/2022/04/05/ANT-MAN-FINAL-POSTER-1316-1437-4924-7031-1649143441.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=MwyIHKC4-uyPqETV8X0CJQ", BLV: Người Kiến
-https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://phantatv.com/uploads/2026/3/signal-2026-03-19-100925.jpeg", BLV: Thây Ma (Neymar)
-https://pull.globalcdnnetworksc2030.info/str01/blv-thay-ma/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-thay-ma/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-map/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-ton/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-ton/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV  | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/photo2025-12-2609-04-07.jpg", BLV: Lò Gió Tai (A Tai)
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai/index.m3u8
 
 
 
