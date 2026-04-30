@@ -220,11 +220,14 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/live-maekyung-open-2026---asian-tour-2026-slider-thumb_1777450032494.jpg",11:00 Giải Golf Asian Tour Maekyung 2026 (Vòng 1) - Ngày 30/4
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/28/bc28_1777316182704.jpg", 16:00 LPL 2026 Split 2 - Ngày 28/04
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/28/bc28_1777316182704.jpg", 16:00 LPL 2026 Split 2 - Ngày 30/04
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/live-turkish-open-2026---dp-world-tour-2026-slider-thumb_1777449935881.jpg",11:00 Giải Golf Turkish Open 2026 (Vòng 1) - Ngày 30/4
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1 (MPD)
