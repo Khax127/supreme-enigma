@@ -2856,6 +2856,8 @@ https://flv.686868.me/live/GIANGAKE.flv
 https://flv.686868.me/live/AKHOAI.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1762782775686-0sc7zj3hzzdb.jpg", BLV: Giàng A Long
 https://flv.686868.me/live/ALONGCKTV.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1776732695270-400lfwh0ygn.jpg", BLV: Giàng A Lỏ
+https://flv.686868.me/live/GIANGALO.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1775206361469-84f3urucp.png", BLV: Giàng A Mây
 https://flv.686868.me/live/GIANGAMAY.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1769951416941-xufcw7lnnqo.png", BLV: Giàng A Mèo
@@ -2920,6 +2922,8 @@ https://hls.686868.me/live/GIANGAKE/index.m3u8
 https://hls.686868.me/live/AKHOAI/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1762782775686-0sc7zj3hzzdb.jpg", BLV: Giàng A Long
 https://hls.686868.me/live/ALONGCKTV/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1776732695270-400lfwh0ygn.jpg", BLV: Giàng A Lỏ
+https://hls.686868.me/live/GIANGALO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1775206361469-84f3urucp.png", BLV: Giàng A Mây
 https://hls.686868.me/live/GIANGAMAY/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1769951416941-xufcw7lnnqo.png", BLV: Giàng A Mèo
@@ -2956,6 +2960,9 @@ https://hls.686868.me/live/THICHDUTHU/index.m3u8
 https://hls.686868.me/live/VANGON2B/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1769951277589-ja51e5srvb.png", BLV: Văn Vở
 https://hls.686868.me/live/VANVO/index.m3u8
+
+
+
 
 
 
@@ -3359,7 +3366,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
 https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1"  tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1"  tvg-logo="https://cauthutv.shop/uploads/2026/4/watermelon.jpg", BLV: Dưa Hấu
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/img7666.jpg", BLV: Dylan
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
@@ -3387,9 +3394,9 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-neymar.flv
 https://pull.globalcdnnetworksc2031.info/str01/blv-thi-sinh.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2026-01-0821-39-36-1.jpg", BLV: Văn Chuẩn
 https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/img2870.jpg", BLV: Lò A Mập
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2025-10-2118-04-25-2-1.jpg", BLV: Lò A Tôn
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-ton.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/img3128.jpg", BLV: Lò Gió Tai (A Tai)
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai.flv
@@ -3400,7 +3407,7 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai.flv
 https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2025-09-2521-07-25.jpg", BLV: Chim Nhỏ
 https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2"  tvg-logo="https://cauthutv.info/uploads/2026/1/watermelon.jpg", BLV: Dưa Hấu
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2"  tvg-logo="https://cauthutv.shop/uploads/2026/4/watermelon.jpg", BLV: Dưa Hấu
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/img7666.jpg", BLV: Dylan
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan/index.m3u8
@@ -3428,9 +3435,9 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-neymar/index.m3u8
 https://pull.globalcdnnetworksc2031.info/str01/blv-thi-sinh/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2026-01-0821-39-36-1.jpg", BLV: Văn Chuẩn
 https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.info/uploads/2026/1/blv-a-map.jpg", BLV: Lò A Mập
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/img2870.jpg", BLV: Lò A Mập
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.info/uploads/2025/10/photo2025-10-2118-04-25-2.jpg", BLV: Lò A Tôn
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/photo2025-10-2118-04-25-2-1.jpg", BLV: Lò A Tôn
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-ton/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/img3128.jpg", BLV: Lò Gió Tai (A Tai)
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai/index.m3u8
