@@ -635,7 +635,7 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=2c555b13b882d53c4b300767dbb6d9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
+#KODIPROP:inputstream.adaptive.license_key=bc5c30fc9f7e43e58887a2d8a7788a38:55bd66990fb745fd895f1aa71393e81f
 https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 
@@ -740,7 +740,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab13-on-homeshopping/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
+#KODIPROP:inputstream.adaptive.license_key=5184162e30134a44afa1d591ffc2e736:09b20d5f9bbf41fdb8d3916c409470a8
 https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 
 
