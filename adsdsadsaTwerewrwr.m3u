@@ -2912,9 +2912,9 @@ https://hls.686868.me/live/GIANGACHIEN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1767009115341-7umwj4gix3i.jpg", BLV: Giàng A Choén
 https://hls.686868.me/live/ACHOEN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1771053971027-4nmfusoji1j.jpg", BLV: Giàng A Gấu
-https://hls.686868.me/live/suplo/index.m3u8
+https://hls.686868.me/live/AGAU/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1741942194042-9qmiqc1a2e6.jpg", BLV: Giàng A Rùa
-https://hls.686868.me/live/GIANGASOI/index.m3u8
+https://hls.686868.me/live/ALOI/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1776428972638-4wnz7mlfoan.jpg", BLV: Giàng A Hổ
 https://hls.686868.me/live/ANOBLV/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1776188186701-5786sgzypzd.jpg", BLV: Giàng A Húp
@@ -3006,12 +3006,10 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/tamquoctv.png" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: Ngộ Không (sv1)
-https://tqlive.zlylive.com/live/tqtv_blv_ngokhong.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: Ngộ Không (sv2)
-https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/tamquoctv.png" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: A Kai (sv1)
+https://tqlive.zlylive.com/live/tqtv_blv_akai.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: A Kai (sv2)
+https://tqlive.zlylive.com/live/tqtv_blv_akai/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_chipheo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/CLq0ZCKF/signal-2026-03-06-204627.jpg", BLV: Chí Phèo (sv2)
@@ -3040,6 +3038,10 @@ https://tqlive.zlylive.com/live/tqtv_blv_modungphuc/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_neymar.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/x8pDgRY7/signal-2026-04-29-002846.jpg", BLV: Neymar (sv2)
 https://tqlive.zlylive.com/live/tqtv_blv_neymar/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: Ngộ Không (sv1)
+https://tqlive.zlylive.com/live/tqtv_blv_ngokhong.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://sv2.tamquoc2.live/favicon.png", BLV: Ngộ Không (sv2)
+https://tqlive.zlylive.com/live/tqtv_blv_ngokhong/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv1)
 https://tqlive.zlylive.com/live/tqtv_blv_palmer.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | TamQuocTV" tvg-logo="https://i.postimg.cc/1X8fYVRk/signal-2026-03-06-223756-002.jpg", BLV: Palmer (sv2)
@@ -3203,6 +3205,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phancao.flv
 https://hqlive.zlylive.com/live/hqtv_blv_phancauca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
 https://hqlive.zlylive.com/live/hqtv_blv_phanche.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260506ee9acec785baa06b76811c478510dc63.jpg", BLV: Phan Chớp
+https://hqlive.zlylive.com/live/hqtv_blv_phanchop.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260318872ab0914939d436b08eaeb29eb5e33b.jpg", BLV: Phan Dậu
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv1" tvg-logo="https://image2url.com/r2/default/images/1772350014824-496b82c0-4395-4193-b180-ab4864c11aa6.jpg", BLV: Phan Gầy
@@ -3254,6 +3258,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 https://hqlive.zlylive.com/live/hqtv_blv_phancauca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://i.imgur.com/cA4bvQP.jpeg", BLV: Phan Chè
 https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260506ee9acec785baa06b76811c478510dc63.jpg", BLV: Phan Chớp
+https://hqlive.zlylive.com/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20260318872ab0914939d436b08eaeb29eb5e33b.jpg", BLV: Phan Dậu
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | HoiQuanTV | sv2" tvg-logo="https://image2url.com/r2/default/images/1772350014824-496b82c0-4395-4193-b180-ab4864c11aa6.jpg", BLV: Phan Gầy
@@ -3495,12 +3501,19 @@ https://2987279587.global.cdnfastest.com/nhlive/ngoaihang5.flv
 https://2987306724.global.cdnfastest.com/nhlive/ngoaihang5/index.m3u8
 
 
+
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: A Tích (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/atichhd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: A Tích (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/atichhd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="src="https://media.chuoichientv.com/media/20260412_203929_fb209def.webp", BLV: Anh Sói (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhsoihd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="src="https://media.chuoichientv.com/media/20260412_203929_fb209def.webp", BLV: Anh Sói (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhsoihd/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260410_204905_5e7e74ff.png", BLV: Anh Hột (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
@@ -3629,6 +3642,12 @@ https://gckc0525.edgemaxcdn.org/live/atich.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: A Tích (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="src="https://media.chuoichientv.com/media/20260412_203929_fb209def.webp", BLV: Anh Sói (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="src="https://media.chuoichientv.com/media/20260412_203929_fb209def.webp", BLV: Anh Sói (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhsoi/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" tvg-logo="https://media.chuoichientv.com/media/20260410_204905_5e7e74ff.png", BLV: Anh Hột (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/anhhot.flv
