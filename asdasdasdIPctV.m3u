@@ -23,7 +23,7 @@ https://vietanhtv.id.vn/tv360/10021/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360-1" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",TV360+ 1 
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live1
-#EXTINF:-1 tvg-id="tv360-2" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+ 2 
+#EXTINF:-1 tvg-cid="tv360-2" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+ 2 
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live2
 #EXTINF:-1 tvg-id="tv360-3" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png",TV360+ 3 
 https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live3
@@ -5635,7 +5635,7 @@ https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1776601928.jpg", BLV: Một Chân
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1778056503.jpg", BLV: Người Thép
-https://flv.cdnok9.com/live/NGUOITHEP/index.m3u8
+https://hls-ls.cdnok9.com/live/NGUOITHEP/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1775748794.jpg", BLV: Nhị Ka
 https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1776002546.jpg", BLV: Pele (Ngũ Ca)
@@ -5785,7 +5785,7 @@ https://hls.686868.me/live/HCONG/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1751188779951-vujedbfjrn.jpg", BLV: Giàng A Sún
 https://hls.686868.me/live/ASUN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1776018942145-gp162pnw4o.jpg", BLV: Giàng A Táo
-https://hls.686868.me/live/GIANGGIANGATAO/index.m3u8
+https://hls.686868.me/live/GIANGATAO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1777049685018-c7n8adgohie.jpg", BLV: Giàng A Tứ
 https://hls.686868.me/live/GIANGATU/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1741942634467-1rr9mstadix.jpg", BLV: Giàng A Voi
