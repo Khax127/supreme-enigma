@@ -16,6 +16,9 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=02921830d122d9ac24f109d56663ef
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f114e
 
 
+#EXTINF:-1 tvg-id="k-drama" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/05/14/1777965060500/b7b896fd0037_640_360.png",360 Tennis (sv1)
+https://vietanhtv.id.vn/tv360/10021/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tv360-1" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",TV360+ 1 (MPD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -121,8 +124,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u
 https://vietanhtv.id.vn/tv360/10001/index.mpd
 
 #EXTINF:-1 tvg-id="tv360plus12" group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
-https://toiyeuvietnam.dpdns.org/Start/LinkCopy_Live12
-
+https://vietanhtv.id.vn/tv360/9965/index.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (sv1)
 https://vietanhtv.id.vn/tv360/9904/index.m3u8
