@@ -154,16 +154,26 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778057716548.jpg", 15:45 Giải Hạng Nhất QG (Vleague 2): Bắc Ninh vs Trường Tươi Đồng Nai
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/08/bc8_1778178465206.jpg", 16:00 LPL 2026 Split 2 - Ngày 08/05
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778058022649.jpg", 16:45 Giải Hạng Nhất QG (Vleague 2): Thanh Niên TP. Hồ Chí Minh vs Quy Nhơn United
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778058225402.jpg", 15:45 Giải Hạng Nhất QG (Vleague 2): TP. Hồ Chí Minh vs Long An
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778059094466.jpg", 17:45 Giải bóng đá VĐQG (Vleague 1): SHB Đà Nẵng vs Becamex TP. Hồ Chí Minh
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/live-catalunya-championship-2026---dp-world-tour-2026-slider-thumb_1778057025746.jpg", 18:30 Giải Golf Estrella Damm Catalunya Championship - Vòng 2
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/08/bc9_1778178605701.jpg", 16:00 LPL 2026 Split 2 - Ngày 09/05
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/07/slider_1778122266180.jpg", 16:45 Giải Hạng Nhất QG (Vleague 2): Quảng Ninh vs Đồng Tháp
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/09/fcmt_1778264102132.jpg", 17:00 FC Mobile - Invitation Cup 2026 : Tinh Anh Anh Hùng
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778059690101.jpg", 17:15 Giải bóng đá VĐQG (Vleague 1): Ninh Bình - Hải Phòng
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778058561089.jpg", 17:45 Giải Hạng Nhất QG (Vleague 2): Xuân Thiện Phú Thọ vs Đại Học Văn Hiến
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778059450471.jpg", 17:45 Giải bóng đá VĐQG (Vleague 1): Đông Á Thanh Hóa vs Hà Nội
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/live-catalunya-championship-2026---dp-world-tour-2026-slider-thumb_1778057104881.jpg", 18:30 Giải Golf Estrella Damm Catalunya Championship - Vòng 3 - Ngày 09/05
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/08/live-ufc-328-chimaev-vs-strickland-slide-thumb_1778232038475.jpg", 03:50 UFC 328: Chimaev vs Strickland - Ngày 10/05
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+
+
 
 
 
@@ -5707,7 +5717,7 @@ https://flv.686868.me/live/GIANGALOB.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1775206361469-84f3urucp.png", BLV: Giàng A Mây
 https://flv.686868.me/live/GIANGAMAY.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1769951416941-xufcw7lnnqo.png", BLV: Giàng A Mèo
-https://flv.686868.me/live/GIANGAMEO.flv
+https://flv.686868.me/live/THOLAN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1775477735262-c632fzis04.jpg", BLV: Giàng A Mike
 https://flv.686868.me/live/AMIKE.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api-ck.686868.me/uploads/profile/1751216206663-cowrxq3zoxi.jpg", BLV: Giàng A Páo
@@ -5773,7 +5783,7 @@ https://hls.686868.me/live/GIANGALOB/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1775206361469-84f3urucp.png", BLV: Giàng A Mây
 https://hls.686868.me/live/GIANGAMAY/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1769951416941-xufcw7lnnqo.png", BLV: Giàng A Mèo
-https://hls.686868.me/live/GIANGAMEO/index.m3u8
+https://hls.686868.me/live/THOLAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1775477735262-c632fzis04.jpg", BLV: Giàng A Mike
 https://hls.686868.me/live/AMIKE/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api-ck.686868.me/uploads/profile/1751216206663-cowrxq3zoxi.jpg", BLV: Giàng A Páo
@@ -6246,7 +6256,7 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://bonmuatv.com/uploads/2026/5/signal-2026-05-04-170015.jpeg", BLV: Mr Dunkest
 https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.shop/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://cauthutv.cc/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv1" tvg-logo="https://vcdn1-giaitri.vnecdn.net/2022/04/05/ANT-MAN-FINAL-POSTER-1316-1437-4924-7031-1649143441.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=MwyIHKC4-uyPqETV8X0CJQ", BLV: Người Kiến
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
@@ -6291,7 +6301,7 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://bonmuatv.com/uploads/2026/5/signal-2026-05-04-170015.jpeg", BLV: Mr Dunkest
 https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.shop/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://cauthutv.cc/uploads/2026/4/signal-2026-04-23-163009.jpeg", BLV: Người Cát
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhantaTV | sv2" tvg-logo="https://vcdn1-giaitri.vnecdn.net/2022/04/05/ANT-MAN-FINAL-POSTER-1316-1437-4924-7031-1649143441.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=MwyIHKC4-uyPqETV8X0CJQ", BLV: Người Kiến
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien/index.m3u8
