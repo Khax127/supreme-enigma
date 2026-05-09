@@ -191,10 +191,9 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 
-
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/4W8oATzTPHLlUha4Jk4WXGvvvnoEqvCXvEv88tBYDfWo1atYM7R4zXTgTqeD0R75PTu5vor0aQ=s160-c-k-c0x00ffffff-no-rj", FC Online (Luồng FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/4W8oATzTPHLlUha4Jk4WXGvvvnoEqvCXvEv88tBYDfWo1atYM7R4zXTgTqeD0R75PTu5vor0aQ=s160-c-k-c0x00ffffff-no-rj", FC Online (Luồng Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
@@ -234,7 +233,6 @@ https://1.org.vn/yt8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://TFTVN.com/wp-content/uploads/2019/08/logo-TFTVN.png", TFTVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://1.org.vn/yt10
-
 
 
 
