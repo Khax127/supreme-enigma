@@ -223,10 +223,17 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/08/live-zuffa-boxing-6-mosley-jr-vs-bohachuk-slide-thumb_1778232922413.jpg", 05:00 Zuffa Boxing 06: Mosley Jr vs Bohachuk - Ngày 11/05
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/11/live-giai-vo-dich-bong-ro-3x3-cac-doi-manh-quoc-gia-2026-slide-thumb_1778488322649.jpg",10:00 Giải Vô Địch Bóng Rổ 3x3 Các Đội Mạnh Quốc Gia 2026 - Ngày 12/5 - Buổi Sáng
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/11/live-giai-vo-dich-bong-ro-3x3-cac-doi-manh-quoc-gia-2026-slide-thumb_1778488425011.jpg", 15:55 Giải Vô Địch Bóng Rổ 3x3 Các Đội Mạnh Quốc Gia 2026 - Ngày 12/5 - Buổi Chiều
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/08/bc10_1778178831326.jpg", 16:00 LPL 2026 Split 2 - Ngày 09/05
+https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/11/live-giai-vo-dich-bong-ro-3x3-cac-doi-manh-quoc-gia-2026-slide-thumb_1778488577848.jpg", 18:55 Giải Vô Địch Bóng Rổ 3x3 Các Đội Mạnh Quốc Gia 2026 - Ngày 12/5 - Buổi Tối & Lễ Trao Thưởng
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+
 
 
 
