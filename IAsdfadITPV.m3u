@@ -7400,6 +7400,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260223_001529_72818683.jpg", BLV: Chuối Vàng (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoivanghd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv1)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/duyhunghd.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250614_173229_e1deb46c.png", BLV: Duy Hưng (sv2)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/duyhunghd/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichientv.com/media/20260513_124425_334490ac.webp", BLV: Chuối Chanh (Lá Chanh) (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
@@ -7430,6 +7436,7 @@ https://gckc0525.edgemaxcdn.org/live/manzehd.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" tvg-logo="https://media.chuoichien.tv/media/uploads/20250615_053125_7027434c.png", BLV: Zeman (sv2)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/manzehd/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp tvg-logo="https://media.chuoichientv.com/media/20260306_073249_c04d670c.jpg", BLV: A Tích (sv1)
