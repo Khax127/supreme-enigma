@@ -5,7 +5,7 @@
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 #EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
 
-#EXTINF:-1 tvg-id="update" group-title="Dự báo thời tiết" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/honghotdrama.webp", UPDATE 13:17⏱23/05
+#EXTINF:-1 tvg-id="update" group-title="Dự báo thời tiết" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/honghotdrama.webp", Dự Báo Thời Tiết
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://global-media.onlive.vn/live/honghotdrama/master.m3u8
 
