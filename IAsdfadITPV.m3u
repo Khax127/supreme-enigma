@@ -6423,7 +6423,7 @@ https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaia.png" tvg-logo="https://i.postimg.cc/Y2d6Qwg8/photo-2026-05-24-15-13-07.jpg", BLV: Bệu (sv1)
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaia.png" tvg-logo="https://i.postimg.cc/Y2d6Qwg8/photo-2026-05-24-15-13-07.jpg", BLV: Bệu (sv2)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/Y2d6Qwg8/photo-2026-05-24-15-13-07.jpg", BLV: Bệu (sv2)
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/0NVD36G7/photo-2026-05-25-20-59-05.jpg", BLV: Isco (sv1)
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco.flv
@@ -6449,7 +6449,6 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-xeom.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="", BLV: Xe Ôm (sv2)
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-xeom/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/xaycontv.png" tvg-logo="https://i.postimg.cc/8P1H66Jg/photo-2022-08-12-07-49-33.jpg", BLV: Xây Con
