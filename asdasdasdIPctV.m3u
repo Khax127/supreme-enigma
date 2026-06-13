@@ -177,14 +177,15 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/10/slider_1781082166990.jpg", 17:15 Trận Bán kết Giải Bóng Đá Cúp Quốc Gia Chứng Khoán LPBank 2025/26 : Thép Xanh Nam Định vs Công An TP. Hồ Chí Minh
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/12/13_1781246340020.jpg", Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/10/slider_1781081478353.jpg", 17:15 Trận Bán kết Giải Bóng Đá Cúp Quốc Gia Chứng Khoán LPBank 2025/26 : Ninh Bình vs Thể Công-Viettel
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/12/13_1781271398033.jpg", Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/11/slider_1781144965584.jpg", Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/09/live-vba-2026-slide-thumb_1780976159068.jpg",19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Danang Dragons vs Cantho Catfish
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/live-klm-open-2026---dp-world-tour-2026-slider-thumb_1780499681604.jpg", 20:00 Giải Golf International Series Morocco 2026 - Vòng 1
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/11/live-international-series-morocco-2026---asian-tour-2026-slider-thumb_1781163612406.jpg", Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+
 
 
 
@@ -267,6 +268,18 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8 
 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📦| VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10 (Độ Trễ Thấp)
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
 
 
 
@@ -9371,8 +9384,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=612980
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Socolive"tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-13/06: FC Metalurgi Rustavi - Fc Meshakhte Tkibuli (GEO D1) - BLV THÓC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+li
-ke+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=606448
