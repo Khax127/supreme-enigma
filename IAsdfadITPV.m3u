@@ -255,7 +255,7 @@ https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/19_1781758429910.jpg", 13:00 Arena of Valor Premier League 2026: Vòng Swiss
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-pickleball-beijing-open-2026-slide-thumb_1781679548385.jpg", 07:55 Vòng Tứ Kết Giải Pickleball Beijing Open 2026: Ngày 19/6 - Buổi Chiều
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781787120507.jpg", 13:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Đà Nẵng vs CAND New Sports
@@ -413,7 +413,7 @@ https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 https://global-media.onlive.vn/live/onlivelmht/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/apl_1781758436384.jpg", Liên Quân Mobile (Luồng FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/apl_1781758436384.jpg", Liên Quân Mobile (Luồng Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/lienquan/master.m3u8
