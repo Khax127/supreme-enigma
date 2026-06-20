@@ -196,30 +196,36 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 
 
+
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-pickleball-beijing-open-2026-slide-thumb_1781679349192.jpg", 07:55 Vòng Bán Kết Giải Pickleball Beijing Open 2026: Ngày 20/6 - Buổi Sáng
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/19/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781866071855.jpg", 09:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Hà Nội 2 vs Bắc Ninh Pitbulls 1
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/19/live-ufc-fight-night---kape-vs-horiguchi-slide-thumb_1781852776503.jpg", 03:50 UFC Fight Night: Kape vs Horiguchi
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-pickleball-beijing-open-2026-slide-thumb_1781679863500.jpg", 07:55 Tranh Hang Ba Giải Pickleball Beijing Open 2026: Ngày 21/6 - Buổi Sáng
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781970600340.jpg", 07:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Quảng Ninh Titans 1 vs Hà Nội 2
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781970663171.jpg", 09:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Bắc Ninh Pitbulls 1 vs Quảng Ninh Titans 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/20_1781758625600.jpg", 13:00 Arena of Valor Premier League 2026: Vòng Swiss
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/21_1781758741454.jpg", 13:00 Arena of Valor Premier League 2026: Vòng Swiss - Ngày 21/06
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-pickleball-beijing-open-2026-slide-thumb_1781679640693.jpg", 03:55 Vòng Bán Kết Giải Pickleball Beijing Open 2026: Ngày 19/6 - Buổi Chiều
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/19/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781865412095.jpg", 13:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : CAND New Sports vs Hà Nội 1
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-pickleball-beijing-open-2026-slide-thumb_1781679936935.jpg", 13:55 Vòng Chung Kết Giải Pickleball Beijing Open 2026: Ngày 21/6 - Buổi Chiều
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781970719749.jpg", 13:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : CAND New Sports vs Hà Nội 2
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/19/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781865471737.jpg", 15:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Hà Nội 2 vs Đà Nẵng
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781970774570.jpg", 15:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Hà Nội 1 vs Thành Phố Hồ Chí Minh
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781970861777.jpg", 16:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Gia Lai vs Đà Nẵng
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/19/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781865471737.jpg", 15:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Thành Phố Hồ Chí Minh vs Gia Lai
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781971296814.jpg", 18:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Điện Biên Warriors vs Thanh Hóa THBC
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781915196203.jpg", 18:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Thanh Hóa THBC vs Hải Phòng United
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-vba-2026-slide-thumb_1781670387161.jpg", 19:00 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Saigon Heat vs Hanoi Buffaloes
+https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/20/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781971529922.jpg", 20:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Phòng Không Không Quân Peak vs Hải Phòng United
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/17/live-vba-2026-slide-thumb_1781670121595.jpg", 19:00 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Ho Chi Minh City Wings vs Nha Trang Dolphins
-https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1781783299355.jpg", 20:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : CAND New Sports vs Phòng Không Không Quân Peak
-https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+
 
 
 
@@ -6320,300 +6326,243 @@ https://ngoaihang2.cpcnew.store/nhlive/ngoaihang5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV ROCKSTAR (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/82054853.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV ROCKSTAR (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 20/06] Thổ nhĩ kỳ vs Paraguay - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 20/06] Golden State Valkyries vs Minnesota Lynx - BLV BLV 247 (L1) Giải :Hiệp hội bóng rổ quốc gia nữ
-https://live05.msdht.app/live/90865415.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 20/06] Golden State Valkyries vs Minnesota Lynx - BLV BLV 247 (L2) Giải :Hiệp hội bóng rổ quốc gia nữ
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 20/06] Auckland Huskies vs Bay Hawks - BLV BLV Cozy (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/87379114.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 20/06] Auckland Huskies vs Bay Hawks - BLV BLV Cozy (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 20/06] Hume City vs Green Gully - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 20/06] Hume City vs Green Gully - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/83da3307e1d67e67f68520382e22ed93.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:30 20/06] Robina City vs Logan Lightning - BLV BLV MONSTER (L1) Giải :Giải bóng đá hạng nhất Queensland, Úc
-https://live05.msdht.app/live/75915087.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/83da3307e1d67e67f68520382e22ed93.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:30 20/06] Robina City vs Logan Lightning - BLV BLV MONSTER (L2) Giải :Giải bóng đá hạng nhất Queensland, Úc
-https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[12:00 20/06] WS Wanderers U21 vs Sutherland Sharks - BLV BLV 7UP (L1) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
-https://live05.msdht.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[12:00 20/06] WS Wanderers U21 vs Sutherland Sharks - BLV BLV 7UP (L2) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
-https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[12:00 20/06] Avondale FC vs Dandenong Thunder - BLV BLV SPRITE (L1) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[12:00 20/06] Avondale FC vs Dandenong Thunder - BLV BLV SPRITE (L2) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 20/06] Manly United vs St George FC - BLV BLV MOUNTAIN DEW (L1) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 20/06] Manly United vs St George FC - BLV BLV MOUNTAIN DEW (L2) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:30 20/06] Qingdao Red Lions vs Wuhan Three Towns - BLV BLV GIÀ LÀNG (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/14830711.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:30 20/06] Qingdao Red Lions vs Wuhan Three Towns - BLV BLV GIÀ LÀNG (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:30 20/06] Otago Nuggets vs Taranaki Mountainairs - BLV BLV POCARI (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:30 20/06] Otago Nuggets vs Taranaki Mountainairs - BLV BLV POCARI (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[15:00 20/06] Caroline Springs George Cross vs Dandenong City - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[15:00 20/06] Caroline Springs George Cross vs Dandenong City - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 20/06] Hồ Chí Minh Nữ vs Tp. Hồ Chí Minh 2 Nữ - BLV BLV C2 (L1) Giải :Women's National League
-https://live05.msdht.app/live/08552895.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 20/06] Hồ Chí Minh Nữ vs Tp. Hồ Chí Minh 2 Nữ - BLV BLV C2 (L2) Giải :Women's National League
-https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 20/06] Hà Nội 2 Nữ vs Hà Nội Nữ - BLV BLV PEPSI (L1) Giải :Women's National League
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 20/06] Hà Nội 2 Nữ vs Hà Nội Nữ - BLV BLV PEPSI (L2) Giải :Women's National League
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/7c47816625ae0772db06ebabb51a2e33.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[17:00 20/06] Boeun Sangmu Nữ vs Suwon FMC Nữ - BLV BLV 7UP (L1) Giải :WK League Nữ
-https://live05.msdht.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/7c47816625ae0772db06ebabb51a2e33.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[17:00 20/06] Boeun Sangmu Nữ vs Suwon FMC Nữ - BLV BLV 7UP (L2) Giải :WK League Nữ
-https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[17:00 20/06] Công dân Chuncheon vs Siheung City - BLV BLV POCARI (L1) Giải :Giải K3 Hàn Quốc
-https://live05.msdht.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[17:00 20/06] Công dân Chuncheon vs Siheung City - BLV BLV POCARI (L2) Giải :Giải K3 Hàn Quốc
-https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 20/06] Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ - BLV BLV Cozy (L1) Giải :Women's National League
-https://live05.msdht.app/live/87379114.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 20/06] Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ - BLV BLV Cozy (L2) Giải :Women's National League
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 20/06] Wuxi Wugou vs Qingdao Hainiu FC - BLV BLV BÍ ĐAO (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 20/06] Wuxi Wugou vs Qingdao Hainiu FC - BLV BLV BÍ ĐAO (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] Guangxi Hengchen vs Shandong Taishan - BLV BLV SPRITE (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] Guangxi Hengchen vs Shandong Taishan - BLV BLV SPRITE (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] HeBei KungFu vs Shanghai Shenhua - BLV BLV SODA (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/02456966.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] HeBei KungFu vs Shanghai Shenhua - BLV BLV SODA (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] Shanghai Zetian vs Chengdu Rongcheng - BLV BLV PEPSI (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:30 20/06] Shanghai Zetian vs Chengdu Rongcheng - BLV BLV PEPSI (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/b6025970c665a7640122d6b3d156b0b8.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:00 20/06] Chengdu Rongcheng B vs Yichun Grand Tiger - BLV BLV MOUNTAIN DEW (L1) Giải :Giải bóng đá Hạng hai Trung Quốc
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/b6025970c665a7640122d6b3d156b0b8.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:00 20/06] Chengdu Rongcheng B vs Yichun Grand Tiger - BLV BLV MOUNTAIN DEW (L2) Giải :Giải bóng đá Hạng hai Trung Quốc
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:30 20/06] Hochiminh City Wings vs Nha Trang Dolphins - BLV BLV ROCKSTAR (L1) Giải :Giải Bóng rổ VBA Việt Nam
-https://live05.msdht.app/live/82054853.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:30 20/06] Hochiminh City Wings vs Nha Trang Dolphins - BLV BLV ROCKSTAR (L2) Giải :Giải Bóng rổ VBA Việt Nam
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 20/06] BFC Daugavpils vs Grobina - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Cao cấp Latvia
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 20/06] BFC Daugavpils vs Grobina - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Cao cấp Latvia
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:30 20/06] Slavia Mozyr vs FK Isloch Minsk - BLV BLV PEPSI (L1) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:30 20/06] Slavia Mozyr vs FK Isloch Minsk - BLV BLV PEPSI (L2) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 20/06] Londrina vs Athletic MG - BLV BLV 247 (L1) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/90865415.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 20/06] Londrina vs Athletic MG - BLV BLV 247 (L2) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/db5bd04b2bd768144487ef32a4d482e5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Kaisar Kyzylorda vs Ulytau Zhezkazgan - BLV BLV 7UP (L1) Giải :Giải Bóng đá Ngoại hạng Kazakhstan
-https://live05.msdht.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/db5bd04b2bd768144487ef32a4d482e5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Kaisar Kyzylorda vs Ulytau Zhezkazgan - BLV BLV 7UP (L2) Giải :Giải Bóng đá Ngoại hạng Kazakhstan
-https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ab38c0986888efe61bcdf7db80e5700f.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Marupe vs FK Aliance - BLV BLV BÍ ĐAO (L1) Giải :Cúp Latvia
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ab38c0986888efe61bcdf7db80e5700f.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Marupe vs FK Aliance - BLV BLV BÍ ĐAO (L2) Giải :Cúp Latvia
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/db5bd04b2bd768144487ef32a4d482e5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Ordabasy vs Kaspij Aktau - BLV BLV 7UP (L1) Giải :Giải Bóng đá Ngoại hạng Kazakhstan
-https://live05.msdht.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/db5bd04b2bd768144487ef32a4d482e5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 20/06] Ordabasy vs Kaspij Aktau - BLV BLV 7UP (L2) Giải :Giải Bóng đá Ngoại hạng Kazakhstan
-https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:30 20/06] FK Vitebsk vs Dinamo Brest - BLV BLV MONSTER (L1) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/75915087.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:30 20/06] FK Vitebsk vs Dinamo Brest - BLV BLV MONSTER (L2) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV 247 (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/90865415.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:00 21/06] Hà Lan vs Thụy Điển - BLV BLV 247 (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/b725f54346544758449c8244cd2e180f.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:45 21/06] Olaria vs Cabofriense - BLV BLV PEPSI (L1) Giải :Giải Bóng đá Hạng Nhì Carioca Brazil
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/b725f54346544758449c8244cd2e180f.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[00:45 21/06] Olaria vs Cabofriense - BLV BLV PEPSI (L2) Giải :Giải Bóng đá Hạng Nhì Carioca Brazil
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 21/06] Almeria vs Malaga - BLV BLV MOUNTAIN DEW (L1) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 21/06] Almeria vs Malaga - BLV BLV MOUNTAIN DEW (L2) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/08552895.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV 7UP (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/78905744.flv
+https://live05.apusport.com/live/78905744.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/78905744.m3u8
+https://live05.apusport.com/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/08552895.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.flv
+https://live05.apusport.com/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.m3u8
+https://live05.apusport.com/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV Cozy (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87379114.flv
+https://live05.apusport.com/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Đức vs Bờ Biển Ngà - BLV BLV Cozy (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3d0acf488c114882918b1a8f144e99db.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Inter Miami CF B vs Carolina Core - BLV BLV PEPSI (L1) Giải :Giải Bóng đá Dự bị Nữ Hoa Kỳ
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3d0acf488c114882918b1a8f144e99db.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 21/06] Inter Miami CF B vs Carolina Core - BLV BLV PEPSI (L2) Giải :Giải Bóng đá Dự bị Nữ Hoa Kỳ
-https://live05.msdht.app/live/43612277.m3u8
+https://live05.apusport.com/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:30 21/06] Almeria vs Malaga - BLV BLV MOUNTAIN DEW (L1) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
+https://live05.apusport.com/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:30 21/06] Almeria vs Malaga - BLV BLV MOUNTAIN DEW (L2) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
+https://live05.apusport.com/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 21/06] Ceara vs Botafogo - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/99121525.flv
+https://live05.apusport.com/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 21/06] Ceara vs Botafogo - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/99121525.m3u8
+https://live05.apusport.com/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 21/06] CLB Vila Nova vs Nautico - BLV BLV PEPSI (L1) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/43612277.flv
+https://live05.apusport.com/live/43612277.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 21/06] CLB Vila Nova vs Nautico - BLV BLV PEPSI (L2) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/43612277.m3u8
+https://live05.apusport.com/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV ROCKSTAR (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/82054853.flv
+https://live05.apusport.com/live/82054853.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV ROCKSTAR (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/19919577.m3u8
+https://live05.apusport.com/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV 247 (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90865415.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV 247 (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV BÍ ĐAO (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/99121525.flv
+https://live05.apusport.com/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/99121525.m3u8
+https://live05.apusport.com/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/19919577.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV STING (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14707124.flv
+https://live05.apusport.com/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Ecuador vs Curacao - BLV BLV STING (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Dallas Wings vs Chicago Sky - BLV BLV POCARI (L1) Giải :Hiệp hội bóng rổ quốc gia nữ
-https://live05.msdht.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 21/06] Dallas Wings vs Chicago Sky - BLV BLV POCARI (L2) Giải :Hiệp hội bóng rổ quốc gia nữ
-https://live05.msdht.app/live/19919577.m3u8
+https://live05.apusport.com/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c3308f60cc17871dd88b2bbc690734a3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 21/06] Monterey Bay FC vs El Paso - BLV BLV 247 (L1) Giải :Giải bóng đá Hạng nhì Hoa Kỳ
-https://live05.msdht.app/live/90865415.flv
+https://live05.apusport.com/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c3308f60cc17871dd88b2bbc690734a3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 21/06] Monterey Bay FC vs El Paso - BLV BLV 247 (L2) Giải :Giải bóng đá Hạng nhì Hoa Kỳ
-https://live05.msdht.app/live/90865415.m3u8
+https://live05.apusport.com/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 21/06] Franklin Bulls vs Wellington Saints - BLV BLV Cozy (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/87379114.flv
+https://live05.apusport.com/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[10:00 21/06] Franklin Bulls vs Wellington Saints - BLV BLV Cozy (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.m3u8
+https://live05.apusport.com/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV 7UP (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/78905744.flv
+https://live05.apusport.com/live/78905744.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/78905744.m3u8
+https://live05.apusport.com/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.flv
+https://live05.apusport.com/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.m3u8
+https://live05.apusport.com/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.flv
+https://live05.apusport.com/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[11:00 21/06] Tunisia vs Nhật Bản - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.m3u8
+https://live05.apusport.com/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[13:00 21/06] Olympic FC vs Peninsula Power - BLV BLV MONSTER (L1) Giải :Giải Ngoại hạng Quốc gia Úc bang Queensland
-https://live05.msdht.app/live/75915087.flv
+https://live05.apusport.com/live/75915087.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[13:00 21/06] Olympic FC vs Peninsula Power - BLV BLV MONSTER (L2) Giải :Giải Ngoại hạng Quốc gia Úc bang Queensland
-https://live05.msdht.app/live/75915087.m3u8
+https://live05.apusport.com/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 21/06] St Albans vs Altona Magic - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.flv
+https://live05.apusport.com/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/c1c958040a24d72e754fa04677b39f99.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 21/06] St Albans vs Altona Magic - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Hạng nhất Victoria của Úc
-https://live05.msdht.app/live/99121525.m3u8
+https://live05.apusport.com/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 21/06] FC Pocheon vs Gangneung - BLV BLV STING (L1) Giải :Giải K3 Hàn Quốc
-https://live05.msdht.app/live/14707124.flv
+https://live05.apusport.com/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[16:00 21/06] FC Pocheon vs Gangneung - BLV BLV STING (L2) Giải :Giải K3 Hàn Quốc
-https://live05.msdht.app/live/14707124.m3u8
+https://live05.apusport.com/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 21/06] Suzhou Dongwu vs Yunnan Yukun - BLV BLV SODA (L1) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/02456966.flv
+https://live05.apusport.com/live/02456966.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[18:00 21/06] Suzhou Dongwu vs Yunnan Yukun - BLV BLV SODA (L2) Giải :Cúp Bóng đá Liên đoàn Trung Quốc
-https://live05.msdht.app/live/02456966.m3u8
+https://live05.apusport.com/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:30 21/06] Sài Gòn Heat vs Hanoi buffalo - BLV BLV POCARI (L1) Giải :Giải Bóng rổ VBA Việt Nam
-https://live05.msdht.app/live/19919577.flv
+https://live05.apusport.com/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:30 21/06] Sài Gòn Heat vs Hanoi buffalo - BLV BLV POCARI (L2) Giải :Giải Bóng rổ VBA Việt Nam
-https://live05.msdht.app/live/19919577.m3u8
+https://live05.apusport.com/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] Jelgava vs Tukums-2000 - BLV BLV C2 (L1) Giải :Giải bóng đá Cao cấp Latvia
-https://live05.msdht.app/live/08552895.flv
+https://live05.apusport.com/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] Jelgava vs Tukums-2000 - BLV BLV C2 (L2) Giải :Giải bóng đá Cao cấp Latvia
-https://live05.msdht.app/live/08552895.m3u8
+https://live05.apusport.com/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] FC Minsk vs BC Maxline - BLV BLV PEPSI (L1) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/43612277.flv
+https://live05.apusport.com/live/43612277.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] FC Minsk vs BC Maxline - BLV BLV PEPSI (L2) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/43612277.m3u8
+https://live05.apusport.com/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] Brage vs Varnamo - BLV BLV MONSTER (L1) Giải :Giải hạng hai Thuỵ Điển
-https://live05.msdht.app/live/75915087.flv
+https://live05.apusport.com/live/75915087.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 21/06] Brage vs Varnamo - BLV BLV MONSTER (L2) Giải :Giải hạng hai Thuỵ Điển
-https://live05.msdht.app/live/75915087.m3u8
+https://live05.apusport.com/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Ariana vs BK Olympic - BLV BLV 247 (L1) Giải :Giải hạng Ba Thụy Điển
 https://live05.msdht.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Ariana vs BK Olympic - BLV BLV 247 (L2) Giải :Giải hạng Ba Thụy Điển
 https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Kristianstads FF vs Laholms - BLV BLV STING (L1) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/14707124.flv
+https://live05.apusport.com/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Kristianstads FF vs Laholms - BLV BLV STING (L2) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/14707124.m3u8
+https://live05.apusport.com/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Avai vs Cuiaba - BLV BLV ROCKSTAR (L1) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/82054853.flv
+https://live05.apusport.com/live/82054853.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Avai vs Cuiaba - BLV BLV ROCKSTAR (L2) Giải :Giải bóng đá Hạng nhì Brasil
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Assyriska vs Karlstad - BLV BLV MONSTER (L1) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/75915087.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 21/06] Assyriska vs Karlstad - BLV BLV MONSTER (L2) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/75915087.m3u8
+https://live05.apusport.com/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 21/06] BATE Borisov vs Arsenal Dzyarzhynsk - BLV BLV 7UP (L1) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/78905744.flv
+https://live05.apusport.com/live/78905744.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 21/06] BATE Borisov vs Arsenal Dzyarzhynsk - BLV BLV 7UP (L2) Giải :Giải Bóng đá Ngoại hạng Belarus
-https://live05.msdht.app/live/78905744.m3u8
+https://live05.apusport.com/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 21/06] Assyriska vs Karlstad - BLV BLV MONSTER (L1) Giải :Giải hạng Ba Thụy Điển
+https://live05.apusport.com/live/75915087.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 21/06] Assyriska vs Karlstad - BLV BLV MONSTER (L2) Giải :Giải hạng Ba Thụy Điển
+https://live05.apusport.com/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/08552895.flv
+https://live05.apusport.com/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/08552895.m3u8
+https://live05.apusport.com/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.flv
+https://live05.apusport.com/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/14830711.m3u8
+https://live05.apusport.com/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.flv
+https://live05.apusport.com/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/24561735.m3u8
+https://live05.apusport.com/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV Cozy (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87379114.flv
+https://live05.apusport.com/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 21/06] Tây Ban Nha vs Ả Rập Saudi - BLV BLV Cozy (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87379114.m3u8
-
-
-
-
-
+https://live05.apusport.com/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[01:00 22/06] Deportivo Madryn vs Los Andes - BLV BLV MONSTER (L1) Giải :Giải bóng đá Hạng nhì Argentina
+https://live05.apusport.com/live/75915087.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[01:00 22/06] Deportivo Madryn vs Los Andes - BLV BLV MONSTER (L2) Giải :Giải bóng đá Hạng nhì Argentina
+https://live05.apusport.com/live/75915087.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV 7UP (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/08552895.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/24561735.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[02:00 22/06] Bỉ vs Iran - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 22/06] Sao Bernardo vs CLB Juventude - BLV BLV BÍ ĐAO (L1) Giải :Giải bóng đá Hạng nhì Brasil
+https://live05.apusport.com/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[03:00 22/06] Sao Bernardo vs CLB Juventude - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Hạng nhì Brasil
+https://live05.apusport.com/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV ROCKSTAR (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/82054853.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV ROCKSTAR (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV SPRITE (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90725470.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV SPRITE (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/19919577.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV STING (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV STING (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Minnesota Lynx vs Washington Mystics - BLV BLV 247 (L1) Giải :Hiệp hội bóng rổ quốc gia nữ
+https://live05.apusport.com/live/90865415.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[05:00 22/06] Minnesota Lynx vs Washington Mystics - BLV BLV 247 (L2) Giải :Hiệp hội bóng rổ quốc gia nữ
+https://live05.apusport.com/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 22/06] O'Higgins vs U. Espanola - BLV BLV STING (L1) Giải :Cúp Chile
+https://live05.apusport.com/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 22/06] O'Higgins vs U. Espanola - BLV BLV STING (L2) Giải :Cúp Chile
+https://live05.apusport.com/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 22/06] Los Angeles Sparks vs New York Liberty - BLV BLV Cozy (L1) Giải :Hiệp hội bóng rổ quốc gia nữ
+https://live05.apusport.com/live/87379114.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[07:00 22/06] Los Angeles Sparks vs New York Liberty - BLV BLV Cozy (L2) Giải :Hiệp hội bóng rổ quốc gia nữ
+https://live05.apusport.com/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/14830711.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV COCA (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/24561735.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV 247 (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90865415.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV 247 (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV BÍ ĐAO (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[08:00 22/06] New Zealand vs Ai Cập - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3d0acf488c114882918b1a8f144e99db.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 22/06] Tacoma Defiance vs Real Monarchs - BLV BLV PEPSI (L1) Giải :Giải Bóng đá Dự bị Nữ Hoa Kỳ
+https://live05.apusport.com/live/43612277.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3d0acf488c114882918b1a8f144e99db.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[09:00 22/06] Tacoma Defiance vs Real Monarchs - BLV BLV PEPSI (L2) Giải :Giải Bóng đá Dự bị Nữ Hoa Kỳ
+https://live05.apusport.com/live/43612277.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 22/06] Bay Hawks vs Southland Sharks - BLV BLV POCARI (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
+https://live05.apusport.com/live/19919577.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[14:00 22/06] Bay Hawks vs Southland Sharks - BLV BLV POCARI (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
+https://live05.apusport.com/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/785cc536013fe705d519fb0ff095b6c1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:00 22/06] Thimphu FC vs FC Tsirang - BLV BLV MONSTER (L1) Giải :Giải bóng đá hàng đầu Bhutan
+https://live05.apusport.com/live/75915087.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/785cc536013fe705d519fb0ff095b6c1.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[19:00 22/06] Thimphu FC vs FC Tsirang - BLV BLV MONSTER (L2) Giải :Giải bóng đá hàng đầu Bhutan
+https://live05.apusport.com/live/75915087.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 22/06] CLB Gareji Sagarejo vs Odishi 1919 - BLV BLV SODA (L1) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/02456966.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[20:00 22/06] CLB Gareji Sagarejo vs Odishi 1919 - BLV BLV SODA (L2) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 22/06] FC Kolkheti Poti vs Shuturmi - BLV BLV SPRITE (L1) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/90725470.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[21:00 22/06] FC Kolkheti Poti vs Shuturmi - BLV BLV SPRITE (L2) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 22/06] CLB Dila Gori vs CLB Metalurgi Rustavi - BLV BLV 7UP (L1) Giải :Giải Vô địch Quốc gia Georgia
+https://live05.apusport.com/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 22/06] CLB Dila Gori vs CLB Metalurgi Rustavi - BLV BLV 7UP (L2) Giải :Giải Vô địch Quốc gia Georgia
+https://live05.apusport.com/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 22/06] Rigas Futbola skola vs yêu tinh United - BLV BLV ROCKSTAR (L1) Giải :Giải bóng đá Cao cấp Latvia
+https://live05.apusport.com/live/82054853.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[22:00 22/06] Rigas Futbola skola vs yêu tinh United - BLV BLV ROCKSTAR (L2) Giải :Giải bóng đá Cao cấp Latvia
+https://live05.apusport.com/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 22/06] FC Telavi vs Dusheti - BLV BLV PEPSI (L1) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/43612277.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/3093b55e2e81347318968d072ada1ff3.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 22/06] FC Telavi vs Dusheti - BLV BLV PEPSI (L2) Giải :Giải hạng Hai Georgia
+https://live05.apusport.com/live/43612277.m3u8
