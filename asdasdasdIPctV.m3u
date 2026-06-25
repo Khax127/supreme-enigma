@@ -246,20 +246,13 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782059713617.jpg", 07:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Hà Nội 2 vs Quảng Ninh Titans 2
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782059788029.jpg", 09:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Quảng Ninh Titans 1 - Bắc Ninh Pitbulls 1
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782059889132.jpg", 13:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Hà Nội 1 vs CAND New Sports
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782060063830.jpg", 15:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nữ : Thành Phố Hồ Chí Minh vs Hà Nội 2
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782060118840.jpg", 17:25 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Đà Nẵng An Khê vs Hà Nội 1
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/21/live-giai-vo-dich-bong-ro-5x5-u16-quoc-gia-2026-slide-thumb_1782060198834.jpg", 18:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Điện Biên Warriors vs Thanh Hóa THBC
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/25_1782144295419.jpg",13:00 Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/23/live-vba-2026-slide-thumb_1782188871262.jpg",19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Danang Dragons vs Hanoi Buffaloes
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1 (MPD)
@@ -404,7 +397,7 @@ https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 https://global-media.onlive.vn/live/onlivelmht/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/apl_1781758436384.jpg", Liên Quân Mobile (Luồng FPT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/18/apl_1781758436384.jpg", Liên Quân Mobile (Luồng Onlive)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/lienquan/master.m3u8
@@ -6013,6 +6006,8 @@ https://flv.cdnfaster-b.site/live/HCONG.flv
 https://flv.cdnfaster-b.site/live/ASUN.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1776018942145-gp162pnw4o.jpg", BLV: Giàng A Táo
 https://flv.cdnfaster-b.site/live/GIANGATAO.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1781967734027-upshr2by0kq.jpg", BLV: Giàng A Tèo
+https://flv.cdnfaster-b.site/live/GIANGATEO.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1781882515405-x5y6tfy4eg.jpg", BLV: Giàng A Thơ
 https://flv.cdnfaster-b.site/live/GIANGATHO.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1777049685018-c7n8adgohie.jpg", BLV: Giàng A Tứ
@@ -6085,6 +6080,8 @@ https://hls.cdnfaster-b.site/live/HCONG/index.m3u8
 https://hls.cdnfaster-b.site/live/ASUN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1776018942145-gp162pnw4o.jpg", BLV: Giàng A Táo
 https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8
++#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1781967734027-upshr2by0kq.jpg", BLV: Giàng A Tèo
+https://hls.cdnfaster-b.site/live/GIANGATEO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1781882515405-x5y6tfy4eg.jpg", BLV: Giàng A Thơ
 https://hls.cdnfaster-b.site/live/GIANGATHO/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1777049685018-c7n8adgohie.jpg", BLV: Giàng A Tứ
@@ -6141,6 +6138,10 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_mason.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/pXHJPFMj/Mason.jpg", BLV: Mao Từn (Mason) (sv2)
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/FzMYmKj8/Max.jpg", BLV: Max (sv1)
+https://bglive.yarncdn.live/live/bgtv_blv_max.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/FzMYmKj8/Max.jpg", BLV: Max (sv2)
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/9XwTYzBR/Phao-Than.jpg", BLV: Pháo (sv1)
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | BuGioTV"  tvg-logo="https://i.postimg.cc/9XwTYzBR/Phao-Than.jpg", BLV: Pháo (sv2)
@@ -6246,45 +6247,49 @@ https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong.flv
 https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaia.png" tvg-logo="https://i.postimg.cc/Y2d6Qwg8/photo-2026-05-24-15-13-07.jpg", BLV: Bệu (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu.flv
+https://kdalive.yarncdn.live/live/kda-blv-beu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/Y2d6Qwg8/photo-2026-05-24-15-13-07.jpg", BLV: Bệu (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/LX4KTs5f/photo-2026-06-07-18-52-58.jpg", BLV: Dế Lửa (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua.flv
+https://kdalive.yarncdn.live/live/kda-blv-delua.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/LX4KTs5f/photo-2026-06-07-18-52-58.jpg", BLV: Dế Lửa (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/0NVD36G7/photo-2026-05-25-20-59-05.jpg", BLV: Isco (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco.flv
+https://kdalive.yarncdn.live/live/kda-blv-isco.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/0NVD36G7/photo-2026-05-25-20-59-05.jpg", BLV: Isco (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/kgW32sZj/photo-2026-05-24-15-36-10.jpg", BLV: Kaka (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka.flv
+https://kdalive.yarncdn.live/live/kda-blv-kaka.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/kgW32sZj/photo-2026-05-24-15-36-10.jpg", BLV: Kaka (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/8csD63LK/photo-2026-06-05-22-30-03.jpg", BLV: Mơ (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo.flv
+https://kdalive.yarncdn.live/live/kda-blv-mo.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/8csD63LK/photo-2026-06-05-22-30-03.jpg", BLV: Mơ (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/BvCgyP8Y/photo-2026-05-24-15-26-03.jpg", BLV: Núi (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui.flv
+https://kdalive.yarncdn.live/live/kda-blv-nui.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/BvCgyP8Y/photo-2026-05-24-15-26-03.jpg", BLV: Núi (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/YCPxV08C/photo-2026-06-09-16-31-02.jpg", BLV: Phong Vân (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-qrt.flv
+https://kdalive.yarncdn.live/live/kda-blv-qrt.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/YCPxV08C/photo-2026-06-09-16-31-02.jpg", BLV: Phong Vân (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-qrt/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-qrt/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/MKZfbqjk/photo-2026-05-25-21-13-34.jpg", BLV: Nhật Tinh Ngao (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao.flv 
+https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao.flv 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/MKZfbqjk/photo-2026-05-25-21-13-34.jpg", BLV: Nhật Tinh Ngao (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8 
+https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/NFWCLq4K/photo-2026-06-24-18-04-49.jpg", BLV: Tày (sv1)
+https://kdalive.yarncdn.live/live/kda-blv-tay.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/NFWCLq4K/photo-2026-06-24-18-04-49.jpg", BLV: Tày (sv2)
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/Gm8xcS4y/photo-2026-05-24-15-12-59.jpg", BLV: T-Rex (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex.flv
+https://kdalive.yarncdn.live/live/kda-blv-t-rex.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="https://i.postimg.cc/Gm8xcS4y/photo-2026-05-24-15-12-59.jpg", BLV: T-Rex (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="", BLV: Xe Ôm (sv1)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-xeom.flv
+https://kdalive.yarncdn.live/live/kda-blv-xeom.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhandaiA"  tvg-logo="", BLV: Xe Ôm (sv2)
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-xeom/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-xeom/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/xaycontv.png" tvg-logo="https://i.postimg.cc/8P1H66Jg/photo-2022-08-12-07-49-33.jpg", BLV: Xây Con
@@ -6297,6 +6302,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon.flv
 https://xclive.yarncdn.live/live/xctv_blv_ca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Thần
 https://xclive.yarncdn.live/live/xctv_blv_chienca.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/NfRRTNMQ/signal-2026-06-21-00-22-21-073.jpg", BLV: Chuối
+https://xclive.yarncdn.live/live/xctv_blv_chuoi.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
 https://xclive.yarncdn.live/live/xctv_blv_giacatdu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/CMnkKChF/signal-2026-02-13-164118.jpg", BLV: H+
@@ -6315,6 +6322,8 @@ https://xclive.yarncdn.live/live/xctv_blv_nguoikien.flv
 https://xclive.yarncdn.live/live/xctv_blv_phimc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/MHyL77Rq/IMG-3556.jpg", BLV: Phủ Béo
 https://xclive.yarncdn.live/live/xctv_blv_phubeo.flv
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.ibb.co/wZwKNGm5/signal-2026-06-21-07-16-16-521-002.jpg", BLV: Phong Vân
+https://xclive.yarncdn.live/live/xctv_blv_vanca.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/XYH0dwYD/signal-2026-05-17-213713.jpg", BLV: Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/pXcL3qc9/CED297DB-0B12-41A5-B456-CB7CB4091A99.jpg", BLV: Rồng Đất
@@ -6340,6 +6349,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_ca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/59H0tkkg/image.png", BLV: Chiến Thần
 https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv1" tvg-logo="https://i.postimg.cc/NfRRTNMQ/signal-2026-06-21-00-22-21-073.jpg", BLV: Chuối
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/MpgVdMGg/photo-2025-12-24-16-26-24.jpg", BLV: Gia Cát Dự
 https://xclive.yarncdn.live/live/xctv_blv_giacatdu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/CMnkKChF/signal-2026-02-13-164118.jpg", BLV: H+
@@ -6358,6 +6369,8 @@ https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_phimc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/MHyL77Rq/IMG-3556.jpg", BLV: Phủ Béo
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.ibb.co/wZwKNGm5/signal-2026-06-21-07-16-16-521-002.jpg", BLV: Phong Vân
+https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/XYH0dwYD/signal-2026-05-17-213713.jpg", BLV: Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | XayConTV | sv2" tvg-logo="https://i.postimg.cc/pXcL3qc9/CED297DB-0B12-41A5-B456-CB7CB4091A99.jpg", BLV: Rồng Đất
@@ -6629,7 +6642,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_gaunau.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776672264828-blv-h-tm-t-ava.png", BLV: Hạt Mít
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png", BLV: Vỏ Quýt (Khoai Tây)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.flv
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_voquyt.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv1" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
@@ -6677,7 +6690,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_gaunau.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1776672264828-blv-h-tm-t-ava.png", BLV: Hạt Mít
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png", BLV: Vỏ Quýt (Khoai Tây)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_voquyt.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1766415982201-blv-khu-ma-n-ava.png", BLV: Khu Mấn
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | QuechoaTV | sv2" tvg-logo="https://storage.quechoa2.live/avatars/accounts/1773227028079-signal-2026-03-11-180114-002.png", BLV: Muller
@@ -6992,6 +7005,7 @@ https://live05.meung.app/live/87547578.m3u8
 https://live05.meung.app/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/71ec56470b1f954a153d98413368256e.png!w80" group-title="⚽️ Bình loạn bóng đá | ColaTV",[23:00 26/06] Liepaja vs Rigas Futbola skola - BLV BLV BÍ ĐAO (L2) Giải :Giải bóng đá Cao cấp Latvia
 https://live05.meung.app/live/99121525.m3u8
+
 
 
 
