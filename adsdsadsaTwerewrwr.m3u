@@ -295,10 +295,14 @@ https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/16/167mlbbliveb_1784181725225.jpg",15:45 Esports World Cup - Tứ Kết MLBB MWI - Ngày 16/7 - Luồng B
 https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/16/167freefirelive_1784181806858.jpg",16:45 Esports World Cup - Free Fire - Vòng Bảng - Ngày 16/7
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/16/167freefirelive_1784181806858.jpg",16:45 Esports World Cup - Free Fire - Vòng Bảng - Ngày 16/7 (Lường Onlive)
+https://global-media.onlive.vn/live/ewcfps/master.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/16/167freefirelive_1784181806858.jpg",16:45 Esports World Cup - Free Fire - Vòng Bảng - Ngày 16/7 (Lường FPT Play)
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/16/167dotalive_1784182490453.jpg",17:45 Esports World Cup - Dota 2 - Vòng Playoffs - Ngày 16/7
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/banner/3378321c4d.webp",17:45 Esports World Cup - Liên Minh Huyền Thoại
+https://global-media.onlive.vn/live/ewclol/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ainowin.webp", Me.N.U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/ainowin/master.m3u8
