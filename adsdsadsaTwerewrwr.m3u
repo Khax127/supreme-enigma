@@ -180,28 +180,26 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 
 
-
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/thiet-ke-poster-pickleball-singapore-open-2026-slide-thumb_1784704117817.jpg", 06:55 Giải Pickle Ball Panas Singapore Open 2026: Ngày 23/7 - Buổi Sáng
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/10/nhat-ky-fifa-world-cup-2026-background_1783651146614.jpg",12:00 Nhật Ký World Cup
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/07/23/nhat-ky-asean-hyundai-cup-2026-background_1784779886612.jpg",12:30 Bản Tin Nhật ký Asean Hyundai Cup 2026
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/18/liqi12_1784321482975.jpg",13:55 APL 2026: Vòng Playoffs - Ngày 19/7
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/18/live-giai-vo-dich-bong-ro-5x5-u18-quoc-gia-2026-slide-thumb_1784371522194.jpg", 13:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Nội Dung Nam : Huế In'n'Out vs Sơn La Read&Go
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/18/live-giai-vo-dich-bong-ro-5x5-u18-quoc-gia-2026-slide-thumb_1784371582388.jpg", 15:30 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Bán Kết Nội Dung Nữ : Thành Phố Hồ Chí Minh vs Gia Lai
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/19/19_1784400650382.jpg",16:45 Esports World Cup - LMHT - Tranh Hạng Ba & Chung Kết - Ngày 19/7
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/18/live-giai-vo-dich-bong-ro-5x5-u18-quoc-gia-2026-slide-thumb_1784371761155.jpg", 18:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Bán Kết Nội Dung Nam :Công An Nhân Dân vs Phòng Không Không Quân Peak
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/14/live-vba-2026-slide-thumb_1784002468158.jpg", 19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026 : Nha Trang Dolphins vs Hanoi Buffaloes
-https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/18/live-giai-vo-dich-bong-ro-5x5-u18-quoc-gia-2026-slide-thumb_1784371819871.jpg", 18:55 Giải Vô địch Bóng rổ Trẻ 5x5 U16 Quốc Gia 2026 - Bán Kết Nội Dung Nam :Thành Phố Hồ Chí Minh vs Hà Nội 1
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/thiet-ke-poster-pickleball-singapore-open-2026-slide-thumb_1784704187424.jpg", 13:55 Giải Pickle Ball Panas Singapore Open 2026: Ngày 23/7 - Buổi Chiều
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/24_1784698954365.jpg", 14:00 LPL 2026 Split 3 - Ngày 23/07
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/21/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1784599943835.jpg", 17:50 Giải Vô địch Taekwondo trẻ Quốc Gia - CJ 2026: Ngày 24/7
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685127954.jpg", 18:50 Giải Bóng Đá Asean Hyundai Cup 2026: Campuchia vs Singapore
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/live-vba-2026-slide-thumb_1784703502329.jpg", 19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026 : Ho Chi Minh City Wings vs Danang Dragons
+https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784684974012.jpg", 19:45 Giải Bóng Đá Asean Hyundai Cup 2026: Timor-Leste vs Việt Nam
+https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 
 
 
@@ -243,7 +241,7 @@ https://global-media.onlive.vn/live/onlivecs2/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://liquipedia.net/commons/images/5/54/VCT_2023_Pacific_League_full_allmode.png", Valorant VN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/valorantespvn/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/29/lpl-notit_1779989814199.jpg", LPL 2026 Split 2 
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/lplp3k_1784698956576.jpg", LPL 2026 Split 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/lcp_1775840036900.jpg", LoL Esports VN (Luồng FPT)
@@ -2125,11 +2123,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD) (Thử nghiệm)
-https://tv.intchoson.com/kctv/index.m3u8
+https://stream.intchoson.com/kctv/index.m3u8
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="http://www.vok.rep.kp/resources/img/logo_k.png", KCBS (Hệ thống phát thanh truyền hình trung ương Hàn Quốc)  
-https://radio.intchoson.com/kcbs/index.m3u8
+https://stream.intchoson.com/kcbs/index.m3u8
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="http://www.vok.rep.kp/resources/img/logo_k.png", Voice of Korea (Đài tiêng nói Triều Tiên)  
-https://radio.intchoson.com/vok/index.m3u8
+https://stream.intchoson.com/vok/index.m3u8
 
 
 
