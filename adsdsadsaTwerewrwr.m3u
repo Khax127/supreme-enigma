@@ -192,6 +192,12 @@ https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/24_1784698954365.jpg", 14:00 LPL 2026 Split 3 - Ngày 23/07
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/15_1784837603988.jpg",14:45 Esports World Cup - Teamfight Tactics - Tứ Kết - Ngày 24/7
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784837787279.jpg",15:45 Esports World Cup - MLBB MSC - Vòng Bảng - Ngày 24/7
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784838287522.jpg",15:45 Esports World Cup - PUBG: Battlegrounds - Chung Kết - Ngày 24/7
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/21/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1784599943835.jpg", 17:50 Giải Vô địch Taekwondo trẻ Quốc Gia - CJ 2026: Ngày 24/7
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685127954.jpg", 18:50 Giải Bóng Đá Asean Hyundai Cup 2026: Campuchia vs Singapore
@@ -200,6 +206,9 @@ https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784684974012.jpg", 19:45 Giải Bóng Đá Asean Hyundai Cup 2026: Timor-Leste vs Việt Nam
 https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/23/asean-hyundai-cup-2026-thumb_1784817141041.jpg", 19:45 Giải Bóng Đá Asean Hyundai Cup 2026: Bình luận cảm xúc – "Múc" code FREE 24/7 - Timor-Leste vs Việt Nam
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+
 
 
 
@@ -219,7 +228,15 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/19/19_1784400650382.jpg",16:45 Esports World Cup - LMHT - Tranh Hạng Ba & Chung Kết - Ngày 19/7 (Luồng Onlive)
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784837787279.jpg",15:45 Esports World Cup - MLBB MSC - Vòng Bảng - Ngày 24/7
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784838287522.jpg",15:45 Esports World Cup - PUBG: Battlegrounds - Chung Kết - Ngày 24/7
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewctft.webp",14:45 Esports World Cup - Teamfight Tactics - Tứ Kết - Ngày 24/7 (Luồng Onlive)
+https://global-media.onlive.vn/live/ewctft/master.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/15_1784837603988.jpg",14:45 Esports World Cup - Teamfight Tactics - Tứ Kết - Ngày 24/7 (Luồng FPT Play)
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewclol.webp",16:45 Esports World Cup - LMHT - Tranh Hạng Ba & Chung Kết - Ngày 19/7 (Luồng Onlive)
 https://global-media.onlive.vn/live/ewclol/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/19/19_1784400650382.jpg",16:45 Esports World Cup - LMHT - Tranh Hạng Ba & Chung Kết - Ngày 19/7 (Luồng FPT Play)
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
@@ -238,7 +255,7 @@ https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/Yti0Q86-raSygqRbIffaff-JgKXq56zU6E5HBUKl9FYtMRoxrp0lU3jFN1unQWIs_6PPC5l4Og=s176-c-k-c0x00ffffff-no-rj", 500BROS CS2 (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/onlivecs2/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://liquipedia.net/commons/images/5/54/VCT_2023_Pacific_League_full_allmode.png", Valorant VN 
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/valorantespvn.webp", Valorant VN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/valorantespvn/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/lplp3k_1784698956576.jpg", LPL 2026 Split 3
@@ -259,7 +276,7 @@ https://global-media.onlive.vn/live/lienquan/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/16/p_1776358697562.jpg", PUBG Mobile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://yt3.googleusercontent.com/Qm7ecmnE-mA6WPecxc69lAttbx3x27Z7Z3-3vvxLYwvV_-gKVn1pvWbH_gyg5gxqh3w4aAtB=s160-c-k-c0x00ffffff-no-rj", LCK Tiếng Việt
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lcktiengviet.webp", LCK Tiếng Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://global-media.onlive.vn/live/lcktiengviet/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/blvhoangluan.webp", Hoàng Luân
