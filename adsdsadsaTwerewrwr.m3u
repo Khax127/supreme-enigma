@@ -5614,9 +5614,9 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | LuongSonTV | sv2" tvg-logo="https://upload-img.cdnokvip.com/uploads/avatar/1775971071.jpg", BLV: Yến Thanh
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942194042-9qmiqc1a2e6.jpg", BLV: Giàng A Rùa (Replay)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/cakhiatvfake.webp" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942194042-9qmiqc1a2e6.jpg", BLV: Giàng A Rùa (Replay)
 https://flv.cdnfaster-b.site/live/ARuoiBLV.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/cakhiatvfake.webp" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942634467-1rr9mstadix.jpg", BLV: Giàng A Voi (Replay)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942634467-1rr9mstadix.jpg", BLV: Giàng A Voi (Replay)
 https://flv.cdnfaster-b.site/live/ACHUOI1.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv1" tvg-logo="https://api.url-api-ck.com/uploads/profile/1768223589040-u8kgfs7wam.jpg", BLV: A Núi
 https://flv.cdnfaster-b.site/live/Anui.flv
@@ -5688,9 +5688,9 @@ https://flv.cdnfaster-b.site/live/VANGON2B.flv
 https://flv.cdnfaster-b.site/live/VANVO.flv
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942194042-9qmiqc1a2e6.jpg", BLV: Giàng A Rùa (Replay)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/cakhiatvfake.webp" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942194042-9qmiqc1a2e6.jpg", BLV: Giàng A Rùa (Replay)
 https://hls.cdnfaster-b.site/live/ARuoiBLV/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/cakhiatvfake.webp" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942634467-1rr9mstadix.jpg", BLV: Giàng A Voi (Replay)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1741942634467-1rr9mstadix.jpg", BLV: Giàng A Voi (Replay)
 https://hls.cdnfaster-b.site/live/ACHUOI1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1768223589040-u8kgfs7wam.jpg", BLV: A Núi
 https://hls.cdnfaster-b.site/live/Anui/index.m3u8
@@ -5761,7 +5761,7 @@ https://hls.cdnfaster-b.site/live/VANGON2B/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | CaKhiaTV(Fake) | sv2" tvg-logo="https://api.url-api-ck.com/uploads/profile/1769951277589-ja51e5srvb.png", BLV: Văn Vở
 https://hls.cdnfaster-b.site/live/VANVO/index.m3u
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" group-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/18812304.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg", BLV Bí Đao 
@@ -5800,13 +5800,13 @@ https://live05.meung.app/live/75748097.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg", BLV Monster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Ôlong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/97312754.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Pepsi
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDRhYWQ5ZGYwOWMtYmZkZQ/NWYzNTU0OTNlYmQtZjFiYw.jpg", BLV Pepsi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/43612277.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv1" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ODc3MDVjYWI0NDItMTMzMw/ZThmZDYxZGMxOGQtNjYwZQ.jpg", BLV Pocari
@@ -5844,7 +5844,7 @@ https://live05.meung.app/live/90865415.flv
 https://live05.meung.app/live/78905744.flv
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" group-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/18812304.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg", BLV Bí Đao 
@@ -5883,13 +5883,13 @@ https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg", BLV Monster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Ôlong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/97312754.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Pepsi
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDRhYWQ5ZGYwOWMtYmZkZQ/NWYzNTU0OTNlYmQtZjFiYw.jpg", BLV Pepsi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/43612277.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ColaTV | sv2" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ODc3MDVjYWI0NDItMTMzMw/ZThmZDYxZGMxOGQtNjYwZQ.jpg", BLV Pocari
