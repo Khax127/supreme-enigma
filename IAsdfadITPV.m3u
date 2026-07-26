@@ -213,6 +213,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/26/zuffa-boxing-9---slide-thumb_1785069690199.jpg", 03:50 Zuffa Boxing 9: Berlanga vs. Butler
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/thiet-ke-poster-pickleball-singapore-open-2026-slide-thumb_1784858490254.jpg", 07:55 Giải Pickle Ball Panas Singapore Open 2026: Ngày 26/7 - Buổi Sáng 
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/25/25_1784919032084.jpg", 07:55 Giải Esport FC Mobile Vietnam Super League 2026 - Ngày 26/7
@@ -237,7 +239,8 @@ https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 
 
-
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/26/zuffa-boxing-9---slide-thumb_1785069690199.jpg", 03:50 Zuffa Boxing 9: Berlanga vs. Butler
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/thiet-ke-poster-pickleball-singapore-open-2026-slide-thumb_1784858490254.jpg", 07:55 Giải Pickle Ball Panas Singapore Open 2026: Ngày 26/7 - Buổi Sáng 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/25/25_1784919032084.jpg", 07:55 Giải Esport FC Mobile Vietnam Super League 2026 - Ngày 26/7
