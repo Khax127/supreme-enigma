@@ -184,8 +184,10 @@ https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/26/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1785074125927.jpg", 12:50 Chung Kết Giải Vô địch Taekwondo trẻ Quốc Gia - CJ 2026: Ngày 26/7 
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685493901.jpg", 19:15 Giải Bóng Đá Asean Hyundai Cup 2026: Singapore vs Timor Leste
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685493901.jpg", 17:50 Giải Bóng Đá Asean Hyundai Cup 2026: Singapore vs Timor Leste
 https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/27/slider_1785120769399.jpg", 19:45 Giải Bóng Đá Asean Hyundai Cup 2026: Indonesia vs Campuchia
+https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
@@ -196,8 +198,10 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/26/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1785074125927.jpg", 12:50 Chung Kết Giải Vô địch Taekwondo trẻ Quốc Gia - CJ 2026: Ngày 26/7 
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685493901.jpg", 19:15 Giải Bóng Đá Asean Hyundai Cup 2026: Singapore vs Timor Leste
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685493901.jpg", 17:50 Giải Bóng Đá Asean Hyundai Cup 2026: Singapore vs Timor Leste
 https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/27/slider_1785120769399.jpg", 19:45 Giải Bóng Đá Asean Hyundai Cup 2026: Indonesia vs Campuchia
+https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
 
 
 
