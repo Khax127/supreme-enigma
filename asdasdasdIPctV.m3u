@@ -197,18 +197,26 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
-https://liveh34byt.vtvprime.vn/hls/SKSS1/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 2
-https://liveh34byt.vtvprime.vn/hls/SKSS2/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 3
-https://liveh34byt.vtvprime.vn/hls/SKSS3/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 4
-https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 5
-https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 6
-https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
+https://liveh12vng.vtvprime.vn/hls/ONSPORT1/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
+https://liveh12vng.vtvprime.vn/hls/ONSPORT2/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
+https://liveh12vng.vtvprime.vn/hls/ONSPORT3/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
+https://liveh12vng.vtvprime.vn/hls/ONSPORT4/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
+https://liveh12vng.vtvprime.vn/hls/ONSPORT5/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
+https://liveh12vng.vtvprime.vn/hls/ONSPORT6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
+https://liveh12vng.vtvprime.vn/hls/ONSPORT7/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
+https://liveh12vng.vtvprime.vn/hls/ONSPORT8/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
+https://liveh12vng.vtvprime.vn/hls/ONSPORT9/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
+https://liveh12vng.vtvprime.vn/hls/ONSPORT10/index.m3u8
 
 
 
@@ -586,7 +594,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab15-on-music/KenhCoB
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=736b0d32270c50ba76f2a20b439023a9
 
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/07/16/16/1721123708752/b08f2f10f9ae_640_360.png",VTVcab13-On Homeshopping (VTVPrime)
-https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/07/16/16/1721123708752/b08f2f10f9ae_640_360.png",VTVcab13-On Homeshopping (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=27
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="🧡| VTVCab + SPOTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/07/16/16/1721123708752/b08f2f10f9ae_640_360.png",VTVcab13-On Homeshopping (TV360) (sv2)
@@ -1542,116 +1550,36 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi", Box Movie 1 (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi", Box Movie 1
-https://toiyeuvietnam.dpdns.org/Start/VMT0678_BoxMovie1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png", Hollywood Classics (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png", Hollywood Classics
-https://russia.zakshin.online/International/Hollywood%20Classics?r2h-token=x7b9p
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/InTheBOX_Channel_3D.png/revision/latest?cb=20230123163601&path-prefix=vi", In The Box (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/Box_Hits.png/revision/latest?cb=20240717144048&path-prefix=vi", Box Hits (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/Box_Hits.png/revision/latest?cb=20240717144048&path-prefix=vi", Box Hits 
-https://russia.zakshin.online/International/Box%20Hits?r2h-token=x7b9p
-#EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/MAN/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box 
-https://russia.zakshin.online/International/Music%20Box?r2h-token=x7b9p
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png", Dr.Fit (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/DF/manifest.mpd
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/HK/manifest.mpd
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/PE/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman 
-https://russia.zakshin.online/International/Woman?r2h-token=x7b9p
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+https://liveh12.vtvprime.vn/hls/BM1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hollywoodclassic.png", Hollywood Classics
+https://liveh12.vtvprime.vn/hls/HC/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxhits.png", Box Hits
+https://liveh12.vtvprime.vn/hls/BOXHIT/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+https://liveh12.vtvprime.vn/hls/MUSICBOX/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+https://liveh12.vtvprime.vn/hls/WO/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"uDPR9AwmHveIlvl+BvgM3A", "kid":"zKc6AGtLOaWVIHzrXtnKCg" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình"  tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv1)
 https://russia.zakshin.online/International/BBC%20CBeeBies?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình"  tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv2)
 https://russia.zakshin.online/International/BBC%20CBeeBies/2?r2h-token=x7b9p
-
-#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://vnepg.site/logos/197.png", Cartoonito HD (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"VnjTF+FwB6iKm5U55FJlEg", "kid":"sfDXWekUNp2ziLOw3IFZcQ" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://vnepg.site/logos/197.png", Cartoonito HD 
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cartoonito/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"PMGt1Drszj/jHJxqKluMIQ", "kid":"PCAWZmCpOnWsd9uBVnOJ9w" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD (sv1)
 https://russia.zakshin.online/International/Cartoon%20Network?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", Cartoon Network HD (sv2)
 https://russia.zakshin.online/International/Cartoon%20Network?r2h-token=x7b9p
 
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"WTKPYh1WdnvF/5QEqJQGgw", "kid":"Z9riBSfGPa2qrmCaqRV3yw" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks (sv1)
 https://russia.zakshin.online/International/Dreamworks?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks (sv1)
@@ -1667,41 +1595,21 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 
 
 
-#EXTINF:0 tvg-id="bbcearth" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/oP4805pS9O79Nv9xYeiQ","kid":"UBSUGixCN5iAte33IwTBZQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://vnepg.site/logos/148.png", BBC Earth 
 https://russia.zakshin.online/International/BBC%20Earth?r2h-token=x7b9p
 
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh"tvg-logo="https://vnepg.site/logos/149.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"I+jF8v4gKQasLWVU2VJymQ", "kid":"WLlJmG7RMpS8AbDzMKvFJw" } ], "type":"temporary"} 
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh"tvg-logo="https://vnepg.site/logos/149.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle 
 https://russia.zakshin.online/International/BBC%20Lifestyle?r2h-token=x7b9p
 
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"uDPR9AwmHveIlvl+BvgM3A", "kid":"zKc6AGtLOaWVIHzrXtnKCg" } ], "type":"temporary"} 
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv1)
 https://russia.zakshin.online/International/BBC%20CBeeBies?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies (sv2)
 https://russia.zakshin.online/International/BBC%20CBeeBies/2?r2h-token=x7b9p
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿| Anh" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News 
 https://russia.zakshin.online/International/BBC%20News?r2h-token=x7b9p
 
@@ -1719,22 +1627,12 @@ https://live-hls-web-aja.getaj.net/AJA/06.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://yt3.googleusercontent.com/SIourknNAwxNP1Gr94j8R3GCMsV6DT7eyLML2X_t4z4gWuCAFtP6-Fg_u0yO31pJYoD-fQT4=s176-c-k-c0x00ffffff-no-rj", Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/153.png", ABC Australia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"BvjRpv6v+9q5Kt80fntGnA", "kid":"mgmnPsHcNIWE4vEw4n2mZw" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/153.png", ABC Australia (Độ trễ thâp)
 https://russia.zakshin.online/International/ABC%20Australia?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/153.png", ABC Australia News (Nội địa)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"eg+MPHLg//+BHVNMkpxXwg", "kid":"EHE5P4/CN/OpooAoFCEQ9w" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (Độ Trễ Thấp)
 https://russia.zakshin.online/International/Bloomberg?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg (Châu Á)
@@ -1750,11 +1648,6 @@ https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC News (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC News (Pluto TV)
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC News (Pluto TV)
@@ -1773,16 +1666,10 @@ https://russia.zakshin.online/International/CNBC?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC (FPT Play)
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC (VTVPrime)
-https://liveh34.vtvprime.vn/hls/CNBC/index.m3u8
+https://liveh12.vtvprime.vn/hls/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://awscdn.detik.net.id/20detik3/images/cnbc.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Gs9Y/41M2HwtPBLSIkjvsQ", "kid":"cUzI7QWgOruaxhvUu9HYoA" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (ĐỘ TRỄ THẤP)
 https://russia.zakshin.online/International/CNN?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (App)
@@ -1803,7 +1690,7 @@ https://vietanh18h1.duckdns.org/tv360/112/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (FPT Play)
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", CNA (VN) (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/CAN/index.m3u8
+https://liveh12.vtvprime.vn/hls/CAN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -1831,7 +1718,7 @@ https://vietanh18h1.duckdns.org/tv360/109/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW (VN) (FPT Play)
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW (VN) (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/DW/index.m3u8
+https://liveh12.vtvprime.vn/hls/DW/index.m3u8
 
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW (Tây Ban Nha)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -1853,7 +1740,7 @@ https://russia.zakshin.online/International/France%2024%20%28English%29?r2h-toke
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png", France 24 English (FPT Play)
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png", France 24 English (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/FRANCE24/index.m3u8
+https://liveh12.vtvprime.vn/hls/FRANCE24/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png", France 24 English (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png", France 24 English (TV360) (sv2)
@@ -1879,7 +1766,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/160.png", KBS World (VN) (FPT Play)
 https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/160.png", KBS World (VN) (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/KBS/index.m3u8
+https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/160.png", KBS World (VN) (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/160.png", KBS World (VN) (TV360) (sv2)
@@ -1891,7 +1778,7 @@ https://russia.zakshin.online/International/NHK%20World%20Japan?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/161.png", NHK World (VN) (FPT Play)
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/161.png", NHK World (VN) (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/NHKWORLD/index.m3u8
+https://liveh12.vtvprime.vn/hls/NHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/161.png", NHK World (VN) (TV360) (sv1) 
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/161.png", NHK World (VN) (TV360) (sv2)
@@ -1910,11 +1797,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/162.png", TV5Monde (VN) (FPT Play)
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/162.png", TV5Monde (VN) (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/TV5/index.m3u8
+https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/162.png", TV5Monde (VN) (TV360) (sv1) 
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://vnepg.site/logos/162.png", TV5Monde (VN) (TV360) (sv2) 
-https://liveh12byt.vtvprime.vn/hls/TV5/index.m3u8
+https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
 
 
 #EXTINF:0 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE
@@ -1967,30 +1854,18 @@ https://live.mnb.mn/live/mn2.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://cdn.antmediatv.xyz/group/KhamPha.png" tvg-logo="https://vnepg.site/logos/143.png", Animal Planet (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/143.png", Animal Planet (sv1)
 https://russia.zakshin.online/International/Animal%20Planet?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/143.png", Animal Planet (sv2)
 https://russia.zakshin.online/International/Animal%20Planet?r2h-token=x7b9p
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/148.png", BBC Earth (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"8/oP4805pS9O79Nv9xYeiQ", "kid":"UBSUGixCN5iAte33IwTBZQ" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/148.png", BBC Earth 
 https://russia.zakshin.online/International/BBC%20Earth?r2h-token=x7b9p
 
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/144.png", Discovery
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"vqWgcVfgxNF7Eas5lRf5Ug", "kid":"60Fg6lU6Mh2JlVPk55b+wg" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/144.png", Discovery (sv1)
 https://russia.zakshin.online/International/Discovery%20Channel?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/144.png", Discovery (sv2)
@@ -1998,20 +1873,11 @@ https://russia.zakshin.online/International/Discovery%20Channel/2?r2h-token=x7b9
 
 
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/145.png", Discovery Asia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"eI4oNfuYVortL0e73AkVFQ", "kid":"k0kHsTS+OWOmJjpFOEaSTA" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+pd
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/145.png", Discovery Asia
 https://russia.zakshin.online/International/Discovery%20Asia?r2h-token=x7b9p
 
-#EXTINF:0 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX
 https://russia.zakshin.online/International/Dmax?r2h-token=x7b9p
 
@@ -2022,7 +1888,7 @@ https://russia.zakshin.online/International/Da%20Vinci?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="🌿| Khám phá",Da Vinci (FPT Play)
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="🌿| Khám phá",Da Vinci (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/DAVINVY/index.m3u8
+https://liveh12.vtvprime.vn/hls/DAVINCY/index.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="🌿| Khám phá",Da Vinci (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="🌿| Khám phá",Da Vinci (TV360) (sv2)
@@ -2034,19 +1900,14 @@ https://vietanh18h1.duckdns.org/tv360/214/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/147.png", History HD (VTVPrime)
-https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+https://liveh12.vtvprime.vn/hls/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/147.png", History HD (TV360) (sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/147.png", History HD (TV360) (sv2)
 https://vietanh18h1.duckdns.org/tv360/9856/index.m3u8
 
 
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/146.png", Outdoor Channel HD (VTVPrime) (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/OUTDOORCHANNEL/manifest.mpd
+
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/146.png", Outdoor Channel HD (FPT Play)
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://vnepg.site/logos/146.png", Outdoor Channel HD (TV360) (sv1)
@@ -2058,11 +1919,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 
 
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://cdn.antmediatv.xyz/group/GiaiTri.png" tvg-logo="https://vnepg.site/logos/163.png", AXN HD (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bxwJwDXqs2Mj1g0UVNs9IA", "kid":"nSn4fv3sPJ+rNo9ySmKtDg" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/163.png", AXN HD (sv1)
 https://russia.zakshin.online/International/AXN?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/163.png", AXN HD (sv2)
@@ -2074,36 +1931,24 @@ https://russia.zakshin.online/International/Asian%20Food%20Network?r2h-token=x7b
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (FPT Play)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (VTVPrime)
-https://liveh12byt.vtvprime.vn/hls/AFC/index.m3u8
+https://liveh12.vtvprime.vn/hls/AFC/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (TV360)(sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=217 
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (TV360)(sv2)
 https://vietanh18h1.duckdns.org/tv360/217/index.m3u8
 
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/149.png", BBC Lifestyle (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"I+jF8v4gKQasLWVU2VJymQ", "kid":"WLlJmG7RMpS8AbDzMKvFJw" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/149.png", BBC Lifestyle
 https://russia.zakshin.online/International/BBC%20Lifestyle?r2h-token=x7b9p
 
-#EXTINF:-1 tvg-id="dmax" group-title="🤣| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2023/07/10/2b44i8ux_ngang32fb4c8733d3d8b093831fe729675e9a_1267_712.png", DMAX (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"DGTM+5eOc5C9MzRAdUkq7A", "kid":"U7JvkErgOiC1ZHfPucXcog" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="dmax" group-title="🤣| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2023/07/10/2b44i8ux_ngang32fb4c8733d3d8b093831fe729675e9a_1267_712.png", DMAX 
 https://russia.zakshin.online/International/Dmax?r2h-token=x7b9p
 
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
 https://serv30.vintera.tv/sochilive_site/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/165.png", Fashion TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"MMNhPpsG4PfMIBAU8xv12A", "kid":"wdnyVwECNQi/pnN+OoxwAQ" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/165.png", Fashion TV (sv1)
 https://russia.zakshin.online/International/Fashion%20TV?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/165.png", Fashion TV (sv2)
@@ -2111,24 +1956,20 @@ https://russia.zakshin.online/International/Fashion%20TV/2?r2h-token=x7b9p
 
 
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/166.png", HGTV 
-https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
+https://liveh12.vtvprime.vn/hls/HGTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/167.png", KIX HD (FPT Play)
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/167.png", KIX HD (VTVPrime)
-https://liveh34.vtvprime.vn/hls/KIX/index.m3u8
+https://liveh12.vtvprime.vn/hls/KIX/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/167.png", KIX HD (TV360)(sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/167.png", KIX HD (TV360)(sv2)
 https://vietanh18h1.duckdns.org/tv360/9901/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/168.png", TLC (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"fKm/A2I/d7Xi8W3wtT8nTQ", "kid":"tpCGKXMmOa2kgUpiCCltnA" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/168.png", TLC (Dộ trễ thấp)
 https://russia.zakshin.online/International/TLC?r2h-token=x7b9p
 
@@ -2136,16 +1977,13 @@ https://russia.zakshin.online/International/TLC?r2h-token=x7b9p
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (VTVPrime)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (FPT Play)
-https://liveh12byt.vtvprime.vn/hls/AFC/index.m3u8
+https://liveh12.vtvprime.vn/hls/AFC/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (TV360)(sv1)
 https://freem3u.xyz/api/live/play.m3u8?vid=217 
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/172.png", Asian Food Network (TV360)(sv2)
 https://vietanh18h1.duckdns.org/tv360/217/index.m3u8
 
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/169.png", Warner TV (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"NPGQjP4uBe4GAEbUDxSuyQ", "kid":"CG0JpAv/OgCqbdTbr5wTsg" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://vnepg.site/logos/169.png", Warner TV 
 https://russia.zakshin.online/International/WBTV?r2h-token=x7b9p
 
