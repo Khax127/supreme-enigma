@@ -5722,7 +5722,42 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhaoHoaTV" tvg-logo="https://phaohoa2.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png", BLV: Văn Minh
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
 
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Ba Rọi Béo (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/baroi-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Ba Rọi Béo (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/baroi-sd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Bút Chì (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/chi-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Bút Chì (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/chi-sd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV"  tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Củ Cải (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/than-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV"  tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Củ Cải (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Quang Huy (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/than-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Quang Huy (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/4lu-sd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Teppy (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/minh-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Teppy (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/minh-sd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Văn Minh (HD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/minh-hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Rung90TV" tvg-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/rung90tv.png", BLV: Văn Minh (SD)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://edgemaxcdn-1.bongco50.xyz/live/minh-sd/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp tvg-logo="https://media.chuoichientv.com/media/20260611_225909_8715fbcf.jpg", BLV: A Ngao (sv1)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
