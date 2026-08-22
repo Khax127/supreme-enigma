@@ -1,4 +1,4 @@
-k#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml.gz"
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz"
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml" tvg-shift=0 m3uautoload=1
