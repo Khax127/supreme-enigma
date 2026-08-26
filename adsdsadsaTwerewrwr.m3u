@@ -151,57 +151,31 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/ufc-fight-night-hernandez-vs-rodrigues---slide-thumb_1787193879875.jpg", 03:50 UFC Fight Night (Sacramento): Hernandez vs Rodrigues
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/pickleball-ho-chi-minh-city-open-2026---slide-thumb_1787410066389.jpg", 07:50 Tranh Hạng Ba Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Sáng
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/23_1787286195245.jpg",10:00 Vòng Playoffs Giải Esport FC Mobile Vietnam Super League 2026 - Ngày 23/08
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/07/23/nhat-ky-asean-hyundai-cup-2026-background_1784779886612.jpg",12:30 Bản Tin Nhật ký Asean Hyundai Cup 2026 
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/pickleball-ho-chi-minh-city-open-2026---slide-thumb_1787410037137.jpg", 13:50 Vòng Chung Kết Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Chiều
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/25/asean-hyundai-cup-2026-thumb_1787664229447.jpg", 17:00 Vòng Chung Kết Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Chiều
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/23_1787073448651.jpg", 14:00 Vòng Bảng Giải Esports LPL 2026 Split 3 - Ngày 23/08
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/22_1787285560192.jpg", 14:00 Vòng Playoffs Giải Esports FC Online Vietnam Pro League 2026 - Ngày 23/08
-https://live.fptplay53.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/23_1787481839065.jpg", 18:30 Vòng Playoffs Giải Esports EWC 26 - Counter-Strike 2 (CS2) - Chung Kết
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/golf-dp-world-tour-nexo-championship-2026---slide-thumb_1787192495058.jpg", 18:30 Giải Golf DP Tour World Tour Nexo Championship 2026 - Vòng 4 - Ngày 23/08
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/live-vba-2026-slide-thumb_1787109237355.jpg", 19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Saigon Heat vs Ho Chi Minh City Wings
-https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/24/slider_1787536172386.jpg", 13:50 Vòng Chung Kết Lượt Về Giải Bóng Đá Asean Hyundai Cup 2026: Bình luận cảm xúc - "Múc" code FREE 26/8 - Việt Nam vs Thái Lan
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787274462739.jpg", 19:15 Vòng Chung Kết Lượt Về Giải Bóng Đá Asean Hyundai Cup 2026: Việt Nam vs Thái Lan 
+https://live.fptplay53.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
 
 
 
 
 
-
-
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/ufc-fight-night-hernandez-vs-rodrigues---slide-thumb_1787193879875.jpg", 03:50 UFC Fight Night (Sacramento): Hernandez vs Rodrigues
-https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/pickleball-ho-chi-minh-city-open-2026---slide-thumb_1787410066389.jpg", 07:50 Tranh Hạng Ba Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Sáng
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/23_1787286195245.jpg",10:00 Vòng Playoffs Giải Esport FC Mobile Vietnam Super League 2026 - Ngày 23/08
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/07/23/nhat-ky-asean-hyundai-cup-2026-background_1784779886612.jpg",12:30 Bản Tin Nhật ký Asean Hyundai Cup 2026 
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/07/23/nhat-ky-asean-hyundai-cup-2026-background_1784779886612.jpg",12:30 Bản Tin Nhật ký Asean Hyundai Cup 2026 
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/pickleball-ho-chi-minh-city-open-2026---slide-thumb_1787410037137.jpg", 13:50 Vòng Chung Kết Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Chiều
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/25/asean-hyundai-cup-2026-thumb_1787664229447.jpg", 17:00 Vòng Chung Kết Giải Pickleball PPA Tour Asia Shenzhen Open 2026: Ngày 23/8 - Buổi Chiều
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/23_1787073448651.jpg", 14:00 Vòng Bảng Giải Esports LPL 2026 Split 3 - Ngày 23/08
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/22_1787285560192.jpg", 14:00 Vòng Playoffs Giải Esports FC Online Vietnam Pro League 2026 - Ngày 23/08
-https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/23_1787481839065.jpg", 18:30 Vòng Playoffs Giải Esports EWC 26 - Counter-Strike 2 (CS2) - Chung Kết
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/golf-dp-world-tour-nexo-championship-2026---slide-thumb_1787192495058.jpg", 18:30 Giải Golf DP Tour World Tour Nexo Championship 2026 - Vòng 4 - Ngày 23/08
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/live-vba-2026-slide-thumb_1787109237355.jpg", 19:15 Giải Bóng Rổ Chuyên Nghiệp Việt Nam (VBA) Mùa Giải 2026: Saigon Heat vs Ho Chi Minh City Wings
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/24/slider_1787536172386.jpg", 13:50 Vòng Chung Kết Lượt Về Giải Bóng Đá Asean Hyundai Cup 2026: Bình luận cảm xúc - "Múc" code FREE 26/8 - Việt Nam vs Thái Lan
+https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787274462739.jpg", 19:15 Vòng Chung Kết Lượt Về Giải Bóng Đá Asean Hyundai Cup 2026: Việt Nam vs Thái Lan 
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
 
 
 
@@ -5456,5 +5430,7 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhaoHoaTV" tvg-logo="https://phaohoa2.live/media/commentators/avatars/signal-2026-08-08-162304.jpeg", BLV: Tày
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhaoHoaTV" tvg-logo="https://phaohoa2.live/media/commentators/avatars/signal-2026-08-24-204213.jpeg", BLV: Tiểu Mây 
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | PhaoHoaTV" tvg-logo="https://phaohoa2.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png", BLV: Văn Minh
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
