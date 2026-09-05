@@ -175,6 +175,8 @@ https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428749347.jpg",19:00 Vòng 01 Giải Bóng Đá Vô Địch Quốc Gia LPBank V.League 1 - 2026/27 : Công An Hà Nội vs Hồng Lĩnh Hà Tĩnh
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/04/ufc-fight-night-hooker-vs-parnasse---slide-thumb_1788493353389.jpg",22:50  Giải Boxing UFC Fight Night: Hooker vs Parnasse
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/pickleball-world-cup-2026---slide-thumb_1788403154571.jpg",07:50 Giải Heineken Pickleball World Cup 2026: Ngày 05/09 - Buổi Sáng - Sân Grandstand
@@ -201,6 +203,8 @@ https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428749347.jpg",19:00 Vòng 01 Giải Bóng Đá Vô Địch Quốc Gia LPBank V.League 1 - 2026/27 : Công An Hà Nội vs Hồng Lĩnh Hà Tĩnh
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/04/ufc-fight-night-hooker-vs-parnasse---slide-thumb_1788493353389.jpg",22:50  Giải Boxing UFC Fight Night: Hooker vs Parnasse
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
