@@ -267,6 +267,7 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
 
+
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1 (MPD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -376,12 +377,16 @@ https://global-media.onlive.vn/live/2689853266/master.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/ck_1789063242027.jpg",12:00 Vòng Chung Kết Giải Esport FC Mobile Vietnam Super League 2026 (FPT Play - Luồng Viettel)
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 12/9 (Luồng Onlive)
+https://global-media.onlive.vn/live/lienquan/master.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/10/12_1788977695800.jpg",13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 12/9 (FPT Play - Luồng FPT)
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/10/12_1788977695800.jpg",13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 12/9 (FPT Play - Luồng Viettel)
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/ck_1789063242027.jpg",16:00 Chung Kết Nhánh Thua Giải Esport LPL 2026 Split 3: Anyone's Legend vs Invictus Gaming (FPT Play - Luồng FPT)
 https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/ck_1789063242027.jpg",16:00 Chung Kết Nhánh Thua Giải Esport LPL 2026 Split 3: Anyone's Legend vs Invictus Gaming (FPT Play - Luồng Viettel)
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 10/09 (Luồng Onlive)
-https://global-media.onlive.vn/live/lienquan/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 14:00 Giải Esports FC Online Vietnam Pro League 2026 - Ngày 21/08 (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewcfps.webp",17:45 Giải Esports World Cup - CrossFire (Đột Kích) - Vòng Bảng - Ngày 21/08 (Luồng Onlive)
