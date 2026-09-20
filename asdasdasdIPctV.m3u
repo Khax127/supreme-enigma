@@ -8,7 +8,10 @@
 
 
 #-*-- Livestream -*--#
-
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092007/Vb6sZqKwXb-VGOLuong1ngay20.9.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 20/9 | Luồng 1
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092011/kuerYrP8Uk-thumbliveasiadvtvgohngngy1.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 20/9 | Luồng 2
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/playlist.m3u8
 
 
 
@@ -228,10 +231,6 @@ https://global-media.onlive.vn/live/lienquan/master.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/17/19_1789578296990.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 19/9 (FPT Play - Luồng Viettel)
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/19/19_1789759398420.jpg", 16:00 Giải Esport LPL Regional Qualifier: Invictus Gaming - JD Gaming (FPT Play - Luồng FPT)
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/19/19_1789759398420.jpg", 16:00 Giải Esport LPL Regional Qualifier: Invictus Gaming - JD Gaming (FPT Play - Luồng Viettel)
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 14:00 Giải Esports FC Online Vietnam Pro League 2026 - Ngày 21/08 (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 12:00 Vòng Chung Kết Giải Esport FC Mobile Vietnam Super League 2026 (Luồng Onlive)
@@ -6008,25 +6007,26 @@ https://live2.zktsva.app/live/306290.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaitv.webp" tvg-logo="https://khandai3.link/media/commentators/avatars/OIP.jpg", BLV: Lưu Bị (A Heo)
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV"  tvg-logo="https://khandai3.link/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg", BLV: Chim Nhỏ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaitv.webp" tvg-logo="https://khandai3.link/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg", BLV: Chim Nhỏ
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg", BLV: Kaka
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/signal-2026-07-17-063900.jpeg", BLV: Kevin
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/2078786a76241c67bec79eac568d146f7ed7807358c1a776e879ce4a93601d14.jpg", BLV: Enzo (Kevin)
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg", BLV: KaKa
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/b378d2bd6f2f511b879faae3931707909dab12ae2f9c49f72fa9f7d22edccd0e.jpg", BLV: Kền Kền 
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/media/commentators/avatars/5a2398a1021d5071f36dc95a89aa4efbe5976b921aefa8f77ffb5ca80530ef6d.jpg", BLV: Lee Sin
+https://luong.phaohoa.live/live/phaohoa10/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/signal-2026-09-12-011923.jpeg", BLV: Người Kiến (Người Lửa)
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg", BLV: Pháo Thủ
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV"  tvg-logo="https://khandai3.link/media/commentators/avatars/signal-2026-09-12-011923.jpeg", BLV: Người Kiến (Người Lửa)
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/signal-2026-08-08-162304.jpeg", BLV: Tày
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/signal-2026-08-24-204213.jpeg", BLV: Tiểu Mây 
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png", BLV: Văn Minh
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
-
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg", BLV: A Ngao 
