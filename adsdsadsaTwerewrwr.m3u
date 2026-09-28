@@ -6,11 +6,10 @@
 #EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
 
 #-*-- Livestream -*--#
-#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092007/Vb6sZqKwXb-VGOLuong1ngay20.9.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 20/9 | Luồng 1
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260927/2026092723/BDzRv6rQAl-Luong1Chieu289.webp", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 28/9 | Luồng 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
-#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092011/kuerYrP8Uk-thumbliveasiadvtvgohngngy1.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 20/9 | Luồng 2
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260927/2026092723/2NyzDWfYvd-Luong2Chieu289.webp", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 28/9 | Luồng 2
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="801" group-title="🔴| Sự Kiện | MyTV" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 (FPT) 
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=a092ce0caeb783e11f64a38fd649b670
