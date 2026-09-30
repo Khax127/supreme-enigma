@@ -12,6 +12,10 @@
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/cd/d0/0f/f7/7c/cc/cd0f7-pvtv6hd-channel-unkn.png", VTV6 (FPT Play) (Luồng Viettel)  
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/6d/d8/8e/e7/73/3e/6d8e7-pvtv7hd-channel-unkn.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (FPT Play) (Luồng FPT)
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/6d/d8/8e/e7/73/3e/6d8e7-pvtv7hd-channel-unkn.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (FPT Play) (Luồng Viettel)  
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260928/2026092823/4jS5P7xCM0-Luong1Sang29.9.webp", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 29/9 | Luồng 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260928/2026092823/IB580vU7Qd-Luong2Sang29.9.webp", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 29/9 | Luồng 2
@@ -158,23 +162,19 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/29/thumbnail-live_1790645763237.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam 
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live-trung-lap_1790589935542.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam (Bình Luận Trung Lập)
-https://live.fptplay53.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live_1790590583458.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam  (Bình Luận Cảm Xúc)
-https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734277669.jpg", 15:50 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Timor-Leste vs Campuchia
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734481911.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Brunei - Hồng Kông (Trung Quốc)
+https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/29/thumbnail-live_1790645763237.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam 
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live-trung-lap_1790589935542.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam (Bình Luận Trung Lập)
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live_1790590583458.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Thái Lan vs Việt Nam  (Bình Luận Cảm Xúc)
-https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734277669.jpg", 15:50 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Timor-Leste vs Campuchia
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734481911.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Brunei - Hồng Kông (Trung Quốc)
+https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
@@ -328,7 +328,6 @@ https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/icon_channel_vietnam-today_175705565938.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", Vietnam Today (FPT Play) (Luồng Viettel)  
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-
 
 
 
