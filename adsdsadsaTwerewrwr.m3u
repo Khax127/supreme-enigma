@@ -165,20 +165,17 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734277669.jpg", 15:50 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Timor-Leste vs Campuchia
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/01/1_1790787820434.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 1/10
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/slide-thumb_1790755851150.jpg", 18:00 Giải Golf Alfred Dunhill Links Championship 2026 - Vòng 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng Viettel)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734481911.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Brunei - Hồng Kông (Trung Quốc)
-https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-
-
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734277669.jpg", 15:50 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Timor-Leste vs Campuchia
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/01/1_1790787820434.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 1/10
+https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/slide-thumb_1790755851150.jpg", 18:00 Giải Golf Alfred Dunhill Links Championship 2026 - Vòng 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/30/thumbnail-live_1790734481911.jpg", 18:45 Giải Bóng Đá Các Nước Đông Nam Á FIFA ASEAN Cup 2026 - Brunei - Hồng Kông (Trung Quốc)
-https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
-
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
@@ -205,12 +202,12 @@ https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
 
 
 
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/25/27_1790276041067.jpg", 11:30 Giải Esport FC Online Invitational Cup 2026 - Ngày 27/09
-https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/25/27_1790276041067.jpg", 11:30 Giải Esport FC Online Invitational Cup 2026 - Ngày 27/09
-https://live.fptplay53.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 13/9 (Luồng Onlive)
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 1/10 (Luồng Onlive)
 https://global-media.onlive.vn/live/lienquan/master.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/01/1_1790787820434.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 1/10 (FPT Play - Luồng FPT)
+https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/01/1_1790787820434.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 1/10 (FPT Play - Luồng Viettel)
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 14:00 Giải Esports FC Online Vietnam Pro League 2026 - Ngày 21/08 (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 12:00 Vòng Chung Kết Giải Esport FC Mobile Vietnam Super League 2026 (Luồng Onlive)
