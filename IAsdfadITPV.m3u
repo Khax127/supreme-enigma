@@ -73,6 +73,8 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f11
 
 
 
+#EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/10/02/16/1790933604362/06aaada73ab3_640_360.png",Yfest (Hòa Nhạc Hai Ngón) 
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/the-grand-esport/KenhCoBan.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴| Sự Kiện | TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus1.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -374,6 +376,12 @@ https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
+#EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 11 (MPD) 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 12 (MPD) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -390,8 +398,12 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS3/Live_DASHDRM/SKSS3.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS4/Live_DASHDRM/SKSS4.mpd
+
+
+
+
 
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
@@ -1127,7 +1139,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvcplushd/KenhCoBan.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv1.png", SCTV1 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://vmttv.dpdns.org/VTVGo/?sctv1
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv2/-${start}-${offset}/.m3u8", SCTV2 HD - TODAY TV (VTVPrime)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1137,7 +1149,7 @@ https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD - TODAY TV (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv2
+https://vmttv.dpdns.org/VTVGo/?sctv2
 
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv3/-${start}-${offset}/.m3u8", SCTV3 - SEE TV (MPD)
@@ -1147,7 +1159,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv2
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUUi3UY9SQ6KQ8a1o_f9ug","k":"fwL3eL55Q2uzYpOiONKOMA"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv3
+https://vmttv.dpdns.org/VTVGo/?sctv3
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv4/-${start}-${offset}/.m3u8", SCTV4 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1156,14 +1168,14 @@ https://hoiquan.dpdns.org/VTVGo/?sctv3
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png", SCTV4 HD (MPD)
-https://hoiquan.dpdns.org/VTVGo/?sctv4
+https://vmttv.dpdns.org/VTVGo/?sctv4
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD (SCTVOnline)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv5-a3cdb592
 #EXTINF:-1 tvg-id="sctv5hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hoiquan.dpdns.org/VTVGo/?sctv5
+https://vmttv.dpdns.org/VTVGo/?sctv5
 
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://live.tvon.vn/hls/catchup/sctv6/-${start}-${offset}/.m3u8", SCTV6 HD (FPTPlay)
@@ -1174,7 +1186,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201&token=NinoEra36
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://live.tvon.vn/hls/catchup/sctv6/-${start}-${offset}/.m3u8", SCTV6 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv6
+https://vmttv.dpdns.org/VTVGo/?sctv6
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv7/-${start}-${offset}/.m3u8", SCTV7 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1183,7 +1195,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv6
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv7/-${start}-${offset}/.m3u8", SCTV7 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv7
+https://vmttv.dpdns.org/VTVGo/?sctv7
 
 
 
@@ -1194,7 +1206,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv7
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv8.png", SCTV8 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv8
+https://vmttv.dpdns.org/VTVGo/?sctv8
 
 #EXTINF:-1 tvg-id="sctv9" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv9/-${start}-${offset}/.m3u8", SCTV9 (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1203,7 +1215,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Iqmppj0nRt-fkMGExZYQWg","k":"LZ0kyurqQvi0TkE_4E8OXA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
 #EXTINF:-1 tvg-id="sctv9" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv9/-${start}-${offset}/.m3u8", SCTV9 (MPD)
-https://hoiquan.dpdns.org/VTVGo/?sctv9
+https://vmttv.dpdns.org/VTVGo/?sctv9
 
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv10/-${start}-${offset}/.m3u8", SCTV10 HD (SCTVOnline)
@@ -1211,7 +1223,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv10-0faf313b
 #EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv10/-${start}-${offset}/.m3u8", SCTV10 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hoiquan.dpdns.org/VTVGo/?sctv10
+https://vmttv.dpdns.org/VTVGo/?sctv10
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv11.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv11/-${start}-${offset}/.m3u8", SCTV11 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1220,7 +1232,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv10
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv11.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv11/-${start}-${offset}/.m3u8", SCTV11 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv11
+https://vmttv.dpdns.org/VTVGo/?sctv11
 
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv12.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv12/-${start}-${offset}/.m3u8", SCTV12 HD (MPD)
@@ -1230,7 +1242,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv11
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV12/Live_DASHDRM/SCTV12.mpd
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv12.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv12/-${start}-${offset}/.m3u8", SCTV12 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv12
+https://vmttv.dpdns.org/VTVGo/?sctv12
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv13.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv13/-${start}-${offset}/.m3u8", SCTV13 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1239,7 +1251,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv12
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV13/Live_DASHDRM/SCTV13.mpd
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv13.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv13/-${start}-${offset}/.m3u8", SCTV13 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv13
+https://vmttv.dpdns.org/VTVGo/?sctv13
 
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv14.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv14/-${start}-${offset}/.m3u8", SCTV14 HD (MPD)
@@ -1249,14 +1261,14 @@ https://hoiquan.dpdns.org/VTVGo/?sctv13
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv14.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv14/-${start}-${offset}/.m3u8", SCTV14 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv14
+https://vmttv.dpdns.org/VTVGo/?sctv14
 
-#EXTINF:-1 tvg-id="sctv15" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv15.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv15/-${start}-${offset}/.m3u8", SCTV15 HD (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://livebytsctbu.vtvprime.vn/mean/SCTV15HD/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv16.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv16/-${start}-${offset}/.m3u8", SCTV16 HD (MPD)
@@ -1266,15 +1278,15 @@ https://livebytsctbu.vtvprime.vn/mean/SCTV15HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv16.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv16/-${start}-${offset}/.m3u8", SCTV16 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv16
+https://vmttv.dpdns.org/VTVGo/?sctv16
 
 
-#EXTINF:-1 tvg-id="sctv17" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv17.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv17/-${start}-${offset}/.m3u8", SCTV17 HD (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://livebytsctbu.vtvprime.vn/mean/SCTV17/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv18.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv18/-${start}-${offset}/.m3u8", SCTV18 HD (MPD)
@@ -1284,7 +1296,7 @@ https://livebytsctbu.vtvprime.vn/mean/SCTV17/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AjPyNZhuSWSxBaYCH5EbHQ","k":"1-6CndN2SaSIuVWLTdIJ5g"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv18.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv18/-${start}-${offset}/.m3u8", SCTV18 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv18
+https://vmttv.dpdns.org/VTVGo/?sctv18
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv19.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv19/-${start}-${offset}/.m3u8", SCTV19 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1293,7 +1305,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv18
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bQjCb2NHT3a03ZHhr-9rJQ","k":"A7QPdL8iSh-NTH-5-qvNBA"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV19/Live_DASHDRM/SCTV19.mpd
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv19.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv19/-${start}-${offset}/.m3u8", SCTV19 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv19
+https://vmttv.dpdns.org/VTVGo/?sctv19
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv20.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv20/-${start}-${offset}/.m3u8", SCTV20 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1302,7 +1314,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv19
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"V6UVyL_2SPK2wShiRdeErQ","k":"V0HrrCf7QoWwlGKTzUvhOg"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv20.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv20/-${start}-${offset}/.m3u8", SCTV20 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv20
+https://vmttv.dpdns.org/VTVGo/?sctv20
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv21.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv21/-${start}-${offset}/.m3u8", SCTV21 HD (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1311,10 +1323,10 @@ https://hoiquan.dpdns.org/VTVGo/?sctv20
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JWM2It0xT4KjX8F5Gw0lwQ","k":"c3GFeBRuQ-Sp_20fXlZlDw"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv21.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv21/-${start}-${offset}/.m3u8", SCTV21 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv21
+https://vmttv.dpdns.org/VTVGo/?sctv21
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv22.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv22/-${start}-${offset}/.m3u8", SCTV22 HD (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png", SCTV22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
@@ -1327,7 +1339,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
 https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctvpth.png", SCTV Phim Tổng Hợp (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctvphim
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #EXTINF:-1 tvg-id="sctv4k" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4k.png", SCTV4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -2062,47 +2074,36 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1 (MPD)
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxmovie1.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
-https://liveh12.vtvprime.vn/hls/BM1/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hollywoodclassic.png", Hollywood Classics (MPD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hollywoodclassic.png", Hollywood Classics
-https://liveh12.vtvprime.vn/hls/HC/index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxhits.png", Box Hits (MPD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxhits.png", Box Hits
-https://liveh12.vtvprime.vn/hls/BOXHIT/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box (MPD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
-https://liveh12.vtvprime.vn/hls/MUSICBOX/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman (MPD)
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
-https://liveh12.vtvprime.vn/hls/WO/index.m3u8
-
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
 
 
 
