@@ -33,6 +33,8 @@ http://hoatv001.ddns.net/PHANMEM/admin.php?stream=f329e878e0c4234058d8d0ab884f11
 
 
 
+#EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/10/02/16/1790933604362/06aaada73ab3_640_360.png",Yfest (Hòa Nhạc Hai Ngón) 
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/the-grand-esport/KenhCoBan.m3u8
 
 
 #EXTINF:-1 tvg-id="tv360-9" group-title="🔴| Sự Kiện | TV360"  tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+ 9 (sv1)
@@ -857,7 +859,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvcplushd/KenhCoBan.m3u8
 #-*--SCTV-*--#.
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv1.png", SCTV1 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://vmttv.dpdns.org/VTVGo/?sctv1
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv2/-${start}-${offset}/.m3u8", SCTV2 HD - TODAY TV (VTVPrime)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -867,23 +869,23 @@ https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD - TODAY TV (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv2
+https://vmttv.dpdns.org/VTVGo/?sctv2
 
 
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv3
+https://vmttv.dpdns.org/VTVGo/?sctv3
 
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png", SCTV4 HD (MPD)
-https://hoiquan.dpdns.org/VTVGo/?sctv4
+https://vmttv.dpdns.org/VTVGo/?sctv4
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD (SCTVOnline)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv5-a3cdb592
 #EXTINF:-1 tvg-id="sctv5hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hoiquan.dpdns.org/VTVGo/?sctv5
+https://vmttv.dpdns.org/VTVGo/?sctv5
 
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://live.tvon.vn/hls/catchup/sctv6/-${start}-${offset}/.m3u8", SCTV6 HD (FPTPlay)
@@ -894,21 +896,21 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201&token=NinoEra36
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://live.tvon.vn/hls/catchup/sctv6/-${start}-${offset}/.m3u8", SCTV6 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hoiquan.dpdns.org/VTVGo/?sctv6
+https://vmttv.dpdns.org/VTVGo/?sctv6
 
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv7/-${start}-${offset}/.m3u8", SCTV7 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv7
+https://vmttv.dpdns.org/VTVGo/?sctv7
 
 
 
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv8.png", SCTV8 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv8
+https://vmttv.dpdns.org/VTVGo/?sctv8
 
 
 #EXTINF:-1 tvg-id="sctv9" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv9/-${start}-${offset}/.m3u8", SCTV9 (MPD)
-https://hoiquan.dpdns.org/VTVGo/?sctv9
+https://vmttv.dpdns.org/VTVGo/?sctv9
 
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv10/-${start}-${offset}/.m3u8", SCTV10 HD (SCTVOnline)
@@ -916,56 +918,56 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv10-0faf313b
 #EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv10/-${start}-${offset}/.m3u8", SCTV10 HD (VTVGo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hoiquan.dpdns.org/VTVGo/?sctv10
+https://vmttv.dpdns.org/VTVGo/?sctv10
 
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv11.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv11/-${start}-${offset}/.m3u8", SCTV11 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv11
+https://vmttv.dpdns.org/VTVGo/?sctv11
 
 
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv12.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv12/-${start}-${offset}/.m3u8", SCTV12 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv12
+https://vmttv.dpdns.org/VTVGo/?sctv12
 
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv13.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv13/-${start}-${offset}/.m3u8", SCTV13 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv13
+https://vmttv.dpdns.org/VTVGo/?sctv13
 
 
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv14.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv14/-${start}-${offset}/.m3u8", SCTV14 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv14
+https://vmttv.dpdns.org/VTVGo/?sctv14
 
 
 
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv16.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv16/-${start}-${offset}/.m3u8", SCTV16 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv16
+https://vmttv.dpdns.org/VTVGo/?sctv16
 
 
 
 
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv18.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv18/-${start}-${offset}/.m3u8", SCTV18 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv18
+https://vmttv.dpdns.org/VTVGo/?sctv18
 
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv19.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv19/-${start}-${offset}/.m3u8", SCTV19 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv19
+https://vmttv.dpdns.org/VTVGo/?sctv19
 
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv20.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv20/-${start}-${offset}/.m3u8", SCTV20 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv20
+https://vmttv.dpdns.org/VTVGo/?sctv20
 
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv21.png" catchup-source="https://live.tvon.vn/hls/catchup/sctv21/-${start}-${offset}/.m3u8", SCTV21 HD (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctv21
+https://vmttv.dpdns.org/VTVGo/?sctv21
 
 
 
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctvpth.png", SCTV Phim Tổng Hợp (VTVGo)
-https://hoiquan.dpdns.org/VTVGo/?sctvphim
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #EXTINF:-1 tvg-id="sctv4k" group-title="💚| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4k.png", SCTV4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
