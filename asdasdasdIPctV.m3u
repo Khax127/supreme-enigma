@@ -148,6 +148,25 @@ https://vmttv.dpdns.org/tv360/?id=360-tennis
 #EXTINF:-1 tvg-id="k-drama" group-title="📼| Hightlight | TV360"  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png",360 Tennis (sv2)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
+
+
+#EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/08/11_1791393164880.jpg", Event 2
+https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-nba-hn-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/10/poster-169-live_1791598238846.jpg", Dallas Mavericks - Houston Rockets
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fdb9cff07dd43af9fad552d9631fac9:e43600178f02741ce866dab3e9e285c5
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt-event-su-kien-37" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791346735523.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/thumbnail-live_1791551627198.jpg", Event 3
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/08/slide-thumb_1791433650132.jpg", Sự Kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791346919085.jpg", Sự Kiện 4
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play (Luồng FPT)" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
@@ -6090,10 +6109,6 @@ https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/khandaitv.webp" tvg-logo="https://khandai3.link/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg", BLV: Chim Nhỏ
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/2078786a76241c67bec79eac568d146f7ed7807358c1a776e879ce4a93601d14.jpg", BLV: Enzo (Kevin)
@@ -6114,6 +6129,50 @@ https://luong.phaohoa.live/live/phaohoa8/index.m3u8
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | KhanDaiTV" tvg-logo="https://khandai3.link/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png", BLV: Văn Minh
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/garung_avatar.jpeg", BLV Gà Rừng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub4/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1791530430519757982_65c83839.jpeg", BLV Khô Bò
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub12/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1790762364980612071_b1894429.jpg", BLV Khô Cay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub9/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1789432472656972536_2f775d77.jpeg", BLV Khô Chè
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub5/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/khomat_avatar.jpeg", BLV Khô Mật
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub13/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1790932946136979070_730ef30f.jpg", BLV Tam Mao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1791486382406372368_2749ce63.jpg", BLV Tày
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub10/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoibap_avatar.jpeg", BLV Xôi Bắp (Gà Tre)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub6/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoiga_avatar.jpeg", BLV Xôi Gà
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub2/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoigac_avatar.jpeg", BLV Xôi Gấc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub11/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" group-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoixeo_avatar.jpeg", BLV Xôi Xéo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub1/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoixoai_avatar.jpeg", BLV Xôi Xoài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub3/index.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg", BLV: A Ngao 
