@@ -229,20 +229,34 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/16/poster-169-live_1792123906623.jpg", 09:30 Giải Bóng Rổ NBA Preseason: Denver Nuggets vs Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fdb9cff07dd43af9fad552d9631fac9:e43600178f02741ce866dab3e9e285c5
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951749196.jpg", 11:00 Giải Golf SJM Macau Open 2026 - Vòng 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951530823.jpg", 12:30 Giải Golf SJM Macau Open 2026 - Vòng 2
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999869440.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 16/10
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999985552.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 17/10
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791950976943.jpg", 13:30 Giải Golf DP World India Championship 2026 - Vòng 2
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951078584.jpg", 13:30 Giải Golf DP World India Championship 2026 - Vòng 2
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999220885.jpg", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 16/10
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999330260.jpg", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 17/10
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play"  tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791943108805.jpg", 16:45 Vòng 03 Giải Bóng Đá Hạng Nhất Quốc Gia Sacombank National Cup (V.League 2) - 2026/27 : Bình Minh Sài Gòn vs Quy Nhơn United
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-
-
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791943481596.jpg", 15:15 Vòng 03 Giải Bóng Đá Hạng Nhất Quốc Gia Sacombank National Cup (V.League 2) - 2026/27 : Lâm Đồng vs Đại Học Văn Hiến 
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791943928892.jpg", 16:45 Vòng 03 Giải Bóng Đá Hạng Nhất Quốc Gia Sacombank National Cup (V.League 2) - 2026/27 : Thép Cần Thơ vs Xuân Thiện Phú Thọ
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791959917980.jpg", 16:45 Vòng 04 Giải Bóng Đá Vô Địch Quốc Gia LPBank V.League 1 - 2026/27 : Thanh Hóa vs Thép Xanh Nam Định
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791966343066.jpg", 17:45 Vòng 04 Giải Bóng Đá Vô Địch Quốc Gia LPBank V.League 1 - 2026/27 : SHB Đà Nẵng vs Hải Phòng
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791960325812.jpg", 17:45 Vòng 04 Giải Bóng Đá Vô Địch Quốc Gia LPBank V.League 1 - 2026/27 : Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An
+https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/16/slide-thumb_1792135758516.jpg", 03:50 Giải Boxing UFC Fight Night: Buckley vs Malott
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 
 
 
@@ -353,13 +367,16 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/ma
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
 
 
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 16/10 (Luồng Onlive)
+
+
+
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 17/10 (Luồng Onlive)
 https://global-media.onlive.vn/live/lienquan/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999869440.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 16/10 (Luồng FPT Play)
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999985552.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 17/10 (Luồng FPT Play)
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 16/10  (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999220885.jpg", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 16/10 (Luồng FPT Play)
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999330260.jpg", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 17/10 (Luồng FPT Play)
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 12:00 Vòng Chung Kết Giải Esport FC Mobile Vietnam Super League 2026 (Luồng Onlive)
 https://global-media.onlive.vn/live/2689853266/master.m3u8
@@ -6545,9 +6562,9 @@ https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.flv
 https://playback.livetl006.com/live/6a0c7c4b1ae4d6db02433c48.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://bucket.antlive.pro/7f48cb6be263b855a4ef00efe73c08fa-1772263379587-photo_2026-02-28_13-24-03.jpg", BLV CỐ TƯ NGHIÊM
 https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CRIS
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://bucket.antlive.pro/e3328526808d4d9729d12a95fe4241ad-1778870622094-cropped_hinh-nen-mu-100-hinh-anh-manchester-united-dep-nhat-1387-26.jpg", BLV CRIS
 https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.flv
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV ĐOÀN DỰ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://gavanglinkx.tv/app/themes/ba-theme/public/build/assets/football-player-DTv3cl-L.svg", BLV ĐOÀN DỰ
 https://playback.livetl006.com/live/6a5df755b89dded67b39b8bc.flv
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv1" tvg-logo="https://bucket.antlive.pro/c2a9b4eed973b951079db8d246a4594a-1788554412655-photo_2026-07-27_22-08-37.jpg", BLV GIÀNG A DÂN
 https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv
@@ -6583,9 +6600,9 @@ https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://bucket.antlive.pro/7f48cb6be263b855a4ef00efe73c08fa-1772263379587-photo_2026-02-28_13-24-03.jpg", BLV CỐ TƯ NGHIÊM
 https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CRIS
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://bucket.antlive.pro/e3328526808d4d9729d12a95fe4241ad-1778870622094-cropped_hinh-nen-mu-100-hinh-anh-manchester-united-dep-nhat-1387-26.jpg", BLV CRIS
 https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV ĐOÀN DỰ
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://gavanglinkx.tv/app/themes/ba-theme/public/build/assets/football-player-DTv3cl-L.svg", BLV ĐOÀN DỰ
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Gà Vàng 24h | sv2" tvg-logo="https://bucket.antlive.pro/c2a9b4eed973b951079db8d246a4594a-1788554412655-photo_2026-07-27_22-08-37.jpg", BLV GIÀNG A DÂN
 https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8
@@ -6637,7 +6654,7 @@ https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
 
 
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/garung_avatar.jpeg", BLV Gà Rừng
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" group-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/garung_avatar.jpeg", BLV Gà Rừng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.khoga.space/live/livehub4/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/avatars/1791530430519757982_65c83839.jpeg", BLV Khô Bò
@@ -6667,7 +6684,7 @@ https://live.khoga.space/live/livehub2/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoigac_avatar.jpeg", BLV Xôi Gấc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.khoga.space/live/livehub11/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" group-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoixeo_avatar.jpeg", BLV Xôi Xéo
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoixeo_avatar.jpeg", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.khoga.space/live/livehub1/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche2.live/media-thumb/avatar/commentators/avatars/xoixoai_avatar.jpeg", BLV Xôi Xoài
