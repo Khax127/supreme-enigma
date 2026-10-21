@@ -229,20 +229,41 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play 
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792406931097.jpg",07:50 Vòng 1/32 Giải Pickleball Hong Kong Slam 2026: Ngày 20/10 - Buổi Sáng
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/bg-169-live-copy_1792490300216.jpg",02: Giải Bóng Rổ NBA Preseason: Boston Celtics vs Detroit Pistons
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fdb9cff07dd43af9fad552d9631fac9:e43600178f02741ce866dab3e9e285c5
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/poster-169-live_1792490467960.jpg",06:00 Giải Bóng Rổ NBA Preseason: Cleveland Cavaliers - Orlando Magic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fdb9cff07dd43af9fad552d9631fac9:e43600178f02741ce866dab3e9e285c5
+https://vips-livecdn.fptplay.net/live/media/event-35/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/slide-thumb_1792467500022.jpg",07:50 Vòng 1/16 Giải Pickleball Hong Kong Slam 2026: Ngày 21/10 - Buổi Sáng
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/poster-169-live_1792490599735.jpg",08:30 Giải Bóng Rổ NBA Preseason: Cleveland Cavaliers - Orlando Magic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fdb9cff07dd43af9fad552d9631fac9:e43600178f02741ce866dab3e9e285c5
+https://vips-livecdn.fptplay.net/live/media/su-kien-84/dash_a_drm/index.mpd
 #EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/02/26/bglive24_1772072627567.jpg",11:30 Bản Tin Thể Thao 24h+ 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792407020553.jpg",13:50 Vòng 1/32 Giải Pickleball Hong Kong Slam 2026: Ngày 20/10 - Buổi Chiều
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792420950118.jpg",13:55 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nữ: MVG Lào Cai 1 vs Công An Nhân Dân
-https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792421024306.jpg",15:25 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nữ: Hà Nội vs W.Dwarf By VNSPORT
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/slide-thumb_1792467610977.jpg",12:50 Vòng 1/16 Giải Pickleball Hong Kong Slam 2026: Ngày 21/10 - Buổi Chiều
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792421106377.jpg",16:55 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nam: Đà Nẵng - 3F Cần Thơ By BDA
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/21_1792487239437.jpg",14:45 Vòng Loại Giải Esport FC Pro Mobile World Championship 2026 - Ngày 21/10
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/slide-thumb_1792467947558.jpg",14:55 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nam: 3F Cần Thơ By BDA vs Phòng Không Không Quân Peak
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/slide-thumb_1792468034522.jpg",16:25 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nam: Đà Nẵng vs Chicken Dunk
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792421203107.jpg",18:55 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nam: Hà Nội Wolves vs Phòng Không Không Quân Peak
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/19/slide-thumb_1792420950118.jpg",18:25 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nữ: Công An Nhân Dân vs W.Dwarf By VNSPORT
 https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/slide-thumb_1792468171631.jpg",19:55 Giải Vô Địch Bóng Rổ 5x5 Cúp Các CLB Quốc Gia năm 2026 (Tranh Cúp GMB League) - Nội Dung Nữ: MVG Lào Cai 1 vs MVG Lào Cai 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+
 
 
 
@@ -369,18 +390,14 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/
 
 
 
-
-
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 17/10 (Luồng Onlive)
-https://global-media.onlive.vn/live/lienquan/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/18_1792000144770.jpg", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 18/10 (Luồng FPT Play)
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 14:45 Vòng Loại Giải Esport FC Pro Mobile World Championship 2026 - Ngày 21/10 (Luồng Onlive)
+https://global-media.onlive.vn/live/2689853266/master.m3u8
+#EXTINF:-1 group-title="🔴| Sự Kiện | FPT Play" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/21_1792487239437.jpg",14:45 Vòng Loại Giải Esport FC Pro Mobile World Championship 2026 - Ngày 21/10 (Luồng FPT Play)
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 16/10  (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/18_1791999431342.jpg", 15:00 Giải Esport FC Pro Champions Cup 2026 - Ngày 18/10 (Luồng FPT Play)
-https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 12:00 Vòng Chung Kết Giải Esport FC Mobile Vietnam Super League 2026 (Luồng Onlive)
-https://global-media.onlive.vn/live/2689853266/master.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 17/10 (Luồng Onlive)
+https://global-media.onlive.vn/live/lienquan/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewcfps.webp",17:45 Giải Esports World Cup - CrossFire (Đột Kích) - Vòng Bảng - Ngày 21/08 (Luồng Onlive)
 https://global-media.onlive.vn/live/ewcfps/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewclol.webp",16:45 Esports World Cup - LMHT - Tranh Hạng Ba & Chung Kết - Ngày 19/7 (Luồng Onlive)
