@@ -265,7 +265,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/ae/ee/ef/f2/20/00/aeef2-pvtv5tynguynhd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}" , VTV5 Tây Nguyên (VTVGo) 
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/cd/d0/0f/f7/7c/cc/cd0f7-pvtv6hd-channel-unkn.png", VTV6 (VTVGo) 
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/6d/d8/8e/e7/73/3e/6d8e7-pvtv7hd-channel-unkn.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (VTVGo) 
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/9d/dd/d8/8e/e2/20/9dd8e-pvtv8hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (VTVGo) 
@@ -273,7 +273,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV"  tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/a2/23/3d/db/bb/b0/a23db-pvtv9hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (VTVGo) 
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="📦| VTV" tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/91/13/3a/af/f0/0d/913af-pvtv10hd-channel-unkn.png"  catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", VTV10 (VTVGo) 
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv10/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📦| VTV"  tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/icon_channel_vietnam-today_175705565938.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", Vietnam Today (VTVGo)   
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
 
@@ -5370,11 +5370,18 @@ https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
-https://cdn.saigon999.live/live/live01.m3u8
+https://gn-live.saigon999.live/live01/live01@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/vCcFS6vQ/signal-2026-10-21-150349.jpg", BLV: Người Chè
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp0gm_DZGG6o4M1ZkucbSjAVp3tdVoL1qgacMXFFNgMmsd9ehQFpDrfQ&s=10", BLV: Lavie
-https://cdn.saigon999.live/live/live02.m3u8
+https://gn-live.saigon999.live/live02/live02@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT361_VG3RfyD1aTKVPo1PvMIED4RAEexmnvFvHQtx7x7mXQBuzDUsfrPmh&s=10", BLV: Long Ca
+https://gn-live.saigon999.live/123longca/123longca@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://www.planocritico.com/wp-content/uploads/2016/12/Thor-Ragnarok-Sem-Spoilers.jpg", BLV: Thép
+https://gn-live.saigon999.live/123thep/123thep@hnstream.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://png.pngtree.com/png-vector/20240918/ourlarge/pngtree-wodka-vodka-200ml-copake-wine-works-png-image_13866683.png", BLV: Vodka
-https://cdn.saigon999.live/live/live03.m3u8
+https://gn-live.saigon999.live/live03/live03@hnstream.m3u8
+
 
 
 
