@@ -345,17 +345,16 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
 #EXTINF:-1 group-title="🔴| Sự Kiện | VTVGo" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/9e6eb8e2-7b39-4a3d-8f68-30c5872d9285-VTVgo-Du-Lich-THUMBNAIL-KENH-VTVgo-500x281.png", VTVGo - Du Lịch 
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
 
-
-
-
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/29/co-title-mb_1793210758733.jpg", 13:00 Giải đấu TTĐT Thế hệ số Toàn quốc 2026: Liên Quân Mobile Miền Bắc - 29/10
-https://cdn-livestream.fangtv53.net/ftvstream/17f0153e7ed5406b9a0ed43d9144b4fd0c7d0a6c/manifest.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 14:45 Giải đấu FC Mobile Student Cup 2026 - Chung Kết (Luồng Onlive)
+https://cdn-live.onlive.vn/livehttporigin/smil:onlivev2-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fangtv.vn/media_v2/upload/2026/10/31/co-title_242027547984924672.jpg", 13:00 Giải đấu FC Mobile Student Cup 2026 - Chung Kết (Luồng FPT)
+https://cdn-livestream.fangtv53.net/ftvstream/2250aca7b3fd91e8ee367f14535c4ebd226d2627/manifest.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/29/co-title-mb_1793210758733.jpg", 15:05 Chung KếtGiải đấu TTĐT Thế hệ số Toàn quốc 2026: Liên Quân Mobile Miền Bắc - 29/10
+https://cdn-livestream.fangtv53.net/ftvstream/b0c8da15e35ebeab81eed636af8375fd2f0e0416/manifest.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/29/co-title-mn_1793210246472.jpg", 13:00 Giải đấu TTĐT Thế hệ số Toàn quốc 2026: Liên Quân Mobile Miền Nam - 29/10
 https://cdn-livestream.fangtv53.net/ftvstream/59fe0d13fe767bd11b266cc919ff3c3183f9e2f2/manifest.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/lienquan.webp", 13:00 14:00 Giải Esport Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 24/10 (Luồng Onlive)
 https://global-media.onlive.vn/live/lienquan/master.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/2689853266.webp", 14:45 Giải Esport FC Pro Mobile World Championship 2026 - Ngày 24/10 (Luồng Onlive)
-https://global-media.onlive.vn/live/2689853266/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/fconlineclub.webp", 15:00 Vòng Loại Giải Esport FC Pro Mobile World Championship 2026 - Ngày 22/10 (Luồng Onlive)
 https://global-media.onlive.vn/live/fconlineclub/master.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://static-v2.onlive.vn/image/channel/profile/ewcfps.webp",17:45 Giải Esports World Cup - CrossFire (Đột Kích) - Vòng Bảng - Ngày 21/08 (Luồng Onlive)
