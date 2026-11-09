@@ -4596,12 +4596,30 @@ https://live.khoga.space/live/livehub1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8
 
+
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
+https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/gZdNtFhT/images5417003-13-8-1.jpg", BLV: Nắng (Người Chè)
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://theselfishmeme.co.uk/wp-content/uploads/2025/11/meme-an-gi-cung-duoc-35.webp", BLV: Bánh Mỳ
+https://gn-live.saigon999.live/banhmi/banhmi@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp0gm_DZGG6o4M1ZkucbSjAVp3tdVoL1qgacMXFFNgMmsd9ehQFpDrfQ&s=10", BLV: Lavie
+https://ivsplay.saigon999.live/live/live05.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT361_VG3RfyD1aTKVPo1PvMIED4RAEexmnvFvHQtx7x7mXQBuzDUsfrPmh&s=10", BLV: Long Ca
+https://gn-live.saigon999.live/123longca/123longca@hnstream.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://www.planocritico.com/wp-content/uploads/2016/12/Thor-Ragnarok-Sem-Spoilers.jpg", BLV: Thép
+https://ivsplay.saigon999.live/live/live07.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nbiVH25Tw2ctkvsjiFJlbq18divCew5Zk_IBip6gEqXZraMl-mAoNH4a&s=10", BLV: T-Rex
+https://play.saigon8386.live/live_8e01a20967a65b5d/index.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://png.pngtree.com/png-vector/20240918/ourlarge/pngtree-wodka-vodka-200ml-copake-wine-works-png-image_13866683.png", BLV: Vodka
+https://gn-live.saigon999.live/live03/index-8386live.m3u8
+
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)" group-logo="https://xoigac.top/images/logo-full.webp" tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/6b83f129-917c-4c50-8a45-5d10e027e24b.png", BLV Joker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/e9b20e1a-2f99-49bf-a1db-186b4f38cc09.png", BLV The Flash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.WfkSLD0pjbRb.m3u8
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4WluE1OWtqbY.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/28d05eab-13ed-4012-b042-4bc76e42c99c.png", BLV Superman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
@@ -4628,30 +4646,13 @@ https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-nort
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/03/cdb2ddba-2c09-47f6-aeef-02e985eae7aa.png", BLV Dr Strange
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.tl0rrSwVvwpX.m3u8
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.w9G8uRXdW6zr.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/06/4c98e78b-2241-4e2d-b43f-9b195e1656c2.png", BLV Speed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
-
-
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/gZdNtFhT/images5417003-13-8-1.jpg", BLV: Nắng (Người Chè)
-https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://theselfishmeme.co.uk/wp-content/uploads/2025/11/meme-an-gi-cung-duoc-35.webp", BLV: Bánh Mỳ
-https://gn-live.saigon999.live/banhmi/banhmi@hnstream.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp0gm_DZGG6o4M1ZkucbSjAVp3tdVoL1qgacMXFFNgMmsd9ehQFpDrfQ&s=10", BLV: Lavie
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT361_VG3RfyD1aTKVPo1PvMIED4RAEexmnvFvHQtx7x7mXQBuzDUsfrPmh&s=10", BLV: Long Ca
-https://gn-live.saigon999.live/123longca/123longca@hnstream.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://www.planocritico.com/wp-content/uploads/2016/12/Thor-Ragnarok-Sem-Spoilers.jpg", BLV: Thép
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nbiVH25Tw2ctkvsjiFJlbq18divCew5Zk_IBip6gEqXZraMl-mAoNH4a&s=10", BLV: T-Rex
-https://play.saigon8386.live/live_8e01a20967a65b5d/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://png.pngtree.com/png-vector/20240918/ourlarge/pngtree-wodka-vodka-200ml-copake-wine-works-png-image_13866683.png", BLV: Vodka
-https://gn-live.saigon999.live/live03/index-8386live.m3u8
-
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/09/25/e83c8b4f-cde7-4ae7-877d-f594cbd802ec.png", BLV Raccoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.tyv3PCyFmo0z.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | FHD" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/chuoichientv.webp" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg", BLV: A Ngao 
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
