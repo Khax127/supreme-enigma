@@ -4640,7 +4640,7 @@ https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8
 https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/commentators/avatars/khomat_avatar.jpeg", BLV Khô Mật
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u88
+https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/avatars/1790932946136979070_730ef30f.jpg", BLV Tam Mao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8
@@ -4666,6 +4666,42 @@ https://live.khoga.space/live/livehub1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8
 
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)" group-logo="https://xoigac.top/images/logo-full.webp" tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/6b83f129-917c-4c50-8a45-5d10e027e24b.png", BLV Joker
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/e9b20e1a-2f99-49bf-a1db-186b4f38cc09.png", BLV The Flash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.WfkSLD0pjbRb.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/28d05eab-13ed-4012-b042-4bc76e42c99c.png", BLV Superman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/bdda3270-cad4-4331-b6a3-c31223f04873.png", BLV Iron Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/7229bb25-a36c-439d-af33-e21b4c19f319.png", BLV Hawk Eye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/a72a282f-6314-4942-9a62-de986ca0b7ff.png", BLV Black Panther
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/10/26/52452aa0-a4d1-4b5d-9436-6ce3141c55d7.png", BLV Thanos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/6c45e6cf-fc38-473a-966b-1570aaafc189.png", BLV Deadpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/10/26/9654676d-485e-4642-a253-89785fd5e7e5.png", BLV Moon Knight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/03/327d283c-3f6f-40dc-afcc-aac99a79c8c2.png", BLV Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/03/cdb2ddba-2c09-47f6-aeef-02e985eae7aa.png", BLV Dr Strange
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.tl0rrSwVvwpX.m3u8
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/06/4c98e78b-2241-4e2d-b43f-9b195e1656c2.png", BLV Speed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
 
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
