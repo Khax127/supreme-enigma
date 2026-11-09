@@ -5177,7 +5177,7 @@ https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/e9b20e1a-2f99-49bf-a1db-186b4f38cc09.png", BLV The Flash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.WfkSLD0pjbRb.m3u8
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4WluE1OWtqbY.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/08/27/28d05eab-13ed-4012-b042-4bc76e42c99c.png", BLV Superman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
@@ -5204,11 +5204,13 @@ https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-nort
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/03/cdb2ddba-2c09-47f6-aeef-02e985eae7aa.png", BLV Dr Strange
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.tl0rrSwVvwpX.m3u8
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.w9G8uRXdW6zr.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/11/06/4c98e78b-2241-4e2d-b43f-9b195e1656c2.png", BLV Speed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8
-
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Gấc TV (Thử Nghiệm)"  tvg-logo="https://xoigac.top/uploads/streamers/2026/09/25/e83c8b4f-cde7-4ae7-877d-f594cbd802ec.png", BLV Raccoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.tyv3PCyFmo0z.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
 https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
