@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://epg.blaosolar.vn/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz"
+#EXTM3U url-tvg="https://fastschedule.quanlehong539.workers.dev/epg.xml"
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 #EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
+
 
 #-*-- Livestream -*--#
 
@@ -4556,7 +4558,7 @@ https://playback.livetl004.com/live/6ae349718d80cc041d063e08.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://raw.githubusercontent.com/Khax127/supreme-enigma/refs/heads/main/img/nembientv.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
 https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/gZdNtFhT/images5417003-13-8-1.jpg", BLV: Nắng (Người Chè)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/LDm6VbyW/signal-2026-11-09-20-21-05-436-002.jpg", BLV: Nắng (Người Chè)
 https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://theselfishmeme.co.uk/wp-content/uploads/2025/11/meme-an-gi-cung-duoc-35.webp", BLV: Bánh Mỳ
 https://gn-live.saigon999.live/banhmi/banhmi@hnstream.m3u8
@@ -4612,7 +4614,7 @@ https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8
 
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" group-logo="https://khandaia.one/assets/image/nblogo.png" tvg-logo="https://khandaia.one/assets/image/kakablv.png", BLV: KaKa
 https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/gZdNtFhT/images5417003-13-8-1.jpg", BLV: Nắng (Người Chè)
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://i.ibb.co/LDm6VbyW/signal-2026-11-09-20-21-05-436-002.jpg", BLV: Nắng (Người Chè)
 https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Ném Biên TV" tvg-logo="https://theselfishmeme.co.uk/wp-content/uploads/2025/11/meme-an-gi-cung-duoc-35.webp", BLV: Bánh Mỳ
 https://gn-live.saigon999.live/banhmi/banhmi@hnstream.m3u8
