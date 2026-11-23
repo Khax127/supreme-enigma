@@ -1716,15 +1716,19 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD) (sv1) 
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Korean-Central-Television.png", KCTV (SD)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Korean-Central-Television.png", KCTV (HD) (sv1) 
 https://stream.intchoson.com/kctv/index.m3u8
-#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD) (sv2) 
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Korean-Central-Television.png", KCTV (HD) (sv2) 
 https://live.koryocdn.org/kctv/index.m3u8
-#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Mansudae_tv_logo.svg", Mansudae TV (HD) (Kênh Giải Trí) 
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Mansudae-TV.png", Mansudae TV (HD) (Kênh Giải Trí) 
 https://live.koryocdn.org/mansudae/index.m3u8
-#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/RyongnamsanTV_DPRK.png", Ryongnamsan TV (HD) (Kênh Kiến Thức)
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Ryongnamsan-tv.png", Ryongnamsan TV (HD) (Kênh Kiến Thức)
 https://live.koryocdn.org/ryongnamsan/index.m3u8
-#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/%EC%B2%B4%EC%9C%A1%ED%85%94%EB%A0%88%EB%B9%84%EC%A3%A4.svg", 체육 TV (HD) (Kênh Thể Thao)
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="https://resources-juchetv.vercel.app/channels/assets/images/Sports-TV.png", 체육 TV (HD) (Kênh Thể Thao)
 https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇵| Triều Tiên" tvg-logo="http://www.vok.rep.kp/resources/img/logo_k.png", KCBS (Hệ Thống Phát Thanh Truyền Hình Trung Ương Hàn Quốc) (sv1)
 https://stream.intchoson.com/kcbs/index.m3u8
