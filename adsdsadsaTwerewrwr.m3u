@@ -4600,7 +4600,7 @@ https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/avatars/1790932946136979070_730ef30f.jpg", BLV Tam Mao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8
-#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/commentators/avatars/xoiga_avatar.jpeg", BLV Lương Khô
+#EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/commentators/avatars/xoiga_avatar.jpeg", BLV Khầy Lương Khô
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/53
 https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | Xôi Chè TV" tvg-logo="https://xoiche3.live/media-thumb/avatar/commentators/avatars/xoiga_avatar.jpeg", BLV Xôi Gà
@@ -4883,4 +4883,3 @@ https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.o
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/tanmuc/playlist.m3u8
 #EXTINF:-1 group-title="⚽️ Bình loạn bóng đá | ChuoiChienTV | HD2" tvg-logo="https://media.chuoichientv.net/media/20260603_204010_a1bf01ac.jpg", BLV: Trốc Tru 
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
